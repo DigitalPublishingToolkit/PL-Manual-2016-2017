@@ -1,207 +1,97 @@
-#1 Introduction 
-
+<!--A cover needs to be added-->
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
+Pr-id: PublishingLab manual 
+P-id: Manual
+A-id: semester 2016-2017
+Type: manual
+Book-type: manual
+Anthology item: manual
 Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: PulbishingLab team
+Author-email:   m.riphagen@hva.nl
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+#<span style="font-variant:small-caps;">PUBLISHINGLAB MANUAL 2016-2017
 
-![](media/image1.png)![](media/image2.png)
+## <span id="colophon" class="anchor"><span id="colophon" class="anchor"></span></span>Colophon
 
-<span id="GoBack" class="anchor"></span>
+#### [ABOUT](#about)
+#### [WHO WE ARE](#whoarewe)
+#### [WHO OUR INTERNS ARE] (#whoareinternsare)
+#### [WHO OUR PARTNERS ARE] (#whoarepartnersare)
+#### [WHAT WE DO] (#whatwedo)
 
-COLOPHON
+#### [LAB] (#lab)
+#### [MULTIDISCIPLINARY AND MULTICULTURAL TEAMWORK] (#teamwork)
+#### [LANGUAGE] (#language)
+#### [COMMUNICATION STYLES] (#communication)
+#### [HIERARCHY] (#hierarchy)
+#### [CONFLICT] (#conflict)
+#### [PRESENTING YOUR WORK] (#presenting)
+#### [BLOG] (#blog)
+#### [SHARING, WORKING AND DOCUMENTATION] (#documentation)
 
-<span id="_TOCRange" class="anchor"></span>
+#### [PROCESS] (#process)
+#### [DESIGN PROCESS] (#designproces)
+#### [RESEARCH, TRANSLATE AND CREATE] (researchtranslatecreate)
+#### [SCRUM] (#scrum)
+#### [SPRINTS] (#sprints)
+#### [RITUALS] (#rituals)
 
-ABOUT 4
+#### [INTERESTING READS] (#reads)
+#### [RESOURCES] (#resources)
+#### [PREPARATION] (#preparation)
+#### [HYBRID PUBLISHING WORKFLOW] (#HPW)
+#### [UX PRINCIPLES] (#UX)
+#### [CODE] (#code)
 
-WHO WE ARE 5
+#### [RULES OF THUMB] (#rulesofthumb)
 
-APPLIED RESEARCH 5
+------
 
-AMSTERDAM CREATIVE INDUSTRIES NETWORK 5
+##<span id="about"></span>ABOUT
+Welcome to [PublishingLab] (http://publishinglab.org), this section tells you a bit about who we are, who our students are and who our partners are. You can also  nd an overview of what we do.
 
-CREATE-IT 5
+###<span id="whoarewe"></span>WHOW ARE WE
+The PublishingLab is an applied research lab in the  eld of hybrid publishing working at the intersection of publishing and digital technology, both in print and digitally. We are part of ACIN, Create-IT and the Amsterdam University of Applied Sciences.The world of digital publishing has been growing steadily for several years. The arrival of tablets and smartphones has ac- celerated the developments, and today it is impossible to imagine a media landscape without e-books, newspaper apps, and digital magazines. Digitalization is turning the  eld upside down! This is where the PublishingLab comes in. 
 
-WHO OUR STUDENTS ARE 5
+The PublishingLab is part of the [Amsterdam Creative Industries Network](http://www.amsterdamcreativeindustries.com). The Amsterdam Creative Industries Network (ACIN) is the Dutch national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. 
+Publishing is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and for consulting the industry. Together with the [Institute of Network Cultures] (http://networkcultures.org), PublishingLab is located in the center of the Amstel Campus Amsterdam.
 
-WHO OUR PARTNERS ARE 6
+###<span id="whoourinternsare"></span>WHO OUR INTERS ARE
+PublishingLab works with students from di erent backgrounds, offering a range of opportunities to its students – from experimenting with digital publishing work ows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to  t the needs of the project. We’re looking for motivated people who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
+###<span id="whoourpartnersare"></span>WHO OUR PARTNERS ARE
+PublishingLab works with various clients, ranging from government institutions, Dutch SMEs, and large international corporations in the  eld of digital media and publishing.Our projects are always shaped in co-creation with our partners. During the projects the PublishingLab brings in a network of Amsterdam’s creative industries. Recent partners have included Persgroep Nederland, WeekbladpersGroep, UNStudio, Canon, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek, rekto:verso, Archined, Piet Zwart Institute and many others.
+
+###<span id="whatwedo"></span>WHAT WE DO
+PublishingLab activities are directed towards the following three groups: 
 
-WHAT WE DO 6
+1. makers (authors, designers);2. intermediaries (publishers);3. end users (readers / students).
+The PublishingLab conducts applied research by doing innovative experiments in the  eld of (digital) publishing. This includes research on the impact of developments on the branch as a whole, conducting small experiments in the  eld of EPUB3 (such as research/work on user interfaces for collaborative online editing environments), research/work on conveying hybrid publishing concepts and work ows to a non-expert audience or experiments with the aim of solving interesting design problems.
 
-PROGRAMME 8
+##<span id="lab"></span>LAB: HOW TO
+This section is about how to conduct yourself in the lab, how to work in the team, and how to present your work.###<span id="teamwork"></span>MULTIDISCIPLINARY AND MULTICULTURAL TEAMWORKAt PublishingLab you will work in a team of people with different skill sets and from different educational and cultural backgrounds. These differences can have an impact on how a team works together. Working in a team with a varied composition therefore requires a special attitude, both professionally and socially. Here are some things you should take into account.###<span id="language"></span>LANGUAGEMultidisciplinary and intercultural teams are great for creative processes. However, when people who work together have different languages, this can be an obstacle to success. Speaking in your mother tongue is very different from speaking in a second or third language. So please consider your words carefully; there are issues of interpretation, but also of cultural differences, especially when the spoken language is not the  rst language for either of you. Use visuals, write down your ideas, sketch. Make sure you understand each other.
+###<span id="communication"></span>COMMUNICATION STYLESMethods of communication that are normal for one group of people may appear ineffective or inappropriate to another group. A person from a culture in which loud voices and interruptions are not seen as aggressive may intimidate someone from a culture that teaches more reserved modes of expression. Learning in advance about the cultures of your team members before you start working with them can help you understand their methods of communication.###<span id="hierarchy"></span>HIERARCHYThe importance of authority varies greatly between cultures. Some groups give great respect to people in positions of authority, while people from other cultures are perfectly willing to question an authority  gure if they see them doing something wrong. Authority is based on di erent criteria in di erent cultures.###<span id="conflict"></span>CONFLICTWhen con ict does occur within a team, members from di erent backgrounds may react to it in dramatically di erent ways. Some people will repress their reactions to an insult, while others will  ght back. These reactions are based on individual personality to some extent but are also conditioned by a person’s background.Resolving con ict requires:
+• listening to the other person(s) calmly• an understanding of everyone’s view of what caused the con ict• being open and respectful to each other’s backgroundYou can ask your coach to mediate if you feel your attempts are not working.
+###<span id="presenting"></span>PRESENTING YOUR WORKAt the end of the design process you will have the opportunity to share with the world what you have created. We use the website as a communication portal for all our projects, but you will also have the opportunity to present your results to the creative industry during a  nal event.
 
-DESIGN PROCESS 9
+###<span id="blog"></span>BLOGOne of the PublishingLab’s most important communication channels is its blog. Here, project teams keep followers and friends updated on the latest developments and insights in their projects or in related  elds. As a team we trust you are just as proud as we are of our work, and just as keen to share its news on a regular basis. In the  rst week you will learn how our blog works and how you can best communicate and promote your team’s work there. You will be expected to write a blog post at least once a month during your internship.
+###<span id="documentation"></span>SHARING, WORKING AND DOCUMENTATIONTo work together e ciently you’ll need tools to collaborate on projects, share documents and calendars, and commu- nicate. There are huge numbers of digital tools to help you with this: use them! The right tools will put the most relevant information within easy reach.See the tools section on our website for inspiration.
 
-RESEARCH, TRANSLATE AND CREATE 9
 
-SCRUM 9
+##<span id="process"></span>PROCESSThis section explains how we work: the process and design methods for completing your project.##<span id="designprocess"></span>DESIGN PROCESSOne of the methods we use, is the MediaLAB Amsterdam design process <!--insert link to design process-->, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to  nd answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.![](imgs/figure1.png) <!--image of bad quality, but gives an idea of what is desired. symbol can be changed.-->
+Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source Manual MediaLAB Design Process 2014).##<span id="researchtranslatecreate"></span>RESEARCH, TRANSLATE AND CREATEAt the start of every design challenge, and afterwards, at the start of each new stage in the design process, research has a central role. Research provides plenty of insights; how people act/think/feel and who the intended users are, within the context of the challenge.These insights are the key to a solution, but they have to be translated into actual design requirements: which are key for the optimal solution? This is something that can be decided on the basis of research, and implemented and tested by creating a prototype. A next step might be to research again into what you created by setting up a test with users. During the project there is a constant two-way  ow: from research through translation to creation, and from creation through translation to research.##<span id="scrum"></span>SCRUMScrum is an iterative and incremental process for the design and development of products and services, and it has a very speci c way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework.This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The  ow of the design process is embed-ded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.##<span id="sprints"></span>SPRINTSA ‘sprint’ (or iteration) is the basic unit of development. The sprint is a ‘timeboxed’ e ort; that is, it is restricted to a specif- ic duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to  t and perform more sprints within those scheduled three weeks.##<span id="rituals"></span>RITUALSSpeci c ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid- sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
+ 
 
-SPRINTS 10
+Figure 2. MediaLAB Amsterdam Design Process (source Manual MediaLAB Design Process 2014).1 — DAILY STAND-UP MEETINGSThe daily stand-up meeting takes place at the same time and place of every working day. The daily scrum meeting is held in the morning, as it helps set the context for the coming day’s work. These scrum meetings are strictly time-boxed to 15 minutes. This keeps the discussion brisk but relevant.The daily stand-up meeting is not used as a problem-solving or issue resolution meeting. Issues raised are usually dealt with immediately after the meeting. During the daily scrum, each team member answers the following three questions:a) – What did you do yesterday?b) – What will you do today?c) – Are there any barriers in your way?2 — IDEATION AND PLANNINGEvery sprint has a ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identi ed and quickly sketched. The most promising ideas are placed in a hierarchy and it is decided which have potential to be taken along in the sprint. After this, tasks are identi ed, but more importantly the exact sprint goal (and duration) is de ned. It is important to have a very clear goal, so that the team can break the e ort down into smaller-sized pieces that contribute to achieving that goal more smoothly,3 — TRANSLATE AND TRANSFERIn the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the pro- ject-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).4 — SPRINT REVIEWAfter the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Speci cally, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.5 — SPRINT RETROSPECTIVEA ‘sprint retrospective’ or ‘peer pitch’ is held at the very end of each sprint. This is a meeting to re ect on both the results and the processes with the team. It is meant to change, improve, or stick to the way they work and function as a team.
 
-RITUALS 10
 
-INTERESTING READS /\
-RESOURCES 13
 
-PREPARATION 14
 
-HYBRID PUBLISHING WORKFLOW 14
-
-UX PRINCIPLES 15
-
-CODE 15
-
-STUDIO 17
-
-MULTIDISCIPLINARY AND MULTICULTURAL TEAMWORK 18
-
-LANGUAGE 18
-
-COMMUNICATION STYLES 18
-
-HIERARCHY 18
-
-CONFLICT 19
-
-PRESENTING YOUR WORK 19
-
-BLOG 19
-
-SHARING, WORKING AND DOCUMENTATION 19
-
-RULES OF THUMB 20
-
-<span id="_Toc" class="anchor"></span>ABOUT
-
-<span id="_Toc1" class="anchor"></span>WHO WE ARE
-
-The world of digital publishing has been growing steadily for several
-years. The arrival of tablets and smartphones has accelerated the
-developments, and today it is impossible to imagine a media landscape
-without e-books, newspaper apps, and digital magazines. Digitalization
-is turning the field upside down! The PublishingLab is a ‘hybrid
-publisher’ working at the intersection of publishing and digital
-technology, both in print and digitally.
-
-<span id="_Toc2" class="anchor"></span>APPLIED RESEARCH
-
-PublishingLab conducts applied research by doing innovative experiments
-in de field of (digital) publishing. This can be research on the impact
-of developments on the branch as a whole, conducting small experiment in
-the field of EPUB3 such as research/work on user interfaces for
-collaborative online editing environments, research/work on conveying
-hybrid publishing concepts and workflows to a non-expert audience or
-just looking into interesting design problems to tackle.
-
-<span id="_Toc3" class="anchor"></span>AMSTERDAM CREATIVE INDUSTRIES
-NETWORK
-
-The PublishingLab is part of the Amsterdam Creative Industries Network.
-The Amsterdam Creative Industries Network (ACIN) is the Dutch national
-talent, knowledge and business network for creative industry and digital
-technology. ACIN was founded by the Amsterdam University of Applied
-Sciences, the Amsterdam School of the Arts and Inholland University of
-Applied Sciences.
-
-<span id="_Toc4" class="anchor"></span>CREATE-IT
-
-Publishing is based in Create-IT, the knowledge center of the School of
-Design & Communication from the Amsterdam University of Applied
-Sciences. Students, teachers and researchers work together on applied
-research with the creative industries and the ICT sector. The results
-will be used in curriculum development and for consulting the industry.
-Together with the Institute of Network Cultures, PublishingLab is
-located in the center of the Amstel Campus Amsterdam.
-
-<span id="_Toc5" class="anchor"></span>WHO OUR STUDENTS ARE
-
-PublishingLab works with mainly final year students from different
-backgrounds, and offers a multitude of opportunities to its students.
-We’re looking for people who are ready to respond to opportunities and
-challenges intelligently, creatively and enthusiastically; people who
-are motivated, have ambitions in life, love to explore what’s happening
-around them, and have specific skills and talents. We like to work with
-students who don’t give up easily, and who love experimenting with text,
-typography, code, (moving) images and the opportunities that digital
-media provide.
-
-PublishingLab students most of all work in multidisciplinary teams
-guided by experts from the industry and the Amsterdam University of
-Applied Sciences. Where possible the team consists of a mix of a
-(graphic) designer, interaction designer, programmer, researcher and a
-publisher. In a period from 3 till 6 months you conduct research and
-deliver a paper or develop a working prototype in close collaboration
-with the stakeholder and the PublishingLab. Preferably you work four
-days at the PublishingLab (other variants are also possible). Team
-members work five days a week either at Studio HvA, the client’s office
-or in the field (the latter terms are negotiable).
-
-<span id="_Toc6" class="anchor"></span>WHO OUR PARTNERS ARE
-
-PublishingLab is interested in working with new partners, because great
-relationships with committed project partners are crucial to the depth
-of our students’ learning and to the development of new knowledge and
-design in the hybrid publishing process.
-
-PublishingLab works with various assigners from government, Dutch SMEs,
-and large international corporations in the field digital media and
-publishing, as well as various other domains.
-
-Our projects are always shaped in co-creation with our partners. During
-the projects the PublishingLab brings in a network of Amsterdam’s
-creative industries. Recent partners have included Persgroep Nederland,
-UNStudio, Canon, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands
-platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek,
-Rekto: Verso, Archined, PIet Zwart Institute and many others.
-
-<span id="_Toc7" class="anchor"></span>WHAT WE DO
-
-The world of digital publishing has been growing steadily for several
-years. The arrival of tablets and smartphones has accelerated the
-developments, and today it is impossible to imagine a media landscape
-without e-books, newspaper apps, and digital magazines. Digitalization
-is turning the field upside down! The PublishingLab is a ‘hybrid
-publisher’ working at the intersection of publishing and digital
-technology, both in print and digitally.
-
-The entire publishing chain is influenced by these developments:
-technology is changing the creation, production, distribution, marketing
-and end use of publications. The PublishingLab researches into the
-impact this will have on the branch as a whole.
-
-PublishingLab activities are directed towards the following three
-groups:
-
-1          makers (authors, designers);
-
-2          intermediaries (publishers);
-
-3          end users (readers / students).
-
-The PublishingLab conducts applied research by doing innovative
-experiments in the field of (digital) publishing. This can be research
-on the impact of developments on the branch as a whole, conducting small
-experiments in the field of EPUB3 such as research/work on user
-interfaces for collaborative online editing environments, research/work
-on conveying hybrid publishing concepts and workflows to a non-expert
-audience or just looking into interesting design problems to tackle.
-
-<span id="_Toc8" class="anchor"></span>PROGRAMME
+<span id="_Toc8" class="process"></span>PROCESS
 
 <span id="_Toc9" class="anchor"></span>DESIGN PROCESS
 
@@ -680,7 +570,11 @@ We are not claiming that all ebooks will follow, or indeed should follow this pa
 
 
 /////////
+Workshops
 
+
+
+/////////
 SHOWCASES
 
 title (year)
