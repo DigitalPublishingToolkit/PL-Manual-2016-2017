@@ -238,18 +238,19 @@ Everything has a user experience (UX). The goal of a UX designer is to make effe
 * Google Specs for User Interaction [guidelines] (https://www.google.com/design/spec/motion/material-motion.html#)— OPTIONAL* How to become a UX designer [video] (https://www.youtube.com/watch?v=CexVeagtk2Y&feature=youtu.be)
 * Paper prototyping [article] (http://www.userfocus.co.uk/articles/paperprototyping.html)* [Adaptive (ebook) Layout site] (http://sorotokin.com/adaptive-layout/)* [NN UX design reference] (https://www.nngroup.com)
 ###<span id="code">CODE</span>
-Coding is something you learn by doing. We don’t expect you to become a coder if you are a designer, but you need to have a basic understanding of HTML and CSS.— REQUIRED
-* [codeacademy] (https://www.nngroup.com) HTML & CSS* [Grids for the web slides] (http://www.slideshare.net/huer1278ft/grids-are-good-right)
+Coding is something you learn by doing. We don’t expect you to become a coder if you are a designer, but you need to have a basic but solid understanding of HTML and CSS.— REQUIRED
+* [codeacademy] (https://www.codecademy.com/learn/web) HTML & CSS* [Grids for the web] (http://www.slideshare.net/huer1278ft/grids-are-good-right)
 * [CSS glossary] (https://www.codecademy.com/articles/glossary-css)
 
 <!--@Lucia, maybe you can have a look if there are more relevant resources to mention here-->
 — OPTIONAL
-* Positioning [floats] (https://css-tricks.com/all-about-floats/)
+* [Flexbox] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)* Positioning [floats] (https://css-tricks.com/all-about-floats/)
 * Positioning [relative] (https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
 * [Positioning] (http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 * [Animations & transitions] (http://css3.bradshawenterprises.com/transitions/)
 * [Transitions vs Animations] (https://www.kirupa.com/html5/css3_animations_vs_transitions.htm)
 * CSS [reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [JS tutorial] (http://www.htmldog.com/guides/javascript/)
 
 
 #### [INTERESTING READS] (#reads)
