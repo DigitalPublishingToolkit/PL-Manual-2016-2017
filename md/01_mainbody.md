@@ -128,10 +128,37 @@ Figure 2. MediaLAB Amsterdam Design Process (source Manual MediaLAB Design Proce
 ###<span id="ux">UX DESIGN</span>
 ###<span id="prototyping">PROTOTYPING</span>
 ###<span id="git">GIT</span>
-###<span id="CSS">CSS</span>
-###<span id="HTML">HTML</span>
+Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used for developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on GitHub. We'll use the command line and a graphical interface, so that you can experiment both and choose your favorite.
+<!-- ###<span id="CSS"></span> -->
+###<span id="HTML">HTML & CSS</span>
+HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. In this workshop we'll review the basics of HTML5 and CSS3:
+
+*   anatomy of a HTML file
+*   HTML tags (headings, paragraphs, links, navigation, multimedia, divs and spans)
+*   classes and ids
+*   CSS selectors
+*   the Box Model
+*   the Flexible Box
+*   typography
+*   animations and transitions
+*   media queries
+
 ###<span id="javascript">JAVASCRIPT</span>
+Javascript, or simply JS, is responsible for the interaction in web pages. In the JS workshop we'll cover:
+
+*   the DOM
+*   DOM events
+*   variables and functions
+*   how to use JS to add interaction to your pages
+
 ###<span id="inspector">INSPECTOR</span>
+The page inspector is a handy tool available in modern browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug.
+
+*   the page source x the page inspector
+*   examine and edit HTML
+*   examine and edit CSS
+*   the console
+
 ###<span id="design">DESIGN</span>
 
 
