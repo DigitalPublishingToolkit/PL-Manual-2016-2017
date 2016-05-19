@@ -49,7 +49,7 @@ Rights: CC BY-NC 4.0
 #### [UX DESIGN] (#UX)
 #### [PROTOTYPING] (#prototyping)
 #### [GIT] (#git)
-#### [CSS] (#CSS)
+<!--#### [CSS] (#CSS)-->
 #### [HTML] (#HTML)
 #### [JAVASCRIPT] (#javascript)
 #### [INSPECTOR] (#inspector)
@@ -69,7 +69,7 @@ Rights: CC BY-NC 4.0
 ##<span id="about">ABOUT</span>
 Welcome to [PublishingLab] (http://publishinglab.org), this section tells you a bit about who we are, who our interns are and who our partners are. You can also  nd an overview of what we do.
 
-###<span id="whoarewe">WHOW ARE WE</span>
+###<span id="whoarewe">WHO ARE WE</span>
 The PublishingLab is an applied research lab in the field of hybrid publishing working at the intersection of publishing and digital technology, both in print and digitally. We are part of ACIN, Create-IT and the Amsterdam University of Applied Sciences.The world of digital publishing has been growing steadily for several years. The arrival of tablets and smartphones has ac- celerated the developments, and today it is impossible to imagine a media landscape without e-books, newspaper apps, and digital magazines. Digitalization is turning the  eld upside down! This is where the PublishingLab comes in.
 
 The PublishingLab is part of the [Amsterdam Creative Industries Network](http://www.amsterdamcreativeindustries.com). The Amsterdam Creative Industries Network (ACIN) is the Dutch national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc.
@@ -101,7 +101,7 @@ This section is about how to conduct yourself in the lab, how to work in the tea
 ##<span id="process">PROCESS</span>This section explains how we work: the process and design methods for completing your project.One of the methods we use, is the MediaLAB Amsterdam design process <!--insert link to design process-->, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to  nd answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.![](imgs/figure1.png)
 <!--image of bad quality, but gives an idea of what is desired. change icons.-->
 Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source Manual MediaLAB Design Process 2014).###<span id="researchtranslatecreate">RESEARCH, TRANSLATE AND CREATE</span>At the start of every design challenge, and afterwards, at the start of each new stage in the design process, research has a central role. Research provides plenty of insights; how people act/think/feel and who the intended users are, within the context of the challenge.
-These insights are the key to a solution, but they have to be translated into actual design requirements: which are key for the optimal solution. This is something that can be decided on the basis of research, and implemented and tested by creating a prototype. A next step might be to research again into what you created by setting up a test with users. During the project there is a constant two-way flow: from research through translation to creation, and from creation through translation to research.###<span id="scrum">SCRUM</span>Scrum is an iterative and incremental process for the design and development of products and services, and it has a very specific way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework.This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The flow of the design process is embedded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.###<span id="sprints">SPRINTS</span>A ‘sprint’ (or iteration) is the basic unit of development. The sprint is a ‘timeboxed’ effort; that is, it is restricted to a specific duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to  t and perform more sprints within those scheduled three weeks.###<span id="rituals">RITUALS</span>Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
+These insights are the key to a solution, but they have to be translated into actual design requirements: which are key for the optimal solution. This is something that can be decided on the basis of research, and implemented and tested by creating a prototype. A next step might be to research again into what you created by setting up a test with users. During the project there is a constant two-way flow: from research through translation to creation, and from creation through translation to research.###<span id="scrum">SCRUM</span>Scrum is an iterative and incremental process for the design and development of products and services, and it has a very specific way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework.This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The flow of the design process is embedded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.###<span id="sprints">SPRINTS</span>A ‘sprint’ (or iteration) is the basic unit of development. The sprint is a ‘timeboxed’ effort; that is, it is restricted to a specific duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to perform more sprints within those scheduled three weeks.###<span id="rituals">RITUALS</span>Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
 
 ![](imgs/figure2.png)
 <!--image of bad quality, but gives an idea of what is desired. symbol can be changed.-->
@@ -122,13 +122,26 @@ Figure 2. MediaLAB Amsterdam Design Process (source Manual MediaLAB Design Proce
 ##<span id="workshops">WORKSHOPS</span>
 
 ###<span id="scrum">SCRUM</span>
+To structure the collaborative process of your project, we use the Scrum method. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
+
 ###<span id="presentation">PRESENTATION SKILLS</span>
+Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This workshop is designed to help you make well structured and convincing presentations.
+
 ###<span id="publishing">DIY PUBLISHING</span>
+<!-- @Silvio: this is your workshop, could you add a description? -->
+
 ###<span id="ideation">IDEATION</span>
+<!-- @Margreet: I don't know what to write for this one-->
+
 ###<span id="ux">UX DESIGN</span>
+<!-- @Margreet: I don't know what to write for this one-->
+
 ###<span id="prototyping">PROTOTYPING</span>
+How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
+
 ###<span id="git">GIT</span>
 Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used for developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on GitHub. We'll use the command line and a graphical interface, so that you can experiment both and choose your favorite.
+
 <!-- ###<span id="CSS"></span> -->
 ###<span id="HTML">HTML & CSS</span>
 HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. In this workshop we'll review the basics of HTML5 and CSS3:
@@ -166,19 +179,36 @@ The page inspector is a handy tool available in modern browsers. It helps us exa
 ##<span id="masterclass">MASTERCLASS<span>
 During the semester Geert Lovink, founder of the [Institute of Network Cultures] (http://networkcultures.org) will give a two-day masterclass. Geert will cover three topics. The morning session is dedicated to internet criticism after 2008. In the afternoon we will discuss two INC networks: [Unlike Us] (http://networkcultures.org/unlikeus), alternatives in social media, and [Society of the Query] (http://networkcultures.org/query), on the politics and aesthetics of search.
 
+<!-- @Margreet: what will happen on the second day?-->
+
 
 
 ##<span id="showcases">SHOWCASES</span>
 
 ###<span id="persgroep">PERSGROEP</span>
-title (year)
-challenge / research question:
-short alinea what the project is about
-partner(s)
-team
-url
-appealing image
-connect research paper
+<!--title (year)-->
+Navigating Theory on Demand (2015)
+
+<!--challenge / research question:-->
+How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
+
+<!--short alinea what the project is about-->
+The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favourable aesthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
+
+<!--partner(s)-->
+Institute of Network Cultures
+
+<!--team-->
+Léna Robin, Josip Batinic, Inte Gloerich (coach), Gottfried Haider and Lucia Dossin (support).
+
+<!--url-->
+[Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
+
+<!--appealing image-->
+![](imgs/NavTOD.png)
+
+<!--connect research paper-->
+The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
 
 ###<span id="unstudio">UNSTUDIO</span>
 <!-- title (year) -->
@@ -255,6 +285,9 @@ Coding is something you learn by doing. We don’t expect you to become a coder 
 
 #### [INTERESTING READS] (#reads)
 <!--it would be nice to have a list here next to the resources of recommended resrouces-->
+[Post-Digital Publishing Archive](http://p-dpa.net/) by Silvio Lorusso
+
+[James Bridle's](http://www.theguardian.com/profile/jamesbridle) articles on digital publishing at the Guardian
 
 ##<span id="practicalinfo">PRACTICAL INFO</span>
 Answers to your questions and steps to help you set yourself up for your internship.
