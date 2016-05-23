@@ -217,9 +217,9 @@ Knowledge Matters - Interactive Book App (2015)
 <!-- challenge / research question: -->
 How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
 
-OR <!-- editor -->
+<!-- editor , here's an alternative version -->
 
-How can we start a dialogue between print and digital media? And how can the values, methods and language of UNStudio be enhanced with an immersive digital experience?
+<!--How can we start a dialogue between print and digital media? And how can the values, methods and language of UNStudio be enhanced with an immersive digital experience?-->
 
 <!-- short alinea what the project is about -->
 Knowledge Matters app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
@@ -237,6 +237,8 @@ http://www.publishinglab.nl/unstudio/
 
 <!-- appealing image -->
 ![](imgs/UN-fast-slow.gif)
+<!-- this image is HUGE (15MB). Use the following if filesize becomes an issue -->
+<!-- ![](imgs/UN-rotatemenu.gif) -->
 
 <!-- connect research paper -->
 The interactive book ‘Knowledge Matters’ started with the premise to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of The UNStudio, and feeling its potential, we immediately understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, instead an exploration of the digital format in such a way that in the printed matter would not be possible.
@@ -273,6 +275,7 @@ Coding is something you learn by doing. We don’t expect you to become a coder 
 * [CSS glossary] (https://www.codecademy.com/articles/glossary-css)
 
 <!--@Lucia, maybe you can have a look if there are more relevant resources to mention here-->
+<!-- I did add a few links already - I did not remove any though. (Lucia)-->
 — OPTIONAL
 * [Flexbox] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)* Positioning [floats] (https://css-tricks.com/all-about-floats/)
 * Positioning [relative] (https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
