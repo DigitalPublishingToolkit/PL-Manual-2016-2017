@@ -144,33 +144,13 @@ Git is a source code management system that allows collaborative work and versio
 
 <!-- ###<span id="CSS"></span> -->
 ###<span id="HTML">HTML & CSS</span>
-HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. In this workshop we'll review the basics of HTML5 and CSS3:
-
-*   anatomy of a HTML file
-*   HTML tags (headings, paragraphs, links, navigation, multimedia, divs and spans)
-*   classes and ids
-*   CSS selectors
-*   the Box Model
-*   the Flexible Box
-*   typography
-*   animations and transitions
-*   media queries
+HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will review the basics of HTML5 and CSS3: from the anatomy of a HTML file and CSS selectors to CSS animations and transitions.
 
 ###<span id="javascript">JAVASCRIPT</span>
-Javascript, or simply JS, is responsible for the interaction in web pages. In the JS workshop we'll cover:
-
-*   the DOM
-*   DOM events
-*   variables and functions
-*   how to use JS to add interaction to your pages
+Javascript, or simply JS, is responsible for the interaction in web pages. Understanding the DOM and DOM events, variables and functions and how to use JS to add interaction to your pages is what this workshop is about.
 
 ###<span id="inspector">INSPECTOR</span>
-The page inspector is a handy tool available in modern browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug.
-
-*   the page source x the page inspector
-*   examine and edit HTML
-*   examine and edit CSS
-*   the console
+The page inspector is a handy tool available in modern browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser!
 
 ###<span id="design">DESIGN</span>
 
@@ -291,6 +271,9 @@ Coding is something you learn by doing. We don’t expect you to become a coder 
 [Post-Digital Publishing Archive](http://p-dpa.net/) by Silvio Lorusso
 
 [James Bridle's](http://www.theguardian.com/profile/jamesbridle) articles on digital publishing at the Guardian
+
+[Mag.net reader](http://postdigitalprint.org/)
+
 
 ##<span id="practicalinfo">PRACTICAL INFO</span>
 Answers to your questions and steps to help you set yourself up for your internship.
