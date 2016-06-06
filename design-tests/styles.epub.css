@@ -1,0 +1,40 @@
+body{
+    font-size:12pt;
+    background: white;
+    color: black;
+    font-family: sans;	
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border: 1px solid green;
+    max-width: 300px;
+    text-align: center;
+
+}
+
+div#cover-image{
+    text-align:center;
+}
+
+a.footnoteRef{
+    vertical-align: super;
+    line-height: normal;
+    font-size: 0.5em;
+}
+
+img {
+    max-width: 98%;
+    max-height: 98%;
+    width: auto;
+    height: auto;
+}
