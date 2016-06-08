@@ -87,6 +87,18 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 #		--epub-embed-font=lib/UbuntuMono-B.ttf \
 
 
+# use this to test the design without having to compile the EPUB
+html: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
+	cd html && pandoc \
+		--from markdown \
+		--to html \
+		-s \
+		-c ../epub/styles.epub.css \
+		-o book.html \
+		../md/book.md ;
+	cd html && sed -i -e 's/src="imgs/src="..\/md\/imgs/g' book.html ; # change links of images
+
+
 clean:  # remove outputs
 	rm -f md/book.md  
 	rm -f book.epub 
