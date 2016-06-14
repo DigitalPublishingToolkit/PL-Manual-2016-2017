@@ -282,12 +282,10 @@ REQUIRED READING:
 
 This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books. Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
-#### How to 
-Over the last two years we have improved our workflow. In our *PublishingLab: How-to* one can read the easy, step-by-step introductions to a specific field within digital publishing. One can also find the PublishingLab: how-to voor digitale kunstkritiek [14] by Miriam Rasch and Leonieke van Dipten [15] here. 
-
+#### [How to](http://publishinglab.nl/howto/?How-toHybridPublishing) 
+Over the last two years we have improved our workflow. In our *PublishingLab: How-to* one can read the easy, step-by-step introductions to a specific field within digital publishing. 
 This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files).
 You will find instructions and a template for making an ePub3, use css styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed. 
-
 
 #### [Sausage Machine](http://hpt.publishinglab.org/)
 The Sausage Machine is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
@@ -296,11 +294,11 @@ OPTIONAL READING:
 * [Digital Publishing Toolkit the Blogposts](http://www.publishinglab.nl/blog/publication/digital-publishing-toolkit-the-blog-posts/)
 * [Network Cultures digital publishing blog](http://networkcultures.org/digitalpublishing/)
 * [Out of Ink](http://networkcultures.org/outofink/)
+* [Radical Tactics of the Offline Library by Henry Warwick] http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/)
 
 ![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_blog_aanp.jpg)
 
 ###<span id="UX">UX PRINCIPLES</span>
-
 Everything has a user experience (UX). The goal of a UX designer is to make effective design for users, which is central to our work. UX research starts with the aim of understanding the user and the client goals, then develop- ing ideas to solve the users’ needs, and thereafter building and testing the solutions created in the real world (or lab environment).
 
 — REQUIRED READING
@@ -309,7 +307,6 @@ Everything has a user experience (UX). The goal of a UX designer is to make effe
 * Google Specs for User Interaction [guidelines](https://www.google.com/design/spec/motion/material-motion.html#)
 
 — OPTIONAL READING
-
 * How to become a UX designer [video](https://www.youtube.com/watch?v=CexVeagtk2Y&feature=youtu.be)
 * Paper prototyping [article](http://www.userfocus.co.uk/articles/paperprototyping.html)
 * [Adaptive (ebook) Layout site](http://sorotokin.com/adaptive-layout/)
@@ -327,7 +324,6 @@ Coding is something you learn by doing. We don’t expect you to become a coder 
 <!--@Lucia, maybe you can have a look if there are more relevant resources to mention here-->
 <!-- I did add a few links already - I did not remove any though. (Lucia)-->
 — OPTIONAL
-
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Positioning [floats](https://css-tricks.com/all-about-floats/)
 * Positioning [relative](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
@@ -373,7 +369,6 @@ You will need a HvA ID card which functions as an office key, print and coffee m
 If there is a problem or delay, you can check with staff on level 2.
 
 #### How to print
-
 You need your ID card to print. Set up the printer to your laptop by following instructions on the HvA [site](https://hva-en.cbs.canon.nl/wat_doen_wij/over-het-nieuwe-printen/medewerker.html).
 
 ##### Here is your quick start
@@ -385,25 +380,14 @@ You need your ID card to print. Set up the printer to your laptop by following i
 5. You are now ready to print!
 
 #### Facilities
-
 The PublishingLab office is located within the Hogeschool van Amsterdam Location: Benno Premselahuis (BPH), Rhijnspoorplein 1, 1091 GC Amsterdam
 
 ##### Opening hours of the BPH
-
 mon-thurs: 8:30-19:30
 fri: 8.30 – 18:00
 
 ##### Equipment hire and helpdesk
-
 Level 2, BPH
-
-##### Printing & copying:
-
-There is a Canon printing and copy shop across the street from BPH that you can use for special printing needs. Location: Kohnstammhuis, Wibautstraat 2-4, Room: 00A07
-Opening hours:
-mon-fri: 8.30 – 17:00
-Ph:(020) 599 53 10
-hva.ksh@canon-bs.nl
 
 #### Internet access
 You can access the internet via eduroam if you are already a student. Otherwise, ask your coach to set up a guest account. Once you have your HvA ID & password you can login to the eduroam or HvA wifi.
