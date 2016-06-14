@@ -35,7 +35,7 @@
 - [Ideation](#ideation)
 - [Writing](#writing)
 - [UX Design](#UX)
-- [PROTOTYPING](#prototyping)
+- [Prototyping](#prototyping)
 - [GIT](#git)
 <!--- [CSS](#CSS)-->
 - [HTML](#HTML)
@@ -56,7 +56,7 @@
 
 ------
 
-##<span id="about">ABOUT</span>
+##<span id="about">About</span>
 Welcome to the [PublishingLab](http://publishinglab.org), this section tells you a bit about who we are, who our interns are and who our partners are. You will also find an overview of what we do.
 
 ###<span id="whoarewe">WHO ARE WE</span>
@@ -78,7 +78,7 @@ The PublishingLab conducts applied research by doing innovative experiments in t
 ##<span id="lab">LAB: HOW TO</span>
 This section is about how to conduct yourself in the lab, how to work in a team, and how to best present your work.
 
-###<span id="teamwork">MULTIDISCIPLINARY AND MULTICULTURAL TEAM WORK</span>
+###<span id="teamwork">Multidisciplinary And Multicultural Team Work</span>
 At the PublishingLab you will work in a team of people with different skill sets and from different educational and cultural backgrounds. These differences can have an impact on how a team works together. Working in a team with a varied composition therefore requires a special attitude, both professionally and socially. Here are some things you should take into account.
 
 ###<span id="language">LANGUAGE</span>

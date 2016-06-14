@@ -41,15 +41,15 @@ markdowns:$(alldocx) # convert docx to md
 
 
 icmls: $(allmarkdown)
-	for i in $(allmarkdown) ; \
+	cd md && for i in $(allmarkdown) ; \
 	do icml=icml/`basename $$i .md`.icml ; \
-	./scripts/md_stripmetada.py $$i > md/tmp.md ; \
-	pandoc md/tmp.md \
+	pandoc ../$$i \
 		--from=markdown \
 		--to=icml \
 		--self-contained \
-		-o $$icml ; \
+		-o ../$$icml ; \
 	done
+	cd icml && sed -i -e 's/file\:imgs/file\:\.\.\/md\/imgs/g' *.icml ; # change links of images
 
 
 scribus: $(allmarkdown)
@@ -70,19 +70,19 @@ book.md: clean $(allmarkdown)
 	done
 
 
-epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
+epub: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/cover.jpg
 	cd md && pandoc \
 		--from markdown \
 		--to epub3 \
 		--self-contained \
 		--epub-chapter-level=1 \
-		--epub-stylesheet=../epub/styles.epub.css \
+		--epub-stylesheet=../css/styles.epub.css \
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
 		-o ../book.epub \
-		--epub-embed-font=../htmls/VAGRoundedStdLight.ttf \
+		--epub-embed-font=../css/VAGRoundedStdLight.ttf \
 		book.md ; \
 #include line, if you wanto embed font:
 #		--epub-embed-font=../lib/UbuntuMono-B.ttf \

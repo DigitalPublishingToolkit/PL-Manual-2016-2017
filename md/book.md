@@ -1,17 +1,4 @@
----
-Pr-id: PublishingLab manual
-P-id: Manual
-A-id: semester 2016-2017
-Type: manual
-Book-type: manual
-Anthology item: manual
-Item-id: unique no.
-Author: PublishingLab team
-Author-email:   m.riphagen@hva.nl
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
----
+
 
 ## Colophon
 

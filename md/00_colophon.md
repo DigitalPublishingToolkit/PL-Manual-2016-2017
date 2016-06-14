@@ -11,11 +11,12 @@ Author-email:   m.riphagen@hva.nl
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
----
+...
 
-## Colophon
+###### Colophon
 
-### PublishingLab manual, semester 2016-2017<br/>
+### PublishingLab manual, Semester 2016-2017<br/>
+
 **Editors:** to be defined<br/>
 **Images:** to be defined<br/>
 **Print design:** to be defined<br/>
