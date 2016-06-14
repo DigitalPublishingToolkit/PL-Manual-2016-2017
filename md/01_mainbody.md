@@ -14,9 +14,8 @@
 
 - [Lab](#lab)
 - [Multidisciplinary And Multicultural Teamwork](#teamwork)
-- [LANGUAGE](#language)
-- [COMMUNICATION STYLES](#communication)
-- [HIERARCHY](#hierarchy)
+- [Language](#language)
+- [Communication Styles](#communication)
 - [Conflict](#conflict)
 - [Presenting Your Work](#presenting)
 - [Blog](#blog)
@@ -58,12 +57,12 @@
 ------
 
 ##<span id="about">ABOUT</span>
-Welcome to [PublishingLab](http://publishinglab.org), this section tells you a bit about who we are, who our interns are and who our partners are. You will also find an overview of what we do.
+Welcome to the [PublishingLab](http://publishinglab.org), this section tells you a bit about who we are, who our interns are and who our partners are. You will also find an overview of what we do.
 
 ###<span id="whoarewe">WHO ARE WE</span>
-The PublishingLab is an applied research lab in the field of hybrid publishing working at the intersection of publishing and digital technology, both in print and digitally <!-- Silvio: and on screen -->. We are part of the Amsterdam Creative Industries Network (ACIN), Create-IT research center and the Amsterdam University of Applied Sciences. The world of digital publishing has been growing steadily for several years. The arrival of tablets and smartphones has accelerated these developments, and today it is impossible to imagine a media landscape without e-books, newspaper apps, and digital magazines. Digitalization is turning the field upside down! This is where the PublishingLab comes in.
+The PublishingLab is an applied research lab in the field of hybrid publishing working at the intersection of publishing and digital technology, both in print and on screen. We are part of the Amsterdam Creative Industries Network (ACIN) and the Amsterdam University of Applied Sciences. The world of digital publishing has been growing steadily for several years. The arrival of tablets and smartphones has accelerated these developments, and today it is impossible to imagine a media landscape without e-books, newspaper apps, and digital magazines. Digitalization is turning the field upside down! This is where the PublishingLab comes in.
 
-The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com), the national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts 11 other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. PublishingLab is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and for consulting the industry. Together with the [Institute of Network Cultures](http://networkcultures.org) (INC), PublishingLab is located on the Amstel Campus Amsterdam.
+The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com), the national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. PublishingLab is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and consulting the industry. Together with the [Institute of Network Cultures](http://networkcultures.org) (INC), PublishingLab is located on the Amstelcampus Amsterdam.
 
 ###<span id="whoourinternsare">WHO OUR INTERNS ARE</span>
 PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated people who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
@@ -71,16 +70,9 @@ PublishingLab works with students from different backgrounds, offering a wide ra
 ###<span id="whoourpartnersare">WHO OUR PARTNERS ARE</span>
 PublishingLab works with various partners, ranging from government institutions, Dutch SMEs, and large international corporations in the field of digital media and publishing. Our projects are always shaped in co-creation with our partners. Working with partners means the PublishingLab has a good network in Amsterdams creative industries. Recent partners include Persgroep Nederland, Persgroep Digitaal, WeekbladpersGroep, UNStudio, Canon, Cinekid, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek, rekto:verso, Archined, Piet Zwart Institute and many others.
 
-<!--maybe add some queotes from partners-->
+<!--maybe add some quotes from partners-->
 
 ###<span id="whatwedo">WHAT WE DO</span>
-<!--underneath section needs to be rephrased -->
-At the PublishingLab, our research is directed towards the following three groups:
-
-1. makers (authors, designers)
-2. intermediaries (publishers)
-3. end users (readers / students)
-
 The PublishingLab conducts applied research by doing innovative experiments in the field of (digital) publishing. This includes research on the impact of developments on the branch as a whole, conducting small experiments in the field of EPUB3 (such as research/work on user interface design for collaborative online editing environments), research/work on conveying hybrid publishing concepts and work flows to a non-expert audience or experiments with the aim of solving interesting design problems.
 
 ##<span id="lab">LAB: HOW TO</span>
@@ -94,9 +86,6 @@ Multidisciplinary and multicultural teams are great for creative processes. Howe
 
 ###<span id="communication">STYLES OF COMMUNICATION</span>
 Methods of communication that are normal for one group of people may appear ineffective or inappropriate to another group. A person from a culture in which loud voices and interruptions are not seen as aggressive may intimidate someone from a culture that teaches more reserved modes of expression. Learning about the cultures of your team members before you start working with them can help you understand their methods of communication.
-
-###<span id="hierarchy">HIERARCHY</span>
-The importance placed in figures of authority varies greatly between cultures. Some groups give great respect to people in positions of authority, while people from other cultures are perfectly willing to question an authority figure if they see them doing something wrong. Additionally, authority is based on different criteria in different cultures. <!-- Silvio: not sure what is the point of this. is hierarchy a good thing, a bad thing, or what else? -->
 
 ###<span id="conflict">IN CASE OF CONFLICT</span>
 When conflict does occur within a team, members from different backgrounds may react to the situation in dramatically different ways. Some people will repress their reactions to an insult, while others will fight back. These reactions are based on individual personality to some extent but are also conditioned by a person’s background. Resolving conflict requires:
@@ -151,41 +140,35 @@ The daily stand-up meeting is not used as a problem-solving or issue resolution 
 	3. Are there any barriers in your way?
 
 2. IDEATION AND PLANNING
-
 Every sprint has a ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.
 
 3. TRANSLATE AND TRANSFER
-
 In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).
 
 4. SPRINT REVIEW
-
 After the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Specifically, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.
 
 5. SPRINT RETROSPECTIVE
 A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
 
-<!--user stories-->
-<!--method cards-->
-<!--time estimation-->
-<!--single tasks-->
-
-##<span id="workshops">WORKSHOPS</span>
+##<span id="workshops">WORKSHOPS, MASTERCLASSES AND LECTURES</span>
+During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
 
 ###<span id="scrum">SCRUM</span>
 To structure the collaborative process of your project, we use the Scrum method. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
 
-###<span id="presentation">PRESENTATION SKILLS</span>
-Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This workshop is designed to help you make well structured and convincing presentations.
+###<span id="presentation">PITCH TRAINING</span>
+Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
 
 ###<span id="publishing">EXPERIMENTAL PUBLISHING</span>
 Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. IN this workshop we will explore the Post-Digital Publishing Archive, an online archive which aim is to collect, categorize, and relate experimental publishing projects. So we will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approachs.
 
-###<span id="ideation">IDEATION</span>
-<!-- @Margreet: I don't know what to write for this one-->
+###<span id="ideation">FRAME INSIGHTS & IDEATION</span>
+In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time frame. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
 
-###<span id="ux">UX DESIGN</span>
-<!-- @Margreet: I don't know what to write for this one-->
+###<span id="ux">USER EXPERIENCE DESIGN</span>
+This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes. 
+Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans. 
 
 ###<span id="prototyping">PROTOTYPING</span>
 How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
@@ -202,21 +185,12 @@ Javascript, or simply JS, is responsible for the interaction in web pages. Under
 ###<span id="inspector">INSPECTOR</span>
 The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
 
-###<span id="design">DESIGN</span>
 
-
-
-
-##<span id="masterclass">MASTERCLASS</span>
-During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a two-day masterclass. Geert will cover three topics: the first session is dedicated to internet criticism after 2008, the second to discussing two INC networks: [Unlike Us](http://networkcultures.org/unlikeus) about alternatives in social media, and [Society of the Query](http://networkcultures.org/query), on the politics and aesthetics of search.
-
-<!-- @Margreet: what will happen on the second day?-->
-
+##<span id="masterclass">WORKSHOP GEERT LOVINK</span>
+During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; The MoneyLab Agenda: Internet Revenue Models in the Arts. 
 
 ##<span id="showcases">SHOWCASES</span>
-
-<!-- Silvio: Does this need an intro? -->
-
+Underneath showcases are developed in close collaboration with one or more designers and developers from the DPT Collective, as well as students and researchers from the PublishingLab, and a partner from the creative industries. 
 
 ###<span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
 
@@ -230,7 +204,8 @@ De Persgroep notices that many visits to their sites can be characterized as 'hi
 De Persgroep
 
 <!--team-->
-Ilayda Ṣarlak, Alina Niemann, Belen Muñoz, Inte Gloerich (coach) and Lucia Dossin (support).
+Belen Muñoz (ES) - University of Amsterdam, MA New Media & Digital Culture • Ilayda Ṣarlak (TR) - Utrecht University, MA New Media & Digital Culture • Alina Niemann (DE) - University of Amsterdam
+MA New Media & Digital Culture  • Inte Gloerich (NL) (PublishingLab coach) • Lucia Dossin (BR) (PublishingLab support).
 
 <!--url-->
 Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
@@ -253,7 +228,7 @@ The 'Theory on Demand' series is currently hosted on the INC website, which, unf
 Institute of Network Cultures
 
 <!--team-->
-Léna Robin, Josip Batinic, Inte Gloerich (coach), Gottfried Haider and Lucia Dossin (support).
+Léna Robin (FR) - Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication • Josip Batinic (HR) - University of Amsterdam, MA New Media and Digital Culture • Inte Gloerich (PublishingLab coach) • Gottfried Haider (PublishingLab support) • Lucia Dossin (PublishingLab support).
 
 <!--url-->
 [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
@@ -271,20 +246,16 @@ Knowledge Matters - Interactive Book App (2015)
 <!-- challenge / research question: -->
 How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
 
-<!-- editor , here's an alternative version -->
-
-<!--How can we start a dialogue between print and digital media? And how can the values, methods and language of UNStudio be enhanced with an immersive digital experience?-->
-
 <!-- short alinea what the project is about -->
-Knowledge Matters app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
+Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
 
-The “fast” mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The “slow mode” offers more detailed information on the project which fits the “academic” type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
+The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
 
 <!-- partner(s) -->
 UNStudio
 
 <!-- team -->
-Anastasia Kubrak, Karina Zavidova, Joana Chicau, Wahid Nawzadi, Jess van Zyl (coach), Gottfried Haider and Lucia Dossin (support).
+Joana Chicau (PT) - Piet Zwart Institute Rotterdam, MA Media Design and Communication • Anastasia Kubrak (RU) - Design Academy Eindhoven, BA Media & Culture Design • Wahid Nawzadi (NL) - HAN University of Applied Sciences, BA Communication &  Multimedia Design • Karina Zavidova (RU) - Royal Academy of Art The Hague, BA Graphic Design • Jess van Zyl (PublishingLab coach) • Gottfried Haider (PublishingLab support) • Lucia Dossin (PublishingLab support).
 
 <!-- url -->
 http://www.publishinglab.nl/unstudio/
@@ -312,15 +283,16 @@ REQUIRED READING:
 This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books. Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
 #### How to 
+Over the last two years we have improved our workflow. In our *PublishingLab: How-to* one can read the easy, step-by-step introductions to a specific field within digital publishing. One can also find the PublishingLab: how-to voor digitale kunstkritiek [14] by Miriam Rasch and Leonieke van Dipten [15] here. 
 
-<!--add information-->
+This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files).
+You will find instructions and a template for making an ePub3, use css styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed. 
+
 
 #### [Sausage Machine](http://hpt.publishinglab.org/)
-
 The Sausage Machine is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
 
 OPTIONAL READING:
-
 * [Digital Publishing Toolkit the Blogposts](http://www.publishinglab.nl/blog/publication/digital-publishing-toolkit-the-blog-posts/)
 * [Network Cultures digital publishing blog](http://networkcultures.org/digitalpublishing/)
 * [Out of Ink](http://networkcultures.org/outofink/)
