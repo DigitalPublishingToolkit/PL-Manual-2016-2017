@@ -82,18 +82,19 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--default-image-extension png \
 		--toc-depth=1 \
 		-o ../book.epub \
+		--epub-embed-font=../htmls/VAGRoundedStdLight.ttf \
 		book.md ; \
 #include line, if you wanto embed font:
-#		--epub-embed-font=lib/UbuntuMono-B.ttf \
+#		--epub-embed-font=../lib/UbuntuMono-B.ttf \
 
 
 # use this to test the design without having to compile the EPUB
-html: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
+html: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/cover.jpg
 	cd html && pandoc \
 		--from markdown \
 		--to html \
 		-s \
-		-c ../epub/styles.epub.css \
+		-c ../css/styles.epub.css \
 		-o book.html \
 		../md/book.md ;
 	cd html && sed -i -e 's/src="imgs/src="..\/md\/imgs/g' book.html ; # change links of images

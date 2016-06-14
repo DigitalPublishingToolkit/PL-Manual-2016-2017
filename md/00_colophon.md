@@ -15,7 +15,7 @@ Rights: CC BY-NC 4.0
 
 ## Colophon
 
-### PublishingLab manual, semster 2016-2017<br/>
+### PublishingLab manual, semester 2016-2017<br/>
 **Editors:** to be defined<br/>
 **Images:** to be defined<br/>
 **Print design:** to be defined<br/>
