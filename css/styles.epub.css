@@ -1,14 +1,14 @@
-/* Fonts (won't work on the EPUB) */
+/* Fonts (to let them work on the EPUB add them via the Makefile) */
 
 @font-face {
-  font-family: 'vag';
+  font-family: 'neuzeit';
   font-weight: normal;
-  src: url('VAGRoundedStdLight.ttf');
+  src: url('NeuzeitSLTStd-Book.otf');
 }
 @font-face {
-  font-family: 'vag';
+  font-family: 'neuzeit';
   font-weight: bold;
-  src: url('VAGRoundedStdBold.ttf');
+  src: url('NeuzeitSLTStd-BookHeavy.otf');
 }
 
 
@@ -18,10 +18,10 @@ html {
   font-size: 100%;
 }
 body {
-  font-size: 1.2rem;
+  font-size: 1rem;
   background: white;
-  color: #222;
-  font-family: sans-serif; /* choose a font! */
+  color: #444;
+  font-family: 'neuzeit', sans-serif;
 }
 
 
@@ -39,24 +39,25 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 0;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-
-  font-family: 'vag';
-  font-weight: normal;
+  font-weight: bold;
   color: #39FF03;
 
   margin-top: 80px;
 }
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
+  font-weight: normal;
 }
 h2 {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 h4, h5, h6 {
   font-size: 1.5rem;
+  color: 444;
+  text-transform: capitalize;
 }
 p {
   margin: 40px auto;

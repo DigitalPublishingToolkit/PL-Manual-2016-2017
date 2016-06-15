@@ -82,7 +82,8 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/co
 		--default-image-extension png \
 		--toc-depth=1 \
 		-o ../book.epub \
-		--epub-embed-font=../css/VAGRoundedStdLight.ttf \
+		--epub-embed-font=../css/NeuzeitSLTStd-Book.otf \
+		--epub-embed-font=../css/NeuzeitSLTStd-BookHeavy.otf \
 		book.md ; \
 #include line, if you wanto embed font:
 #		--epub-embed-font=../lib/UbuntuMono-B.ttf \
