@@ -82,12 +82,15 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/co
 		--default-image-extension png \
 		--toc-depth=1 \
 		-o ../book.epub \
-		--epub-embed-font=../css/NeuzeitSLTStd-Book.otf \
-		--epub-embed-font=../css/NeuzeitSLTStd-BookHeavy.otf \
+		--epub-embed-font=../css/Lato-Regular.ttf \
+		--epub-embed-font=../css/Lato-Italic.ttf \
+		--epub-embed-font=../css/Lato-Bold.ttf \
+		--epub-embed-font=../css/Lato-BoldItalic.ttf \
 		book.md ; \
 #include line, if you wanto embed font:
 #		--epub-embed-font=../lib/UbuntuMono-B.ttf \
 
+#TODO: automate font embedding (from CSS)
 
 # use this to test the design without having to compile the EPUB
 html: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/cover.jpg

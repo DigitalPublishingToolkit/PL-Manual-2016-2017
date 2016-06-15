@@ -32,11 +32,11 @@ Rights: CC BY-NC 4.0
 **Contact:**<br/>
 PublishingLab<br/>
 Amsterdam University of Applied Sciences<br/>
+Room: 04A07<br/>
 Rhijnspoorplein 1<br/>
 1091 GC Amsterdam<br/>
-Room: 04A07<br/>
 The Netherlands<br/>
-[http://publishinglab.org](http://www.publishinglab.org)<br/>
+[http://publishinglab.org](http://www.publishinglab.org)
 
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 

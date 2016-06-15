@@ -10,44 +10,42 @@
 <!-- Silvio: it's always better to keep titles in title case (e.g. This is the Title) because these can be made uppercase afterwards via CSS --> 
 
 - [About](#about) <!--header-->
-- [Who We Are](#whoarewe)
-- [Who Our Interns Are](#whoareinternsare)
-- [Who Our Partners Are](#whoourpartnersare)
-- [What We Do](#whatwedo)
+	- [Who We Are](#whoarewe)
+	- [Who Our Interns Are](#whoareinternsare)
+	- [Who Our Partners Are](#whoourpartnersare)
+	- [What We Do](#whatwedo)
 
 - [Lab](#lab) <!--header-->
-- [Multidisciplinary And Multicultural Teamwork](#teamwork)
-- [Language](#language)
-- [Styles of Communication](#communication)
-- [Conflict](#conflict)
+	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
+	- [Language](#language)
+	- [Styles of Communication](#communication)
+	- [Conflict](#conflict)
 - [Presenting Your Work](#presenting)
 - [Blog](#blog)
 - [Sharing, Working And Documentation](#documentation)
 
 - [Process](#process) <!--header-->
-- [Design Process](#designproces)
-- [Research, Translate And Create](#researchtranslatecreate)
-- [SCRUM](#scrum)
-- [Sprints](#sprints)
-- [Rituals](#rituals)
-- [Workshops, masterclasses and lectures](#workshops) 
+	- [Design Process](#designproces)
+	- [Research, Translate And Create](#researchtranslatecreate)
+	- [SCRUM](#scrum)
+	- [Sprints](#sprints)
+	- [Rituals](#rituals)
+	- [Workshops, masterclasses and lectures](#workshops) 
 
 - [Showcases](#showcases) <!--header-->
-- [De Persgroep](#persgroep)
-- [Institute of Network Cultures](#INC)
-- [UNStudio](#unstudio)
 
 - [Resources](#resources) <!--header-->
-- [Hybrid Publishing Workflow](#HPW)
-- [How To](#howto)
-- [Sausage Machine](#sm)
-- [UX Principles](#UX)
-- [Code](#code)
+	- [Hybrid Publishing Workflow](#HPW)
+	- [UX Principles](#UX)
+	- [Code](#code)
+
+- [Deliverables](#deliverables)
+
 
 - [Practical Info](#practicalinfo) <!--header-->
 
 - [Program](#programme) <!--header-->
-- [Deliverables](#deliverables)
+
 </div>
 
 ------
@@ -109,7 +107,7 @@ This section explains how we work: the process and design methods for completing
 One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
 
 ![](imgs/figure1.png)
-Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).
+<p class="caption">Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).</p>
 <!--image of bad quality, but gives an idea of what is desired. change icons.-->
 
 ### <span id="researchtranslatecreate">Research, Translate And Create</span>
@@ -125,36 +123,41 @@ A ‘sprint’ (or iteration) is the basic unit of the development process. The 
 Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
 
 ![](imgs/figure2.png)
-Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).
+<p class="caption">Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).</p>
 
-1) Daily Stand-Up Meetings
+1] Daily Stand-Up Meetings
+
 The daily stand-up meeting takes place at the same time and place of every working day. This meeting is held in the morning, as it helps set the goal for the coming day’s work. They are strictly time-boxed to 15 minutes. This keeps the discussion brisk and relevant.
 
 The daily stand-up meeting is not used as a problem-solving or issue resolution meeting. Issues raised are usually dealt with immediately after the meeting. During the daily stand-up, each team member answers the following three questions:
 
-	1. What did you do yesterday?
-	2. What will you do today?
-	3. Are there any barriers in your way?
+1. What did you do yesterday?
+2. What will you do today?
+3. Are there any barriers in your way?
 
-2) Ideation And Planning
+2] Ideation And Planning
+
 Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.
 
-3) Translate and Transfer
+3] Translate and Transfer
+
 In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).
 
-4) Sprint Review
+4] Sprint Review
+
 After the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Specifically, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.
 
-5) Sprint Retrospective
+5] Sprint Retrospective
+
 A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
 
-## <span id="programme"(#programme)</span>
+## <span id="programme">Program</span>
 <!-- add some text here -->
 
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
 
-### <span id="scrum">SCRUM</span>
+## <span id="scrum">SCRUM</span>
 To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
 
 ### <span id="presentation">Pitch Training</span>
@@ -196,17 +199,18 @@ The following showcases are developed in close collaboration between students an
 Transforming Hit 'n' Run Millennials (2016)
 
 <!--partner(s)-->
-Partner: De Persgroep
+**Partner**: De Persgroep
 ![](imgs/logopersgroep.png)
 
 <!--challenge / research question:-->
-Challenge: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
+**Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
 
 <!--short alinea what the project is about-->
-Solution: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
+**Solution**: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
 
 <!--team-->
-Team: 
+**Team**: 
+
 - Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture 
 - Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture 
 - Alina Niemann (DE) University of Amsterdam, MA New Media & Digital Culture
@@ -227,17 +231,18 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 Navigating Theory on Demand (2015)
 
 <!--partner(s)-->
-Partner: Institute of Network Cultures
+**Partner**: Institute of Network Cultures
 ![](imgs/inc.jpg)
 
 <!-- challenge / research question: -->
-Challenge: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
+**Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
 
 <!--short alinea what the project is about-->
-Solution: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
+**Solution**: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
 
 <!--team-->
-Team: 
+**Team**: 
+
 - Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication 
 - Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture 
 - Inte Gloerich (PublishingLab coach) 
@@ -245,7 +250,7 @@ Team:
 - Lucia Dossin (PublishingLab support)
 
 <!--url-->
-Link: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
+**Link**: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
 
 <!--appealing image-->
 ![](imgs/NavTOD.png)
@@ -258,18 +263,19 @@ The project task involved adapting the already existing print and static content
 Knowledge Matters - Interactive Book App (2015)
 
 <!-- partner(s) -->
-Partner: UNStudio
+**Partner**: UNStudio
 ![](imgs/UNSTUDIO_logo.jpg)
 
 <!-- challenge / research question: -->
-Challenge: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
+**Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
 
 <!-- short alinea what the project is about -->
-Solution: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
+**Solution**: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
 The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
 
 <!-- team -->
-Team: 
+**Team**:
+
 - Joana Chicau (PT) Piet Zwart Institute Rotterdam, MA Media Design and Communication
 - Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design 
 - Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design 
@@ -279,7 +285,7 @@ Team:
 - Lucia Dossin (PublishingLab support)
 
 <!-- url -->
-Link: [UNSTUDIO](http://www.publishinglab.nl/unstudio/)
+**Link**: [UNSTUDIO](http://www.publishinglab.nl/unstudio/)
 
 
 ![](imgs/UN-rotatemenu.gif)
@@ -323,11 +329,13 @@ OPTIONAL READING
 Everything has a user experience (UX). The goal of a UX designer is to make effective design for users, which is central to our work. UX research starts with the aim of understanding the user and the client goals, developing ideas to solve the users’ needs, and then building and testing the solutions created in the real world (or lab environment).
 
 REQUIRED READING
+
 - [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 - Why you’re overthinking your UI/UX [video](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 - Google Specs for User Interaction [guidelines](https://www.google.com/design/spec/motion/material-motion.html#)
 
 OPTIONAL READING
+
 - How to become a UX designer [video](https://www.youtube.com/watch?v=CexVeagtk2Y&feature=youtu.be)
 - Paper prototyping [article](http://www.userfocus.co.uk/articles/paperprototyping.html)
 - [Adaptive (ebook) Layout site](http://sorotokin.com/adaptive-layout/)
@@ -338,11 +346,13 @@ OPTIONAL READING
 Coding is something you learn by doing. We don’t expect you to become a coder if you are a designer, but you need to have a basic but solid understanding of HTML and CSS.
 
 REQUIRED READING
+
 - [codeacademy](https://www.codecademy.com/learn/web) HTML & CSS
 - [Grids for the web](http://www.slideshare.net/huer1278ft/grids-are-good-right)
 - [CSS glossary](https://www.codecademy.com/articles/glossary-css)
 
 OPTIONAL READING
+
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Positioning [floats](https://css-tricks.com/all-about-floats/)
 - Positioning [relative](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
@@ -478,24 +488,24 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 ### <span id="deliverables">Deliverables And Wrap Up Checklist</span>
 
 1. Please deliver a .zip file to your coach including all of the following documents (if applicable to your project): 
-- Research poster (final_research_poster.pdf) - if available
-- Project posters.
-- All presentations in .pdf format.
-- Final Video - if available
-- Possible pictures documenting the process.
-- Test/survey data in test_data.xls - if available
-- Final budget - if available
-- List of all contacts.
-- 3D Models - if available
-- Final design and styleguide.
-- Wireframes. - In case of hardware: Schematic of the circuit(s), and provide a list of components. 
+	- Research poster (final_research_poster.pdf) - if available
+	- Project posters.
+	- All presentations in .pdf format.
+	- Final Video - if available
+	- Possible pictures documenting the process.
+	- Test/survey data in test_data.xls - if available
+	- Final budget - if available
+	- List of all contacts.
+	- 3D Models - if available
+	- Final design and styleguide.
+	- Wireframes. - In case of hardware: Schematic of the circuit(s), and provide a list of components. 
 
 2. Please upload to PublishingLab's Social Media (ask your PM for login details for the different accounts).
-— Upload final poster to ISUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
-— Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
-— Please put all documented/commented code on Github. 
-— If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu). 
-— Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester. 
-— Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
-— Please update your project page on the PublishingLab website. 
-— Please wrap up your project blog with a final post. 
+	— Upload final poster to ISUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
+	— Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
+	— Please put all documented/commented code on Github. 
+	— If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu). 
+	— Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester. 
+	— Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
+	— Please update your project page on the PublishingLab website. 
+	— Please wrap up your project blog with a final post. 
