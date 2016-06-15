@@ -258,7 +258,7 @@ Link: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
 <!--connect research paper-->
 The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
 
-### <span id="unstudio">UNSTUDIO</span>
+### <span id="unstudio">UNStudio</span>
 <!-- title (year) -->
 Knowledge Matters - Interactive Book App (2015)
 
