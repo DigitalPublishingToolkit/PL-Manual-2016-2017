@@ -185,7 +185,7 @@ After the team has completed the planned deliverables for this sprint it is time
 5) Sprint Retrospective
 A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
 
-## <span id="programme"(#programme)
+## <span id="programme"(#programme)</span>
 <!-- add some text here -->
 
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
