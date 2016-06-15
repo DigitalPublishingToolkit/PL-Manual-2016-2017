@@ -213,14 +213,15 @@ Underneath showcases are developed in close collaboration with one or more desig
 
 ### <span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
 
+<!--partner(s)-->
+Partner: De Persgroep
+![](imgs/logopersgroep.png)
+
 <!--challenge / research question:-->
 Challenge: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
 
 <!--short alinea what the project is about-->
 Solution: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
-
-<!--partner(s)-->
-Partner: De Persgroep
 
 <!--team-->
 Team: Belen Muñoz (ES) - University of Amsterdam, MA New Media & Digital Culture • Ilayda Ṣarlak (TR) - Utrecht University, MA New Media & Digital Culture • Alina Niemann (DE) - University of Amsterdam
@@ -237,14 +238,15 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 
 ### <span id="INC">Navigating Theory on Demand (2015)</span>
 
+<!--partner(s)-->
+Partner: Institute of Network Cultures
+![](imgs/inc.jpg)
+
 <!-- challenge / research question: -->
 Challenge: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
 
 <!--short alinea what the project is about-->
 Solution: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favourable aesthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
-
-<!--partner(s)-->
-Partner: Institute of Network Cultures
 
 <!--team-->
 Team: Léna Robin (FR) - Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication • Josip Batinic (HR) - University of Amsterdam, MA New Media and Digital Culture • Inte Gloerich (PublishingLab coach) • Gottfried Haider (PublishingLab support) • Lucia Dossin (PublishingLab support).
@@ -262,15 +264,16 @@ The project task involved adapting the already existing print and static content
 <!-- title (year) -->
 Knowledge Matters - Interactive Book App (2015)
 
+<!-- partner(s) -->
+Partner: UNStudio
+![](imgs/UNSTUDIO_logo.jpg)
+
 <!-- challenge / research question: -->
 Challenge: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
 
 <!-- short alinea what the project is about -->
 Solution: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
 The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
-
-<!-- partner(s) -->
-Partner: UNStudio
 
 <!-- team -->
 Team: Joana Chicau (PT) - Piet Zwart Institute Rotterdam, MA Media Design and Communication • Anastasia Kubrak (RU) - Design Academy Eindhoven, BA Media & Culture Design • Wahid Nawzadi (NL) - HAN University of Applied Sciences, BA Communication &  Multimedia Design • Karina Zavidova (RU) - Royal Academy of Art The Hague, BA Graphic Design • Jess van Zyl (PublishingLab coach) • Gottfried Haider (PublishingLab support) • Lucia Dossin (PublishingLab support).
