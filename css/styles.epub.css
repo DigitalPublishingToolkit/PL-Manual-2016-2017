@@ -26,7 +26,6 @@ body {
 
 
 /* Typography */
-
 * {
   word-wrap: break-word;
 }
@@ -35,14 +34,11 @@ h1, h2, h3, h4, h5, h6 {
   -moz-hyphens: none !important;
   -webkit-hyphens: none !important;
   adobe-hyphenate: none !important;
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  font-weight: bold;
+  margin: 2em 0 -0.5em 0;
+  font-weight: normal;
   color: #39FF03;
 
-  margin-top: 80px;
+
 }
 h1 {
   font-size: 3rem;
@@ -52,12 +48,13 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 1rem;
+  text-transform: uppercase;
 }
 h4, h5, h6 {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: 444;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 p {
   margin: 40px auto;
@@ -81,7 +78,6 @@ a::before {
 }
 
 /* TOC */
-
 #toc {
   list-style: square outside url("../md/imgs/hurricane.png");
 }
@@ -92,9 +88,7 @@ a::before {
   margin: 0;
 }
 
-
 /* Images */
-
 .figure {
   text-align: center;
 }
@@ -121,10 +115,12 @@ div#cover-image{
 }
 
 
-/* Program */
 
+
+/* Program */
 #program-table {
-  margin-bottom: 80px;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
 }
 .cell {
   box-sizing: border-box;
@@ -135,12 +131,11 @@ div#cover-image{
   height: 200px;
   background-color: white;
   float: left;
-  border: 1px dashed #39FF03;
+  border: 1px solid #39FF03;
   padding: 25px;
 }
 .event-inside {
-  background-color: #39FF03; 
-  border: 1px dashed white;
+  background-color: #39FF03;
 }
 .date {
   margin: 0 0 20px 0;
