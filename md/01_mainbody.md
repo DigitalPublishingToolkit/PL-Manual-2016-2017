@@ -33,7 +33,7 @@
 
 - [Workshops](#workshops)
 - [SCRUM](#scrum)
-- [Presentaiton Skills](#presentation)
+- [Pitch training](#presentation)
 - [DIY Publishing](#publishing)
 - [Ideation](#ideation)
 - [Writing](#writing)
@@ -45,6 +45,7 @@
 - [JavaScript](#javascript)
 - [Inspector](#inspector)
 - [Design](#design)
+- [Deliverables](#deliverables)
 
 - [Resources](#resources)
 - [Hybrid Publishing Workflow](#HPW)
@@ -189,8 +190,30 @@ Javascript, or simply JS, is responsible for the interaction in web pages. Under
 The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
 
 
-## <span id="masterclass">Workshop with Geert Lovink</span>
+### <span id="masterclass">Workshop with Geert Lovink</span>
 During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; The MoneyLab Agenda: Internet Revenue Models in the Arts. 
+
+### <span id="deliverables"Deliverables and Wrap Up Checklist</span>
+
+
+1. Please deliver a .zip file to your coach
+All project documentation - Provide all of the following documents that are applicable to your project: 
+- Research poster (final_research_poster.pdf) - if available
+- All presentations in pdf format. - Project posters. - test_data.xls - if available
+- experiment_methods_and_results.pdf - Final Video - if available - Pictures documenting the process (same as those that have gone on the Flickr set). - Final budget - if available - List of all contacts. - 3D Models - if available - Final design and styleguide. - Wireframes. - In case of hardware: Schematic of the circuit(s), and provide a list of components. 
+
+2. Please upload to PublishingLab's Social Media
+Ask your PM for login details for the different accounts. 
+— Upload final poster to ISUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
+— Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
+— Please put all documented/commented code on Github. 
+— In case of hardware, deliver a schematic of the circuit/setup and provide a list of components. 
+— If applicable, put your whole project on the VM server of the HvA (keep in mind that it runs ubuntu). 
+— Please upload your final teaser video or final promo to PUBLISHINGLAB’s YouTube account, add meaningful tags and include the school year & semester. 
+— Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
+— Please update your project page on the PUBLISHINGLAb website. 
+— Please wrap up your project blog, write a final post. 
+
 
 ## <span id="showcases">Showcases</span>
 Underneath showcases are developed in close collaboration with one or more designers and developers from the DPT Collective, as well as students and researchers from the PublishingLab, and a partner from the creative industries. 
