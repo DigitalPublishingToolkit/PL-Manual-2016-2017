@@ -19,9 +19,9 @@
 	- [Language](#language)
 	- [Styles of Communication](#communication)
 	- [Conflict](#conflict)
-- [Presenting Your Work](#presenting)
-- [Blog](#blog)
-- [Sharing, Working And Documentation](#documentation)
+	- [Presenting Your Work](#presenting)
+	- [Blog](#blog)
+	- [Sharing, Working And Documentation](#documentation)
 
 - [Process](#process) <!--header-->
 	- [Design Process](#designproces)
@@ -29,9 +29,13 @@
 	- [SCRUM](#scrum)
 	- [Sprints](#sprints)
 	- [Rituals](#rituals)
-	- [Workshops, masterclasses and lectures](#workshops) 
+	- [Workshops, Masterclasses and Lectures](#workshops) 
 
 - [Showcases](#showcases) <!--header-->
+	- [De Persgroep](#persgroep)
+	- [Institute of Network Cultures](#INC)
+	- [UNStudio](#unstudio)
+
 
 - [Resources](#resources) <!--header-->
 	- [Hybrid Publishing Workflow](#HPW)
