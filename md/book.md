@@ -5,16 +5,8 @@
 
 **PublishingLab manual, Semester 2016-2017**<br/>
 
-**Editors:** to be defined<br/>
-**Images:** to be defined<br/>
-**Print design:** to be defined<br/>
-**EPUB design:** to be defined<br/>
-**Cover design:** to be defined<br/>
 **Publisher:** PublishingLab, Amsterdam<br/>
 **Supported by:** Amsterdam Creative Industries Network
-
-
-**An EPUB and PDF edition of this publication are freely downloadable from:** [http://publishing.org/publications/](http://publishinglab.org/publications/)
 
 **Contact:**<br/>
 PublishingLab<br/>
@@ -24,6 +16,8 @@ Rhijnspoorplein 1<br/>
 1091 GC Amsterdam<br/>
 The Netherlands<br/>
 [http://publishinglab.org](http://www.publishinglab.org)
+
+**An EPUB and PDF edition of this publication are freely downloadable from:** [http://publishing.org/publications/](http://publishinglab.org/publications/)
 
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -58,9 +52,9 @@ Amsterdam, 2016<br/>
 	- [Language](#language)
 	- [Styles of Communication](#communication)
 	- [Conflict](#conflict)
-- [Presenting Your Work](#presenting)
-- [Blog](#blog)
-- [Sharing, Working And Documentation](#documentation)
+	- [Presenting Your Work](#presenting)
+	- [Blog](#blog)
+	- [Sharing, Working And Documentation](#documentation)
 
 - [Process](#process) <!--header-->
 	- [Design Process](#designproces)
@@ -68,9 +62,13 @@ Amsterdam, 2016<br/>
 	- [SCRUM](#scrum)
 	- [Sprints](#sprints)
 	- [Rituals](#rituals)
-	- [Workshops, masterclasses and lectures](#workshops) 
+	- [Workshops, Masterclasses and Lectures](#workshops) 
 
 - [Showcases](#showcases) <!--header-->
+	- [De Persgroep](#persgroep)
+	- [Institute of Network Cultures](#INC)
+	- [UNStudio](#unstudio)
+
 
 - [Resources](#resources) <!--header-->
 	- [Hybrid Publishing Workflow](#HPW)

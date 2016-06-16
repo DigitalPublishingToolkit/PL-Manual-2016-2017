@@ -36,16 +36,13 @@
 	- [Institute of Network Cultures](#INC)
 	- [UNStudio](#unstudio)
 
-
 - [Resources](#resources) <!--header-->
 	- [Hybrid Publishing Workflow](#HPW)
 	- [UX Principles](#UX)
 	- [Code](#code)
 
-- [Deliverables](#deliverables)
-
-
 - [Practical Info](#practicalinfo) <!--header-->
+- [Deliverables](#deliverables)
 
 - [Program](#programme) <!--header-->
 
