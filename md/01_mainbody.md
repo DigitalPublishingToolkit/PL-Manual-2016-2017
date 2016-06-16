@@ -1,9 +1,8 @@
+# PublishingLab Manual <br/><br/><br/><br/>2016-2017
 
+<p class="pagebr"></p>
 
-
-# PUBLISHINGLAB MANUAL 2016-2017
-
-#### Table of Contents
+<h4 class="nomargintop">Table of Contents</h4>
 
 <div id="toc">
 
@@ -47,8 +46,6 @@
 - [Program](#programme) <!--header-->
 
 </div>
-
-------
 
 ## <span id="about">About</span>
 Welcome to the [PublishingLab](http://publishinglab.org), this section tells you a bit about who we are, who our interns are and who our partners are. You will also find an overview of what we do.
@@ -106,7 +103,8 @@ This section explains how we work: the process and design methods for completing
 ### <span id="designprocess">Design Process</span> 
 One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
 
-![](imgs/figure1.png)
+<img class="noshadow" src="imgs/figure1.svg" />
+
 <p class="caption">Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).</p>
 <!--image of bad quality, but gives an idea of what is desired. change icons.-->
 
@@ -122,7 +120,8 @@ A ‘sprint’ (or iteration) is the basic unit of the development process. The 
 ### <span id="rituals">Rituals</span>
 Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
 
-![](imgs/figure2.png)
+<img class="noshadow" src="imgs/figure2.svg" />
+
 <p class="caption">Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).</p>
 
 1] Daily Stand-Up Meetings
@@ -199,8 +198,7 @@ The following showcases are developed in close collaboration between students an
 Transforming Hit 'n' Run Millennials (2016)
 
 <!--partner(s)-->
-**Partner**: De Persgroep
-![](imgs/logopersgroep.png)
+**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
 
 <!--challenge / research question:-->
 **Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
@@ -231,8 +229,7 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 Navigating Theory on Demand (2015)
 
 <!--partner(s)-->
-**Partner**: Institute of Network Cultures
-![](imgs/inc.jpg)
+**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
 
 <!-- challenge / research question: -->
 **Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
@@ -263,8 +260,7 @@ The project task involved adapting the already existing print and static content
 Knowledge Matters - Interactive Book App (2015)
 
 <!-- partner(s) -->
-**Partner**: UNStudio
-![](imgs/UNSTUDIO_logo.jpg)
+**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
 
 <!-- challenge / research question: -->
 **Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
@@ -308,13 +304,13 @@ This Toolkit is meant for everyone working in art and design publishing. No spec
 
 Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
-### <span id="howto">[How to](http://publishinglab.nl/howto/?How-toHybridPublishing)</span>
-Over the last two years we have improved our workflow. In our *PublishingLab: How-to* one can read the easy, step-by-step introductions to a specific field within digital publishing. 
+### <span id="howto">How To</span>
+Over the last two years we have improved our workflow. In our [*PublishingLab: How-to*](http://publishinglab.nl/howto/?How-toHybridPublishing) one can read the easy, step-by-step introductions to a specific field within digital publishing. 
 This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files).
 You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed. 
 
-### <span id="sm">[Sausage Machine](http://hpt.publishinglab.org/)</span>
-The Sausage Machine is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
+### <span id="sm">Sausage Machine</span>
+The <a href="http://hpt.publishinglab.org/">Sausage Machine</a> is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
 
 OPTIONAL READING
 
@@ -398,7 +394,7 @@ You need your ID card to print. Set up the printer to your laptop by following i
 The PublishingLab office is located within the Hogeschool van Amsterdam Location: Benno Premselahuis (BPH), Rhijnspoorplein 1, 1091 GC Amsterdam
 
 ##### Opening hours of the BPH
-mon-thurs: 8:30-19:30
+mon-thurs: 8:30-19:30<br/>
 fri: 8.30 – 18:00
 
 ##### Equipment hire and helpdesk
@@ -498,14 +494,13 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 	- List of all contacts.
 	- 3D Models - if available
 	- Final design and styleguide.
-	- Wireframes. - In case of hardware: Schematic of the circuit(s), and provide a list of components. 
-
-2. Please upload to PublishingLab's Social Media (ask your PM for login details for the different accounts).
-	— Upload final poster to ISUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
-	— Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
-	— Please put all documented/commented code on Github. 
-	— If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu). 
-	— Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester. 
-	— Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
-	— Please update your project page on the PublishingLab website. 
-	— Please wrap up your project blog with a final post. 
+	- Wireframes - In case of hardware: schematic of the circuit(s), and provide a list of components. 
+2. Please upload to PublishingLab's Social Media (ask your PM for login details for the different accounts):
+	- Upload final poster to ISSUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
+	- Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
+	- Please put all documented/commented code on Github. 
+	- If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu). 
+	- Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester. 
+	- Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
+	- Please update your project page on the PublishingLab website. 
+	- Please wrap up your project blog with a final post. 

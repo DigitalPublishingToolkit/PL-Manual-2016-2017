@@ -13,10 +13,10 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+<p class="pagebr"></p>
+<h5 class="nomargintop">Colophon</h5>
 
-###### Colophon
-
-### PublishingLab manual, Semester 2016-2017<br/>
+**PublishingLab manual, Semester 2016-2017**<br/>
 
 **Editors:** to be defined<br/>
 **Images:** to be defined<br/>
@@ -45,8 +45,8 @@ Amsterdam, 2016<br/>
 
 <div id="logos">
 
-![Hogeschool van Amsterdam](imgs/HvA.jpg)
-![ACIN](imgs/ACIN.png)
-![PublishingLab](imgs/publishinglab.png)
+<img class="logo" src="imgs/HvA.jpg" alt="Hogeschool van Amsterdam"/>
+<img class="logo" src="imgs/ACIN.png" alt="ACIN"/>
+<img class="logo" src="imgs/publishinglab.png" alt="PublishingLab"/>
 
 </div>

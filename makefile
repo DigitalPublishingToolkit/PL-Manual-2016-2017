@@ -80,7 +80,7 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/co
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
-		--toc-depth=1 \
+		--toc-depth=6 \
 		-o ../book.epub \
 		--epub-embed-font=../css/Lato-Regular.ttf \
 		--epub-embed-font=../css/Lato-Italic.ttf \
