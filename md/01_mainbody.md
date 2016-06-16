@@ -44,6 +44,7 @@
 	- [Code](#code)
 
 - [Practical Info](#practicalinfo) <!--header-->
+- [Schedule] (#schedule)
 - [Deliverables](#deliverables)
 
 
@@ -126,7 +127,7 @@ A ‘sprint retrospective’ is held at the very end of each sprint. This is a m
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
 
-## <span id="scrum">SCRUM</span>
+### <span id="scrumtraining">SCRUM</span>
 To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
 
 ### <span id="presentation">Pitch Training</span>
@@ -163,9 +164,8 @@ During the semester Geert Lovink, founder of the [Institute of Network Cultures]
 ## <span id="showcases">Showcases</span>
 The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries. 
 
-### <span id="persgroep">De Persgroep</span>
+### <span id="persgroep">De Persgroep - Transforming Hit 'n' Run Millennials (2016)</span>
 <!-- title (year) -->
-Transforming Hit 'n' Run Millennials (2016)
 
 <!--partner(s)-->
 **Partner**: <img class="logo" src="imgs/logopersgroep.png" />
@@ -194,9 +194,9 @@ Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transfo
 <!--connect research paper-->
 Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
 
-### <span id="INC">Institute of Network Cultures</span>
+### <span id="INC">Institute of Network Cultures - Navigating Theory on Demand (2015)
+</span>
 <!-- title (year) -->
-Navigating Theory on Demand (2015)
 
 <!--partner(s)-->
 **Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
@@ -225,9 +225,9 @@ Navigating Theory on Demand (2015)
 <!--connect research paper-->
 The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
 
-### <span id="unstudio">UNStudio</span>
+### <span id="unstudio">UNStudio Knowledge Matters - Interactive Book App (2015)
+</span>
 <!-- title (year) -->
-Knowledge Matters - Interactive Book App (2015)
 
 <!-- partner(s) -->
 **Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
@@ -432,7 +432,7 @@ For acrylic and workshop materials: [http://kunststofshop.nl](http://kunststofsh
 San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 30, Amsterdam.
 
 
-## <span id="program">Program</span>
+## <span id="schedule">Schedule</span>
 <div id="program-table">
 
 <div class="cell event-inside">
