@@ -20,36 +20,39 @@
 	- [Who Our Partners Are](#whoourpartnersare)
 	- [What We Do](#whatwedo)
 
-- [Lab](#lab) <!--header-->
-	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
-	- [Language](#language)
-	- [Styles of Communication](#communication)
-	- [Conflict](#conflict)
-- [Presenting Your Work](#presenting)
-- [Blog](#blog)
-- [Sharing, Working And Documentation](#documentation)
-
 - [Process](#process) <!--header-->
 	- [Design Process](#designproces)
 	- [Research, Translate And Create](#researchtranslatecreate)
 	- [SCRUM](#scrum)
 	- [Sprints](#sprints)
 	- [Rituals](#rituals)
-	- [Workshops, masterclasses and lectures](#workshops) 
+	- [Workshops, Masterclasses and Lectures](#workshops) 
+
+- [Program](#programme) <!--header-->
 
 - [Showcases](#showcases) <!--header-->
+	- [De Persgroep](#persgroep)
+	- [Institute of Network Cultures](#INC)
+	- [UNStudio](#unstudio)
+
+- [Lab](#lab) <!--header-->
+	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
+	- [Language](#language)
+	- [Styles of Communication](#communication)
+	- [Conflict](#conflict)
+	- [Presenting Your Work](#presenting)
+	- [Blog](#blog)
+	- [Sharing, Working And Documentation](#documentation)
 
 - [Resources](#resources) <!--header-->
 	- [Hybrid Publishing Workflow](#HPW)
 	- [UX Principles](#UX)
 	- [Code](#code)
 
+- [Practical Info](#practicalinfo) <!--header-->
+- [Schedule](#schedule)
 - [Deliverables](#deliverables)
 
-
-- [Practical Info](#practicalinfo) <!--header-->
-
-- [Program](#programme) <!--header-->
 
 </div>
 
@@ -67,40 +70,8 @@ PublishingLab works with students from different backgrounds, offering a wide ra
 ### <span id="whoourpartnersare">Who our partners are</span>
 PublishingLab works with various partners, ranging from government institutions, Dutch SMEs, and large international corporations in the field of digital media and publishing. Our projects are always shaped in co-creation with our partners. Working with partners means the PublishingLab has a good network in Amsterdam's creative industries. Recent partners include De Persgroep Nederland, De Persgroep Digitaal, WeekbladpersGroep, UNStudio, Canon, Cinekid, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek, rekto:verso, Archined, Piet Zwart Institute and many others.
 
-<!--maybe add some quotes from partners-->
-
 ### <span id="whatwedo">What We Do</span>
 The PublishingLab conducts applied research by doing innovative experiments in the field of (digital) publishing. This includes research on the impact of developments on the branch as a whole, conducting small experiments in the field of EPUB3 (such as research/work on user interface design for collaborative online editing environments), research/work on conveying hybrid publishing concepts and work flows to a non-expert audience or experiments that aim to solve interesting design problems.
-
-## <span id="lab">Lab: How To</span>
-This section is about how to conduct yourself in the lab, how to work in a team, and how to best present your work.
-
-### <span id="teamwork">Multidisciplinary And Multicultural Team Work</span>
-At the PublishingLab you will work in a team of people with different skill sets and from different educational and cultural backgrounds. These differences can have an impact on how a team works together. Working in a team with a varied composition therefore requires a special attitude, both professionally and socially. Here are some things you should take into account.
-
-### <span id="language">Language</span>
-Multidisciplinary and multicultural teams are great for creative processes. However, when people who work together have different languages, this can be an obstacle to success. Speaking in your mother tongue is very different from speaking in a second or third language. So please consider your words carefully; issues of differing interpretations may arise, as well as cultural differences, especially when the English is not the first language of either of you. Be proactive to overcome these differences: use visuals, write down your ideas, sketch. Make sure you understand each other.
-
-### <span id="communication">Styles of Communication</span>
-Methods of communication that are normal for one group of people may appear ineffective or inappropriate to another group. A person from a culture in which loud voices and interruptions are not seen as aggressive may intimidate someone from a culture that teaches more reserved modes of expression. Learning about the cultures of your team members before you start working with them can help you understand their methods of communication.
-
-### <span id="conflict">In Case Of Conflict</span>
-When conflict does occur within a team, members from different backgrounds may react to the situation in dramatically different ways. Some people will repress their reactions to an insult, while others will fight back. These reactions are based on individual personality to some extent but are also conditioned by a person’s background. Resolving conflict requires:
-
-* listening to the other person/people calmly
-* an understanding of everyone’s view of what caused the conflict
-* being open and respectful to each other’s background
-
-You can ask your coach to mediate if you feel your attempts at solving the conflict are not working.
-
-### <span id="presenting">Presenting Your Work</span>
-At the end of the design process you will have the opportunity to share what you created with the world. We use our website as a communication portal for all our projects, but you will also present your results to the creative industries during a final event.
-
-### <span id="blog">Blog</span>
-One of the PublishingLab’s most important communication channels is its blog. Here, project teams keep followers and friends updated on the latest developments and insights in their projects or in related fields. As a team we trust you are just as proud of your work as we are, and just as keen to share its news on a regular basis. In the first week you will learn how our blog works and how you can best communicate and promote your team’s work there. You will be expected to write a blog post at least twice a month during your internship.
-
-### <span id="documentation">Sharing, Working and Documentation</span>
-To work together efficiently you’ll need tools to collaborate on projects, share documents and calendars, and communicate. There are huge numbers of digital tools available to help you with this: use them! The right tools will put the most relevant information within easy reach. See the tools section on our website for inspiration.
 
 
 ## <span id="process">Process</span>
@@ -162,8 +133,13 @@ A ‘sprint retrospective’ is held at the very end of each sprint. This is a m
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
 
+<<<<<<< HEAD
 ### <span id="scrum">SCRUM</span>
 To structure the collaborative process of your project, we use the SCRUM method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
+=======
+### <span id="scrumtraining">SCRUM</span>
+To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
+>>>>>>> 7e9e87c6f76a6e984d6c44d4ce0f731278922381
 
 ### <span id="presentation">Pitch Training</span>
 Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
@@ -203,9 +179,8 @@ During the semester Geert Lovink, founder of the [Institute of Network Cultures]
 ## <span id="showcases">Showcases</span>
 The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries. 
 
-### <span id="persgroep">De Persgroep</span>
+### <span id="persgroep">De Persgroep - Transforming Hit 'n' Run Millennials (2016)</span>
 <!-- title (year) -->
-Transforming Hit 'n' Run Millennials (2016)
 
 <!--partner(s)-->
 **Partner**: <img class="logo" src="imgs/logopersgroep.png" />
@@ -234,9 +209,9 @@ Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transfo
 <!--connect research paper-->
 Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
 
-### <span id="INC">Institute of Network Cultures</span>
+### <span id="INC">Institute of Network Cultures - Navigating Theory on Demand (2015)
+</span>
 <!-- title (year) -->
-Navigating Theory on Demand (2015)
 
 <!--partner(s)-->
 **Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
@@ -265,9 +240,9 @@ Navigating Theory on Demand (2015)
 <!--connect research paper-->
 The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
 
-### <span id="unstudio">UNStudio</span>
+### <span id="unstudio">UNStudio Knowledge Matters - Interactive Book App (2015)
+</span>
 <!-- title (year) -->
-Knowledge Matters - Interactive Book App (2015)
 
 <!-- partner(s) -->
 **Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
@@ -299,6 +274,37 @@ The 'fast' mode is a selection of material thought to be presented as highlights
 <!-- connect research paper -->
 The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
 We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
+
+## <span id="lab">Lab: How To</span>
+This section is about how to conduct yourself in the lab, how to work in a team, and how to best present your work.
+
+### <span id="teamwork">Multidisciplinary And Multicultural Team Work</span>
+At the PublishingLab you will work in a team of people with different skill sets and from different educational and cultural backgrounds. These differences can have an impact on how a team works together. Working in a team with a varied composition therefore requires a special attitude, both professionally and socially. Here are some things you should take into account.
+
+### <span id="language">Language</span>
+Multidisciplinary and multicultural teams are great for creative processes. However, when people who work together have different languages, this can be an obstacle to success. Speaking in your mother tongue is very different from speaking in a second or third language. So please consider your words carefully; issues of differing interpretations may arise, as well as cultural differences, especially when the English is not the first language of either of you. Be proactive to overcome these differences: use visuals, write down your ideas, sketch. Make sure you understand each other.
+
+### <span id="communication">Styles of Communication</span>
+Methods of communication that are normal for one group of people may appear ineffective or inappropriate to another group. A person from a culture in which loud voices and interruptions are not seen as aggressive may intimidate someone from a culture that teaches more reserved modes of expression. Learning about the cultures of your team members before you start working with them can help you understand their methods of communication.
+
+### <span id="conflict">In Case Of Conflict</span>
+When conflict does occur within a team, members from different backgrounds may react to the situation in dramatically different ways. Some people will repress their reactions to an insult, while others will fight back. These reactions are based on individual personality to some extent but are also conditioned by a person’s background. Resolving conflict requires:
+
+* listening to the other person/people calmly
+* an understanding of everyone’s view of what caused the conflict
+* being open and respectful to each other’s background
+
+You can ask your coach to mediate if you feel your attempts at solving the conflict are not working.
+
+### <span id="presenting">Presenting Your Work</span>
+At the end of the design process you will have the opportunity to share what you created with the world. We use our website as a communication portal for all our projects, but you will also present your results to the creative industries during a final event.
+
+### <span id="blog">Blog</span>
+One of the PublishingLab’s most important communication channels is its blog. Here, project teams keep followers and friends updated on the latest developments and insights in their projects or in related fields. As a team we trust you are just as proud of your work as we are, and just as keen to share its news on a regular basis. In the first week you will learn how our blog works and how you can best communicate and promote your team’s work there. You will be expected to write a blog post at least twice a month during your internship.
+
+### <span id="documentation">Sharing, Working and Documentation</span>
+To work together efficiently you’ll need tools to collaborate on projects, share documents and calendars, and communicate. There are huge numbers of digital tools available to help you with this: use them! The right tools will put the most relevant information within easy reach. See the tools section on our website for inspiration.
+
 
 ## <span id="resources">Resources</span>
 These links, videos, books and tools will help prepare you for your role at the PublishingLab. Start by getting familiar with the Hybrid Publishing Toolkit.
@@ -441,7 +447,7 @@ For acrylic and workshop materials: [http://kunststofshop.nl](http://kunststofsh
 San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 30, Amsterdam.
 
 
-## <span id="program">Program</span>
+## <span id="schedule">Schedule</span>
 <div id="program-table">
 
 <div class="cell event-inside">
