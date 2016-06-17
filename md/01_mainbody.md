@@ -1,3 +1,9 @@
+<p class="pagebr"></p>
+
+<img class="bigpic" src="imgs/ppl1.jpg" />
+
+<p class="pagebr"></p>
+
 # PublishingLab Manual <br/><br/><br/><br/>2016-2017
 
 <p class="pagebr"></p>
@@ -156,8 +162,8 @@ A ‘sprint retrospective’ is held at the very end of each sprint. This is a m
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
 
-## <span id="scrum">SCRUM</span>
-To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
+### <span id="scrum">SCRUM</span>
+To structure the collaborative process of your project, we use the SCRUM method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
 
 ### <span id="presentation">Pitch Training</span>
 Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
@@ -189,6 +195,10 @@ The page inspector is a handy tool available in modern web browsers. It helps us
 
 ### <span id="masterclass">Workshop Geert Lovink</span>
 During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts. 
+
+<p class="pagebr"></p>
+
+<img class="bigpic centeraligned" src="imgs/devices.jpg" />
 
 ## <span id="showcases">Showcases</span>
 The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries. 
@@ -504,3 +514,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 	- Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
 	- Please update your project page on the PublishingLab website. 
 	- Please wrap up your project blog with a final post. 
+
+<p class="pagebr"></p>
+
+<img class="bigpic" src="imgs/ppl2.jpg" />

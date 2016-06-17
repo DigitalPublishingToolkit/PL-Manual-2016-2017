@@ -227,7 +227,19 @@ div#cover-image{
 .noshadow {
   box-shadow: none;
 }
-
+.bigpic {
+  width: 100%;
+  height: auto;
+  margin-top: -40px; /* to deal with the auto p */
+  margin-bottom: -40px; /* to deal with the auto p */
+  box-shadow: none;
+}
+.centeraligned {
+  padding-top: 40%;
+  padding-bottom: 40%;
+  border-top: 1px solid #39FF03;
+  border-bottom: 1px solid #39FF03;
+}
 
 
 /* Program */

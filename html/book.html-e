@@ -23,6 +23,11 @@ Colophon
 <div id="logos">
 <p><img class="logo" src="imgs/HvA.jpg" alt="Hogeschool van Amsterdam"/> <img class="logo" src="imgs/ACIN.png" alt="ACIN"/> <img class="logo" src="imgs/publishinglab.png" alt="PublishingLab"/></p>
 </div>
+<p class="pagebr">
+</p>
+<p><img class="bigpic" src="imgs/ppl1.jpg" /></p>
+<p class="pagebr">
+</p>
 <h1 id="publishinglab-manual-2016-2017">PublishingLab Manual <br/><br/><br/><br/>2016-2017</h1>
 <p class="pagebr">
 </p>
@@ -262,10 +267,10 @@ Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Proc
 </div>
 <p>This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books.</p>
 <p>Download From Print to eBooks <a href="http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/">here</a>.</p>
-<h3 id="how-to"><span id="howto"><a href="http://publishinglab.nl/howto/?How-toHybridPublishing">How to</a></span></h3>
-<p>Over the last two years we have improved our workflow. In our <em>PublishingLab: How-to</em> one can read the easy, step-by-step introductions to a specific field within digital publishing. This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files). You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros &amp; cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed.</p>
-<h3 id="sausage-machine"><span id="sm"><a href="http://hpt.publishinglab.org/">Sausage Machine</a></span></h3>
-<p>The Sausage Machine is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.</p>
+<h3 id="how-to"><span id="howto">How To</span></h3>
+<p>Over the last two years we have improved our workflow. In our <a href="http://publishinglab.nl/howto/?How-toHybridPublishing"><em>PublishingLab: How-to</em></a> one can read the easy, step-by-step introductions to a specific field within digital publishing. This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files). You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros &amp; cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed.</p>
+<h3 id="sausage-machine"><span id="sm">Sausage Machine</span></h3>
+<p>The <a href="http://hpt.publishinglab.org/">Sausage Machine</a> is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.</p>
 <p>OPTIONAL READING</p>
 <ul>
 <li><a href="http://www.publishinglab.nl/blog/publication/digital-publishing-toolkit-the-blog-posts/">Digital Publishing Toolkit: the Blogposts</a></li>
@@ -342,7 +347,7 @@ Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Proc
 <h4 id="facilities">Facilities</h4>
 <p>The PublishingLab office is located within the Hogeschool van Amsterdam Location: Benno Premselahuis (BPH), Rhijnspoorplein 1, 1091 GC Amsterdam</p>
 <h5 id="opening-hours-of-the-bph">Opening hours of the BPH</h5>
-<p>mon-thurs: 8:30-19:30 fri: 8.30 – 18:00</p>
+<p>mon-thurs: 8:30-19:30<br/> fri: 8.30 – 18:00</p>
 <h5 id="equipment-hire-and-helpdesk">Equipment hire and helpdesk</h5>
 <p>Level 2, BPH</p>
 <h4 id="internet-access">Internet access</h4>

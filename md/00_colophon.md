@@ -13,7 +13,8 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-<p class="pagebr"></p>
+
+<br/>
 <h5 class="nomargintop">Colophon</h5>
 
 **PublishingLab manual, Semester 2016-2017**<br/>
