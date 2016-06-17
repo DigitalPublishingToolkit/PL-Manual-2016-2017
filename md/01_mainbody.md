@@ -31,7 +31,7 @@
 - [Program](#programme) <!--header-->
 
 - [Showcases](#showcases) <!--header-->
-	- [De Persgroep](#persgroep)
+	- [Transforming Hit 'n' Run Millennials](#persgroep)
 	- [Institute of Network Cultures](#INC)
 	- [UNStudio](#unstudio)
 
@@ -80,7 +80,7 @@ This section explains how we work: the process and design methods for completing
 ### <span id="designprocess">Design Process</span> 
 One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
 
-<img class="noshadow" src="imgs/figure1.svg" />
+<img class="noshadow bigdiagram" src="imgs/figure1.svg" />
 
 <p class="caption">Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).</p>
 <!--image of bad quality, but gives an idea of what is desired. change icons.-->
@@ -97,11 +97,11 @@ A ‘sprint’ (or iteration) is the basic unit of the development process. The 
 ### <span id="rituals">Rituals</span>
 Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
 
-<img class="noshadow" src="imgs/figure2.svg" />
+<img class="noshadow bigdiagram" src="imgs/figure2.svg" />
 
 <p class="caption">Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).</p>
 
-1] Daily Stand-Up Meetings
+<span class="numeral">1</span> Daily Stand-Up Meetings
 
 The daily stand-up meeting takes place at the same time and place of every working day. This meeting is held in the morning, as it helps set the goal for the coming day’s work. They are strictly time-boxed to 15 minutes. This keeps the discussion brisk and relevant.
 
@@ -111,19 +111,19 @@ The daily stand-up meeting is not used as a problem-solving or issue resolution 
 2. What will you do today?
 3. Are there any barriers in your way?
 
-2] Ideation And Planning
+<span class="numeral">2</span> Ideation And Planning
 
 Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.
 
-3] Translate and Transfer
+<span class="numeral">3</span> Translate and Transfer
 
 In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).
 
-4] Sprint Review
+<span class="numeral">4</span> Sprint Review
 
 After the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Specifically, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.
 
-5] Sprint Retrospective
+<span class="numeral">5</span> Sprint Retrospective
 
 A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
 
@@ -133,13 +133,8 @@ A ‘sprint retrospective’ is held at the very end of each sprint. This is a m
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
 
-<<<<<<< HEAD
-### <span id="scrum">SCRUM</span>
-To structure the collaborative process of your project, we use the SCRUM method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
-=======
 ### <span id="scrumtraining">SCRUM</span>
-To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize yourself with this way of working.
->>>>>>> 7e9e87c6f76a6e984d6c44d4ce0f731278922381
+To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
 
 ### <span id="presentation">Pitch Training</span>
 Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
@@ -179,8 +174,11 @@ During the semester Geert Lovink, founder of the [Institute of Network Cultures]
 ## <span id="showcases">Showcases</span>
 The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries. 
 
-### <span id="persgroep">De Persgroep - Transforming Hit 'n' Run Millennials (2016)</span>
+### <span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
 <!-- title (year) -->
+
+<!--appealing image-->
+![](imgs/Persgroep.png)
 
 <!--partner(s)-->
 **Partner**: <img class="logo" src="imgs/logopersgroep.png" />
@@ -203,15 +201,14 @@ The following showcases are developed in close collaboration between students an
 <!--url-->
 Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
 
-<!--appealing image-->
-![](imgs/Persgroep.png)
-
 <!--connect research paper-->
 Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
 
-### <span id="INC">Institute of Network Cultures - Navigating Theory on Demand (2015)
-</span>
+### <span id="INC">Navigating Theory on Demand (2015)</span>
 <!-- title (year) -->
+
+<!--appealing image-->
+![](imgs/NavTOD.png)
 
 <!--partner(s)-->
 **Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
@@ -233,9 +230,6 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 
 <!--url-->
 **Link**: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
-
-<!--appealing image-->
-![](imgs/NavTOD.png)
 
 <!--connect research paper-->
 The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
@@ -321,7 +315,7 @@ This Toolkit is meant for everyone working in art and design publishing. No spec
 Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
 ### <span id="howto">How To</span>
-Over the last two years we have improved our workflow. In our [*PublishingLab: How-to*](http://publishinglab.nl/howto/?How-toHybridPublishing) one can read the easy, step-by-step introductions to a specific field within digital publishing. 
+Over the last two years we have improved our workflow. In our *[PublishingLab: How-to](http://publishinglab.nl/howto/?How-toHybridPublishing)* one can read the easy, step-by-step introductions to a specific field within digital publishing. 
 This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files).
 You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed. 
 
@@ -334,8 +328,6 @@ OPTIONAL READING
 * [Network Cultures digital publishing blog](http://networkcultures.org/digitalpublishing/)
 * [Out of Ink](http://networkcultures.org/outofink/)
 * [Radical Tactics of the Offline Library by Henry Warwick](http://networkcultures.org/blog/publication/no-07-radical-tactics-of-the-offline-library-henry-warwick/)
-
-![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_blog_aanp.jpg)
 
 ### <span id="UX">UX Principles</span>
 Everything has a user experience (UX). The goal of a UX designer is to make effective design for users, which is central to our work. UX research starts with the aim of understanding the user and the client goals, developing ideas to solve the users’ needs, and then building and testing the solutions created in the real world (or lab environment).
@@ -451,53 +443,115 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div id="program-table">
 
 <div class="cell event-inside">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
- <p class="event" >Sprint</p>
+ <p class="date" >Sept <strong>1</strong>, Thursday</p>
+ <p class="event" >Sprint 0 - Kickoff</p>
 </div>
 <div class="cell">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
+ <p class="date" >Sept <strong>2</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>3</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>4</strong>, Sunday</p>
 </div>
 <div class="cell event-inside">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
- <p class="event" >Sprint</p>
-</div>
-<div class="cell">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
+ <p class="date" >Sept <strong>5</strong>, Monday</p>
+ <p class="event" >Workshop SCRUM</p>
 </div>
 <div class="cell event-inside">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
- <p class="event" >Sprint</p>
-</div>
-<div class="cell">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
+ <p class="date" >Sept <strong>6</strong>, Tuesday</p>
+ <p class="event" >Presentation Skills</p>
 </div>
 <div class="cell event-inside">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
- <p class="event" >Sprint</p>
-</div>
-<div class="cell">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
+ <p class="date" >Sept <strong>7</strong>, Wednesday</p>
+ <p class="event" >Workshop Experimental Publishing</p>
 </div>
 <div class="cell event-inside">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
- <p class="event" >Sprint</p>
+ <p class="date" >Sept <strong>8</strong>, Thursday</p>
+ <p class="event" >Partner Visit</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>9</strong>, Friday</p>
+ <p class="event" >Sprint 0 Review + Retrospective</p>
 </div>
 <div class="cell">
- <p class="date" >Sept <strong>30</strong>, Monday</p>
+ <p class="date" >Sept <strong>10</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>11</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>12</strong>, Monday</p>
+ <p class="event" >Sprint 1 Ideation + Planning</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>13</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>14</strong>, Wednesday</p>
+ <p class="event" >Sprint 1 Translate</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>15</strong>, Thursday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>16</strong>, Friday</p>
+ <p class="event" >Deadline Design Brief</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>17</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>18</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>19</strong>, Monday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>20</strong>, Tuesday</p>
+ <p class="event" >Ideation Workshop</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>21</strong>, Wednesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>22</strong>, Thursday</p>
+ <p class="event" >Sprint 0 Review + Retrospective</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>23</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>24</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>25</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>26</strong>, Monday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>27</strong>, Tuesday</p>
+ <p class="event" >Peer Pitch</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>28</strong>, Wednesday</p>
+ <p class="event" >UX Design</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>29</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Sept <strong>30</strong>, Friday</p>
 </div>
 
 </div>
 <br class="clear" />
 
-
-<!--these images need to be worked out in a schema-->
-![img](imgs/1_september.JPG)
-![img](imgs/2_oktober.JPG)
-![img](imgs/3_november.JPG)
-![img](imgs/4_december.JPG)
-![img](imgs/5_january.JPG)
-
 ### <span id="deliverables">Deliverables And Wrap Up Checklist</span>
+
+<br />
 
 1. Please deliver a .zip file to your coach including all of the following documents (if applicable to your project): 
 	- Research poster (final_research_poster.pdf) - if available
