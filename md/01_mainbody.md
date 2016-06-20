@@ -12,7 +12,7 @@
 
 <div id="toc">
 
-<!-- Silvio: it's always better to keep titles in title case (e.g. This is the Title) because these can be made uppercase afterwards via CSS --> 
+<!-- Silvio: it's always better to keep titles in title case (e.g. This is the Title) because these can be made uppercase afterwards via CSS -->
 
 - [About](#about) <!--header-->
 	- [Who We Are](#whoarewe)
@@ -26,7 +26,7 @@
 	- [SCRUM](#scrum)
 	- [Sprints](#sprints)
 	- [Rituals](#rituals)
-	- [Workshops, Masterclasses and Lectures](#workshops) 
+	- [Workshops, Masterclasses and Lectures](#workshops)
 
 - [Program](#programme) <!--header-->
 
@@ -77,7 +77,7 @@ The PublishingLab conducts applied research by doing innovative experiments in t
 ## <span id="process">Process</span>
 This section explains how we work: the process and design methods for completing your project.
 
-### <span id="designprocess">Design Process</span> 
+### <span id="designprocess">Design Process</span>
 One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
 
 <img class="noshadow bigdiagram" src="imgs/figure1.svg" />
@@ -131,7 +131,7 @@ A ‘sprint retrospective’ is held at the very end of each sprint. This is a m
 <!-- add some text here -->
 
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
-During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
+During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
 
 ### <span id="scrumtraining">SCRUM</span>
 To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
@@ -146,8 +146,8 @@ Experimental approaches to publishing in the art and design fields can trigger t
 In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
 
 ### <span id="ux">User Experience Design</span>
-This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes. 
-Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans. 
+This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes.
+Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans.
 
 ### <span id="prototyping">Prototyping</span>
 How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
@@ -156,7 +156,7 @@ How do you test your concepts without spending a lot of time programming only to
 Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used by developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on [GitHub](https://github.com). We'll use the command line and a graphical interface, so that you can experiment with both and choose your favorite.
 
 ### <span id="HTML">HTML and CSS</span>
-HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will review the basics of HTML5 and CSS3: from the anatomy of a HTML file and CSS selectors to CSS animations and transitions.
+HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will take you a step further in your knowledge of HTML5 and CSS3.
 
 ### <span id="javascript">Javascript</span>
 Javascript, or simply JS, is responsible for the interaction in web pages. Understanding the DOM (Document Object Model), DOM events, variables, functions and how to use JS to add interaction to your pages is what this workshop is all about.
@@ -165,14 +165,14 @@ Javascript, or simply JS, is responsible for the interaction in web pages. Under
 The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
 
 ### <span id="masterclass">Workshop Geert Lovink</span>
-During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts. 
+During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts.
 
 <p class="pagebr"></p>
 
 <img class="bigpic centeraligned" src="imgs/devices.jpg" />
 
 ## <span id="showcases">Showcases</span>
-The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries. 
+The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries.
 
 ### <span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
 <!-- title (year) -->
@@ -190,10 +190,10 @@ The following showcases are developed in close collaboration between students an
 **Solution**: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
 
 <!--team-->
-**Team**: 
+**Team**:
 
-- Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture 
-- Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture 
+- Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture
+- Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture
 - Alina Niemann (DE) University of Amsterdam, MA New Media & Digital Culture
 - Inte Gloerich (NL) (PublishingLab coach)
 - Lucia Dossin (BR) (PublishingLab support)
@@ -220,12 +220,12 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 **Solution**: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
 
 <!--team-->
-**Team**: 
+**Team**:
 
-- Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication 
-- Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture 
-- Inte Gloerich (PublishingLab coach) 
-- Gottfried Haider (PublishingLab support) 
+- Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication
+- Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture
+- Inte Gloerich (PublishingLab coach)
+- Gottfried Haider (PublishingLab support)
 - Lucia Dossin (PublishingLab support)
 
 <!--url-->
@@ -252,11 +252,11 @@ The 'fast' mode is a selection of material thought to be presented as highlights
 **Team**:
 
 - Joana Chicau (PT) Piet Zwart Institute Rotterdam, MA Media Design and Communication
-- Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design 
-- Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design 
-- Karina Zavidova (RU) Royal Academy of Art The Hague, BA Graphic Design 
-- Jess van Zyl (PublishingLab coach) 
-- Gottfried Haider (PublishingLab support) 
+- Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design
+- Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design
+- Karina Zavidova (RU) Royal Academy of Art The Hague, BA Graphic Design
+- Jess van Zyl (PublishingLab coach)
+- Gottfried Haider (PublishingLab support)
 - Lucia Dossin (PublishingLab support)
 
 <!-- url -->
@@ -310,14 +310,14 @@ We use the Hybrid Publishing Toolkit (and variations on it) to produce EPUBs, we
 
 ![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub.png)
 
-This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books. 
+This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books.
 
 Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
 ### <span id="howto">How To</span>
-Over the last two years we have improved our workflow. In our *[PublishingLab: How-to](http://publishinglab.nl/howto/?How-toHybridPublishing)* one can read the easy, step-by-step introductions to a specific field within digital publishing. 
+Over the last two years we have improved our workflow. In our *[PublishingLab: How-to](http://publishinglab.nl/howto/?How-toHybridPublishing)* one can read the easy, step-by-step introductions to a specific field within digital publishing.
 This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files).
-You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed. 
+You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed.
 
 ### <span id="sm">Sausage Machine</span>
 The <a href="http://hpt.publishinglab.org/">Sausage Machine</a> is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
@@ -347,24 +347,27 @@ OPTIONAL READING
 
 
 ### <span id="code">Code</span>
-Coding is something you learn by doing. We don’t expect you to become a coder if you are a designer, but you need to have a basic but solid understanding of HTML and CSS.
+We don’t expect you to become a programmer if you are a designer, but coding is an essential design tool. Therefore, you need to have a basic but solid understanding of HTML and CSS at least. Knowing JS is not required by us, but it is definitely a plus.
 
 REQUIRED READING
 
-- [codeacademy](https://www.codecademy.com/learn/web) HTML & CSS
-- [Grids for the web](http://www.slideshare.net/huer1278ft/grids-are-good-right)
+- [Designing with code](https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals)
+- [HTML & CSS crash course](https://www.codecademy.com/learn/web)
+- [HTMl glossary](https://www.codecademy.com/articles/glossary-html)
 - [CSS glossary](https://www.codecademy.com/articles/glossary-css)
+- [CSS Transitions vs Animations I](https://cssanimation.rocks/transition-vs-animation/)
+- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Positioning - Absolute / Relative /  Static](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
+- [Grids for the web I](http://www.slideshare.net/huer1278ft/grids-are-good-right)
+- [Grids for the web II](https://www.smashingmagazine.com/2010/04/grid-based-web-design-simplified/)
 
 OPTIONAL READING
 
-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- Positioning [floats](https://css-tricks.com/all-about-floats/)
-- Positioning [relative](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
-- [Animations & transitions](http://css3.bradshawenterprises.com/transitions/)
-- [Transitions vs Animations](https://www.kirupa.com/html5/css3_animations_vs_transitions.htm)
-- CSS [reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [JS tutorial](http://www.htmldog.com/guides/javascript/)
+- [CSS Transitions vs Animations II](https://www.kirupa.com/html5/css3_animations_vs_transitions.htm)
+- [CSS Transitions vs Animations III](http://css3.bradshawenterprises.com/transitions/)
+- [CSS Positioning - Floats](https://css-tricks.com/all-about-floats/)
+- [Styling and Animating SVG with CSS](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/)
+- [Getting Started with Javascript](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 #### <span id="reads">Interesting Reads</span>
 <!--it would be nice to have a list here next to the resources of recommended resources-->
@@ -553,7 +556,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 
 <br />
 
-1. Please deliver a .zip file to your coach including all of the following documents (if applicable to your project): 
+1. Please deliver a .zip file to your coach including all of the following documents (if applicable to your project):
 	- Research poster (final_research_poster.pdf) - if available
 	- Project posters.
 	- All presentations in .pdf format.
@@ -564,16 +567,16 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 	- List of all contacts.
 	- 3D Models - if available
 	- Final design and styleguide.
-	- Wireframes - In case of hardware: schematic of the circuit(s), and provide a list of components. 
+	- Wireframes - In case of hardware: schematic of the circuit(s), and provide a list of components.
 2. Please upload to PublishingLab's Social Media (ask your PM for login details for the different accounts):
-	- Upload final poster to ISSUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
-	- Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
-	- Please put all documented/commented code on Github. 
-	- If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu). 
-	- Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester. 
-	- Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
-	- Please update your project page on the PublishingLab website. 
-	- Please wrap up your project blog with a final post. 
+	- Upload final poster to ISSUU, But ONLY if it will NOT be sent in for publication to conferences or journals.
+	- Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files.
+	- Please put all documented/commented code on Github.
+	- If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu).
+	- Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester.
+	- Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set.
+	- Please update your project page on the PublishingLab website.
+	- Please wrap up your project blog with a final post.
 
 <p class="pagebr"></p>
 
