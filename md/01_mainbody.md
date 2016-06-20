@@ -123,10 +123,10 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 <p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
 
 ![](imgs/tod-2.png)
-<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+<p class="caption">Screenshot of highlighting in webpage Navigationg Theory on Demand.</p> 
 
 ![](imgs/tod-3.png)
-<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+<p class="caption">Screenshot of searching in webpage Navigationg Theory on Demand.</p> 
 
 <!-- challenge / research question: -->
 **Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?

@@ -154,7 +154,13 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 <!-- title (year) -->
 
 <!--appealing image-->
-![](imgs/NavTOD.png)
+![](imgs/tod-1.png)
+<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+
+![](imgs/tod-2.png)
+<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+
+![](imgs/tod-3.png)
 <p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
 
 <!-- challenge / research question: -->
