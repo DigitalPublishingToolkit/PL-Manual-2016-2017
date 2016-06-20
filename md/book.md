@@ -137,8 +137,6 @@ The following showcases are developed in close collaboration between students an
 <!-- title (year) -->
 
 <!--appealing image-->
-![](imgs/Persgroep.png)
-<p class="caption">Screenshot of prototype.</p> <!--not sure of caption is needed-->
 
 ![](imgs/Persgroep-img2.png)
 <p class="caption">Screenshot of conducted survey about prototype.</p> 
@@ -385,7 +383,7 @@ To work together efficiently you’ll need tools to collaborate on projects, sha
 ## <span id="resources">Resources</span>
 These links, videos, books and tools will help prepare you for your role at the PublishingLab. Start by getting familiar with the Hybrid Publishing Toolkit.
 
-REQUIRED READING
+Required Reading
 
 ### <span id="HPW">Hybrid Publishing Toolkit</span>
 We use the Hybrid Publishing Toolkit (and variations on it) to produce EPUBs, websites and printed publications. If you haven’t already read it, be sure to read it while you’re here. It explains the Hybrid Publishing Workflow, and the context of our work in the PublishingLab.
@@ -404,7 +402,7 @@ You will find instructions and a template for making an ePub3, use CSS styles to
 ### <span id="sm">Sausage Machine</span>
 The <a href="http://hpt.publishinglab.org/">Sausage Machine</a> is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
 
-OPTIONAL READING
+Optional Reading
 
 * [Digital Publishing Toolkit: the Blogposts](http://www.publishinglab.nl/blog/publication/digital-publishing-toolkit-the-blog-posts/)
 * [Network Cultures digital publishing blog](http://networkcultures.org/digitalpublishing/)
@@ -414,13 +412,13 @@ OPTIONAL READING
 ### <span id="UX">UX Principles</span>
 Everything has a user experience (UX). The goal of a UX designer is to make effective design for users, which is central to our work. UX research starts with the aim of understanding the user and the client goals, developing ideas to solve the users’ needs, and then building and testing the solutions created in the real world (or lab environment).
 
-REQUIRED READING
+Required Reading
 
 - [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 - Why you’re overthinking your UI/UX [video](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 - Google Specs for User Interaction [guidelines](https://www.google.com/design/spec/motion/material-motion.html#)
 
-OPTIONAL READING
+Optional Reading
 
 - How to become a UX designer [video](https://www.youtube.com/watch?v=CexVeagtk2Y&feature=youtu.be)
 - Paper prototyping [article](http://www.userfocus.co.uk/articles/paperprototyping.html)
@@ -431,11 +429,11 @@ OPTIONAL READING
 ### <span id="code">Code</span>
 We don’t expect you to become a programmer if you are a designer, but coding is an essential design tool. Therefore, you need to have a basic but solid understanding of HTML and CSS at least. Knowing JS is not required by us, but it is definitely a plus.
 
-REQUIRED READING
+Required Reading
 
 - [Designing with code](https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals)
 - [HTML & CSS crash course](https://www.codecademy.com/learn/web)
-- [HTMl glossary](https://www.codecademy.com/articles/glossary-html)
+- [HTML glossary](https://www.codecademy.com/articles/glossary-html)
 - [CSS glossary](https://www.codecademy.com/articles/glossary-css)
 - [CSS Transitions vs Animations I](https://cssanimation.rocks/transition-vs-animation/)
 - [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -443,7 +441,7 @@ REQUIRED READING
 - [Grids for the web I](http://www.slideshare.net/huer1278ft/grids-are-good-right)
 - [Grids for the web II](https://www.smashingmagazine.com/2010/04/grid-based-web-design-simplified/)
 
-OPTIONAL READING
+Optional Reading
 
 - [CSS Transitions vs Animations II](https://www.kirupa.com/html5/css3_animations_vs_transitions.htm)
 - [CSS Transitions vs Animations III](http://css3.bradshawenterprises.com/transitions/)
@@ -451,7 +449,7 @@ OPTIONAL READING
 - [Styling and Animating SVG with CSS](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/)
 - [Getting Started with Javascript](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-#### <span id="reads">Interesting Reads</span>
+#### <span id="reads">Useful Resources</span>
 <!--it would be nice to have a list here next to the resources of recommended resources-->
 * [Post-Digital Publishing Archive](http://p-dpa.net/) by Silvio Lorusso
 * [James Bridle's](http://www.theguardian.com/profile/jamesbridle) articles on digital publishing at the Guardian

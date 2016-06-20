@@ -6,10 +6,10 @@ Type: manual
 Book-type: manual
 Anthology item: manual
 Item-id: unique no.
-Author: PublishingLab team
+Author: PublishingLab Team
 Author-email:   m.riphagen@hva.nl
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract:   The PublishingLab is an applied research lab in the field of hybrid publishing working at the intersection of publishing and digital technology, both in print and on a screen. This manual is meant for students and professionals alike to get involved in our activities.
+Keywords:   publishing, experimental, digital, books, apps, reading, manual, epub, design process, multidisciplinary teams, code, design, tools, interaction, archive, documentation, research
 Rights: CC BY-NC 4.0
 ...
 
