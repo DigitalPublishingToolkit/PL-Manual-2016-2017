@@ -1,4 +1,4 @@
-f<p class="pagebr"></p>
+<p class="pagebr"></p>
 
 <img class="bigpic" src="imgs/ppl1.jpg" />
 
@@ -65,62 +65,73 @@ The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com),
 
 ### <span id="team">Team</span>
 
-<div id="PublishingLab team">
+<div id="team">
 
+<div>
 <img src="imgs/dylan.png" />Dylan Degeling<br class="clear" />
 I'm a multimedia designer, with interest in interface design and digital publishing. I hold a BA in …. from Willem de Kooning Academy. Within the PublishingLab I’m mainly responsible for the design and development of a project in collaboration with the HvA/UvA library, which is about creating proper epubs for academic papers.
+</div>
 
+<div>
 <img src="imgs/lucia.png" /> Lucia Dossin<br class="clear" />
 I have a background in design and development for the web, hold a BA in Architecture and Urbanism from FAUUSP (Brazil) and a MA in Media Design and Communication from Piet Zwart Institute, Rotterdam. Interested in hybrid publishing and in mixing inputs and outputs. I am a curious person, I don’t have a smartphone and I love black cats.
+</div>
 
+<div>
 <img src="imgs/rose.png" /> Rose Leighton<br class="clear" />
 Bla
 Bla
 Bla
 Bla
 Bla
+</div>
 
-
+<div>
 <img src="imgs/silvio.png" /> Silvio Lorusso<br class="clear" />
-Bla
-Bla
-Bla
-Bla
-Bla
+I'm an Italian artist, designer, and researcher interested in the complicated relationship between technology and society. I hold a Ph.D. in Design Sciences from the School of Doctorate Studies – Iuav University of Venice. I took part in exhibitions and events such as Transmediale (Berlin, Germany), Impakt (Utrecht, Netherlands), Off the Press (Rotterdam, Netherlands), Adhocracy (Athens, Greece). My writing has appeared in Prismo, Printed Web 3, Metropolis M, Progetto Grafico, Digicult, Diid, and Doppiozero.
+</div>
 
-
+<div>
 <img src="imgs/margreet.png" /> Margreet Riphagen<br class="clear" />
 My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab. I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
+</div>
 
+### <span>Other Advisors Available from the Institute of Network Cultures</span>
 
-### <span id="">Other resources available from Institute of Network Cultures</span>
-
+<div>
 <img src="imgs/leonieke.png" /> Leonieke van Dipten<br class="clear" />
 After conducting an internship about Art Criticism I’m started beginning of September as a project manager at the Institute of Network Cultures. I hold a BA in ArtEZ Institute of Arts and a MA in New Media and Digital Culture at the University of Utrecht.
+</div>
 
+<div>
 <img src="imgs/inte.png" /> Inte Gloerich<br class="clear" />
 Bla
 Bla
 Bla
 Bla
+</div>
 
+<div>
 <img src="imgs/geert.png" /> Geert Lovink<br class="clear" />
 Bla
 Bla
 Bla
 Bla
+</div>
 
+<div>
 <img src="imgs/miriam.png" /> Miriam Rasch<br class="clear" />
 Bla
 Bla
 Bla
 Bla
+</div>
 
+<div>
 <img src="imgs/sonja.png" /> Sonja van der Valk<br class="clear" />
 Once I had a dream and when I discovered more people shared the same dream, the laboratorium and the academy for arts criticism was born. Nowadays called Stichting Domein voor Kunstkritiek. 
 I’m also teacher and advisor of the Education Theater lecturer, as well as chairman of the Dutch Theater Association which yearly organizes the Marie Kleine-Gartman essay price. 
-
-
+</div>
 
 </div>
 
