@@ -86,6 +86,7 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/co
 		--epub-embed-font=../css/Lato-Italic.ttf \
 		--epub-embed-font=../css/Lato-Bold.ttf \
 		--epub-embed-font=../css/Lato-BoldItalic.ttf \
+		--epub-embed-font=../css/Lato-Light.ttf \
 		book.md ; \
 #include line, if you wanto embed font:
 #		--epub-embed-font=../lib/UbuntuMono-B.ttf \

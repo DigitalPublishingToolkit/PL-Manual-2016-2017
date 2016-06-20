@@ -1,5 +1,5 @@
 ---
-Pr-id: PublishingLab manual
+Pr-id: PublishingLab Manual
 P-id: Manual
 A-id: semester 2016-2017
 Type: manual
@@ -13,7 +13,8 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-<p class="pagebr"></p>
+
+<br/>
 <h5 class="nomargintop">Colophon</h5>
 
 **PublishingLab manual, Semester 2016-2017**<br/>
@@ -34,6 +35,7 @@ The Netherlands<br/>
 
 This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+The text is set in [Lato](http://www.latofonts.com/lato-free-fonts/), designed by Łukasz Dziedzic.
 
 Amsterdam, 2016<br/>
 

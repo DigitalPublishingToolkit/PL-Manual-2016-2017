@@ -1,55 +1,8 @@
-/* Fonts (to let them work on the EPUB add them via the Makefile) */
-
-@font-face {
-  font-family: 'neuzeit';
-  font-weight: normal;
-  src: url('NeuzeitSLTStd-Book.otf');
-}
-@font-face {
-  font-family: 'neuzeit';
-  font-weight: bold;
-  src: url('NeuzeitSLTStd-BookHeavy.otf');
-}
-
-@font-face {
-  font-family: 'vag';
-  font-weight: normal;
-  src: url('VAGRoundedStdLight.ttf');
-}
-@font-face {
-  font-family: 'vag';
-  font-weight: bold;
-  src: url('VAGRoundedStdBold.ttf');
-}
-
-@font-face {
-  font-family: 'opensans';
-  font-weight: normal;
-  src: url('OpenSans-Light.otf');
-}
-@font-face {
-  font-family: 'opensans';
-  font-weight: normal;
-  font-style: italic;
-  src: url('OpenSans-LightItalic.otf');
-}
-
-@font-face {
-  font-family: 'opensans';
-  font-weight: bold;
-  src: url('OpenSans-Semibold.otf');
-}
-@font-face {
-  font-family: 'opensans';
-  font-weight: bold;
-  font-style: italic;
-  src: url('OpenSans-SemiboldItalic.otf');
-}
-
-
+/* Fonts (to let them work on the EPUB add them via the Makefile [todo: automate this]) */
 @font-face {
   font-family: 'lato';
   font-style: normal;
+  font-weight: normal;
   src: url('Lato-Regular.ttf');
 }
 @font-face {
@@ -68,11 +21,15 @@
   font-style: italic;
   src: url('Lato-BoldItalic.ttf');
 }
+@font-face {
+  font-family: 'lato';
+  font-weight: 200;
+  src: url('Lato-Light.ttf');
+}
 
 
 
 /* General */
-
 html {
   font-size: 100%;
 }
@@ -104,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: 200;
   color: #444;
   border: none;
   text-align: left;
@@ -112,8 +69,9 @@ h1 {
 }
 h2 {
   font-size: 1.5rem;
-  font-weight: bold;
+  font-weight: 200;
   page-break-before: always;
+  margin-bottom: 1em;
 }
 h3 {
   font-size: 1rem;
@@ -142,12 +100,16 @@ ul, li {
 .pagebr {
   page-break-after: always;
 }
+.numeral {
+  color: #39FF03;
+  margin-right: 20px;
+}
 
 /* Links */
-a {
+a, a:visited {
   color: #39FF03;
   text-decoration: none;
-  background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOC44MyA1My4zNSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7c3Ryb2tlOiMzOWZmMDM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7c3Ryb2tlLXdpZHRoOjNweDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmZsYWc8L3RpdGxlPjxwb2x5bGluZSBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMTQuNDIgNTIuNjggMzYuNTkgOC4zNCA4Ljk4IDMuMiAzMi42OSAxNi4xNiIvPjwvc3ZnPg==");
+  background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNS4wOSA1Mi4wNiI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7c3Ryb2tlOiMzOWZmMDM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7c3Ryb2tlLXdpZHRoOjJweDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmZsYWc8L3RpdGxlPjxwb2x5bGluZSBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMTEuNDMgNTEuNjEgMzMuNiA3LjI4IDUuOTkgMi4xMyAyOS42OSAxNS4wOSIvPjwvc3ZnPg==");
   background-size: 15px;
   background-position: right;
   background-repeat: no-repeat;
@@ -161,7 +123,7 @@ a {
 /* Lists */
 ul li {
   list-style: none;
-  background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOS42NyAyOS42NyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7c3Ryb2tlOiMzOWZmMDM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7c3Ryb2tlLXdpZHRoOjNweDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmNhbG08L3RpdGxlPjxjaXJjbGUgY2xhc3M9ImNscy0xIiBjeD0iMTQuODMiIGN5PSIxNC44MyIgcj0iMTMuMzMiLz48Y2lyY2xlIGNsYXNzPSJjbHMtMSIgY3g9IjE0LjgzIiBjeT0iMTQuODMiIHI9IjEuNCIvPjwvc3ZnPg==");
+  background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOC42NyAyOC42NyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7c3Ryb2tlOiMzOWZmMDM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7c3Ryb2tlLXdpZHRoOjJweDt9LmNscy0ye2ZpbGw6IzM5ZmYwMzt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmNhbG08L3RpdGxlPjxjaXJjbGUgY2xhc3M9ImNscy0xIiBjeD0iMTQuMzMiIGN5PSIxNC4zMyIgcj0iMTMuMzMiLz48Y2lyY2xlIGNsYXNzPSJjbHMtMiIgY3g9IjE0LjMzIiBjeT0iMTQuMzMiIHI9IjEuNCIvPjwvc3ZnPg==");
   padding-left: 27px;
   background-size: 15px;
   background-position: 0 10px;
@@ -177,7 +139,7 @@ ol li {
   background-image: none;
 }
 #toc a {
-  background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOS42NyAyOS42NyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7c3Ryb2tlOiMzOWZmMDM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7c3Ryb2tlLXdpZHRoOjNweDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmNvbXBhc3M8L3RpdGxlPjxjaXJjbGUgY2xhc3M9ImNscy0xIiBjeD0iMTQuODMiIGN5PSIxNC44MyIgcj0iMTMuMzMiLz48cG9seWxpbmUgY2xhc3M9ImNscy0xIiBwb2ludHM9IjE4LjA4IDE3LjQyIDE5LjkzIDEwLjQzIDEyLjgzIDEyLjA4Ii8+PC9zdmc+");
+  background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOC42NyAyOC42NyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7c3Ryb2tlOiMzOWZmMDM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7c3Ryb2tlLXdpZHRoOjJweDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmNvbXBhc3M8L3RpdGxlPjxjaXJjbGUgY2xhc3M9ImNscy0xIiBjeD0iMTU3NC41NyIgY3k9Ijg0NC41NSIgcj0iMTMuMzMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNjk2LjI1IDUzMC41NCkgcm90YXRlKC00NSkiLz48cG9seWxpbmUgY2xhc3M9ImNscy0xIiBwb2ludHM9IjExLjg5IDExLjg5IDE5LjIgOS43NyAxNi44NCAxNi44NCIvPjwvc3ZnPg==");
   background-position: center left;
   padding-left: 20px;
 }
@@ -227,37 +189,61 @@ div#cover-image{
 .noshadow {
   box-shadow: none;
 }
-
+.bigdiagram {
+  width: 100%;
+  height: auto;
+}
+.bigpic {
+  width: 100%;
+  height: auto;
+  margin-top: -40px; /* to deal with the auto p */
+  margin-bottom: -40px; /* to deal with the auto p */
+  box-shadow: none;
+}
+.centeraligned {
+  padding-top: 40%;
+  padding-bottom: 40%;
+  border-top: 1px solid #39FF03;
+  border-bottom: 1px solid #39FF03;
+}
 
 
 /* Program */
 #program-table {
   margin-top: 4rem;
   margin-bottom: 2rem;
+  padding: 10px;
 }
 .cell {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 
-  width: 200px;
-  height: 200px;
+  width: 140px;
+  height: 140px;
   background-color: white;
   float: left;
-  border: 1px solid #39FF03;
+  border: 1px dashed #39FF03;
   padding: 25px;
+
+  margin-left: -1px;
+  margin-top: -1px;
 }
 .event-inside {
   background-color: #39FF03;
+  -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1);
+  -moz-box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1);
+  box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1);
 }
 .date {
   margin: 0 0 20px 0;
-  font-size: 0.7rem;
+  font-size: 0.3rem;
 }
 .event {
   margin: 0;
   color: white;
-  font-size: 2rem;
+  font-size: 0.6rem;
+  font-weight: bold;
 }
 .clear {
   clear: both;
