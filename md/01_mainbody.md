@@ -1,4 +1,4 @@
-<p class="pagebr"></p>
+f<p class="pagebr"></p>
 
 <img class="bigpic" src="imgs/ppl1.jpg" />
 
@@ -66,6 +66,8 @@ The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com),
 ### <span id="team">Team</span>
 
 <div id="PublishingLab team">
+
+<img src="imgs/dylan.png" />Dylan Degeling<br class="clear" />
 I'm a multimedia designer, with interest in interface design and digital publishing. I hold a BA in …. from Willem de Kooning Academy. Within the PublishingLab I’m mainly responsible for the design and development of a project in collaboration with the HvA/UvA library, which is about creating proper epubs for academic papers.
 
 <img src="imgs/lucia.png" /> Lucia Dossin<br class="clear" />
