@@ -107,6 +107,7 @@ I'm a multimedia designer, with interest in interface design and digital publish
 I have a background in design and development for the web, hold a BA in Architecture and Urbanism from FAUUSP (Brazil) and a MA in Media Design and Communication from Piet Zwart Institute, Rotterdam. Interested in hybrid publishing and in mixing inputs and outputs. I am a curious person, I don’t have a smartphone and I love black cats.
 
 <img src="imgs/rose.png" /> Rose Leighton<br class="clear" />
+<<<<<<< HEAD
 bla
 bla
 bla
@@ -125,6 +126,28 @@ bla
 My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab. I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
 
 <div id="Other resources available from Institute of Network Cultures">
+=======
+Bla
+Bla
+Bla
+Bla
+Bla
+
+
+<img src="imgs/silvio.png" /> Silvio Lorusso<br class="clear" />
+Bla
+Bla
+Bla
+Bla
+Bla
+
+
+<img src="imgs/margreet.png" /> Margreet Riphagen<br class="clear" />
+My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab. I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
+
+
+### <span id="">Other resources available from Institute of Network Cultures</span>
+>>>>>>> 9e0e657526584d9261578ca80ec1e1489595e3de
 
 <img src="imgs/leonieke.png" /> Leonieke van Dipten<br class="clear" />
 After conducting an internship about Art Criticism I’m started beginning of September as a project manager at the Institute of Network Cultures. I hold a BA in ArtEZ Institute of Arts and a MA in New Media and Digital Culture at the University of Utrecht.
