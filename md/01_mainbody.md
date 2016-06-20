@@ -114,7 +114,7 @@ Bla
 Bla
 Bla
 
-<img src="imgs/sonja.png" /> Miriam Rasch<br class="clear" />
+<img src="imgs/sonja.png" /> Sonja van der Valk<br class="clear" />
 Once I had a dream and when I discovered more people shared the same dream, the laboratorium and the academy for arts criticism was born. Nowadays called Stichting Domein voor Kunstkritiek. 
 I’m also teacher and advisor of the Education Theater lecturer, as well as chairman of the Dutch Theater Association which yearly organizes the Marie Kleine-Gartman essay price. 
 
