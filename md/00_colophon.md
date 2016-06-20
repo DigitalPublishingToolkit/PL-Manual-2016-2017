@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 <br/>
 <h5 class="nomargintop">Colophon</h5>
 
-**PublishingLab manual, Semester 2016-2017**<br/>
+**PublishingLab Manual, Semester 2016-2017**<br/>
 
 **Publisher:** PublishingLab, Amsterdam<br/>
 **Supported by:** Amsterdam Creative Industries Network
