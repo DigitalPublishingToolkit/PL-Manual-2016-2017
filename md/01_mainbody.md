@@ -12,7 +12,7 @@
 
 <div id="toc">
 
-<!-- Silvio: it's always better to keep titles in title case (e.g. This is the Title) because these can be made uppercase afterwards via CSS --> 
+<!-- Silvio: it's always better to keep titles in title case (e.g. This is the Title) because these can be made uppercase afterwards via CSS -->
 
 - [About](#about) <!--header-->
 	- [Who We Are](#whoarewe)
@@ -20,20 +20,20 @@
 	- [Who Our Partners Are](#whoourpartnersare)
 	- [What We Do](#whatwedo)
 
+- [Showcases](#showcases) <!--header-->
+	- [Transforming Hit 'n' Run Millennials](#persgroep)
+	- [Institute of Network Cultures](#INC)
+	- [UNStudio](#unstudio)
+
 - [Process](#process) <!--header-->
 	- [Design Process](#designproces)
 	- [Research, Translate And Create](#researchtranslatecreate)
 	- [SCRUM](#scrum)
 	- [Sprints](#sprints)
 	- [Rituals](#rituals)
-	- [Workshops, Masterclasses and Lectures](#workshops) 
+	- [Workshops, Masterclasses and Lectures](#workshops)
 
 - [Program](#programme) <!--header-->
-
-- [Showcases](#showcases) <!--header-->
-	- [Transforming Hit 'n' Run Millennials](#persgroep)
-	- [Institute of Network Cultures](#INC)
-	- [UNStudio](#unstudio)
 
 - [Lab](#lab) <!--header-->
 	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
@@ -65,7 +65,7 @@ The PublishingLab is an applied research lab in the field of hybrid publishing w
 The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com), the national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. PublishingLab is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and consulting the industry. Together with the [Institute of Network Cultures](http://networkcultures.org) (INC), PublishingLab is located on the Amstelcampus Amsterdam.
 
 ### <span id="whoourinternsare">Who our interns are</span>
-PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated people who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
+PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated students who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
 
 ### <span id="whoourpartnersare">Who our partners are</span>
 PublishingLab works with various partners, ranging from government institutions, Dutch SMEs, and large international corporations in the field of digital media and publishing. Our projects are always shaped in co-creation with our partners. Working with partners means the PublishingLab has a good network in Amsterdam's creative industries. Recent partners include De Persgroep Nederland, De Persgroep Digitaal, WeekbladpersGroep, UNStudio, Canon, Cinekid, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek, rekto:verso, Archined, Piet Zwart Institute and many others.
@@ -74,10 +74,132 @@ PublishingLab works with various partners, ranging from government institutions,
 The PublishingLab conducts applied research by doing innovative experiments in the field of (digital) publishing. This includes research on the impact of developments on the branch as a whole, conducting small experiments in the field of EPUB3 (such as research/work on user interface design for collaborative online editing environments), research/work on conveying hybrid publishing concepts and work flows to a non-expert audience or experiments that aim to solve interesting design problems.
 
 
+## <span id="showcases">Showcases</span>
+The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries.
+
+### <span id="persgroep">Transforming Hit 'n' Run Millennials - De Persgroep (2016)</span>
+<!-- title (year) -->
+
+<!--appealing image-->
+![](imgs/Persgroep.png)
+<p class="caption">Screenshot of prototype.</p> <!--not sure of caption is needed-->
+
+![](imgs/Persgroep-img2.png)
+<p class="caption">Screenshot of conducted survey about prototype.</p> 
+
+![](imgs/Persgroep-img3.png)
+<p class="caption">Heatmap of testing the prototype.</p> 
+
+<!--challenge / research question:-->
+**Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
+
+<!--short alinea what the project is about-->
+**Solution**: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
+
+<!--team-->
+**Team**:
+
+- Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture
+- Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture
+- Alina Niemann (DE) University of Amsterdam, MA New Media & Digital Culture
+- Inte Gloerich (NL) (PublishingLab coach)
+- Lucia Dossin (BR) (PublishingLab support)
+
+<!--url-->
+**Link**: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
+
+<!--connect research paper-->
+Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
+
+<!--partner(s)-->
+**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
+
+
+### <span id="INC">Navigating Theory on Demand - Institute of Network Cultures (2015)</span>
+<!-- title (year) -->
+
+<!--appealing image-->
+![](imgs/tod-1.png)
+<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+
+![](imgs/tod-2.png)
+<p class="caption">Screenshot of highlighting in webpage Navigationg Theory on Demand.</p> 
+
+![](imgs/tod-3.png)
+<p class="caption">Screenshot of searching in webpage Navigationg Theory on Demand.</p> 
+
+<!-- challenge / research question: -->
+**Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
+
+<!--short alinea what the project is about-->
+**Solution**: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
+
+<!--team-->
+**Team**:
+
+- Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication
+- Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture
+- Inte Gloerich (PublishingLab coach)
+- Gottfried Haider (PublishingLab support)
+- Lucia Dossin (PublishingLab support)
+
+<!--url-->
+**Link**: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
+
+<!--connect research paper-->
+The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
+
+<!--partner(s)-->
+**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
+
+
+### <span id="unstudio">Knowledge Matters, Interactive Book App - UNStudio (2015)
+</span>
+<!-- title (year) -->
+
+<!-- challenge / research question: -->
+**Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
+
+<!-- short alinea what the project is about -->
+**Solution**: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
+The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
+
+<!-- team -->
+**Team**:
+
+- Joana Chicau (PT) Piet Zwart Institute Rotterdam, MA Media Design and Communication
+- Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design
+- Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design
+- Karina Zavidova (RU) Royal Academy of Art The Hague, BA Graphic Design
+- Jess van Zyl (PublishingLab coach)
+- Gottfried Haider (PublishingLab support)
+- Lucia Dossin (PublishingLab support)
+
+<!-- url -->
+**Link**: [Knowledge Matters, UNStudio](http://www.publishinglab.nl/unstudio/)
+
+
+![](imgs/UN-rotatemenu.gif)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+![](imgs/UNStudio2.jpg)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+![](imgs/UNStudio3.jpg)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+<!-- connect research paper -->
+The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
+We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
+
+<!-- partner(s) -->
+**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
+
+
 ## <span id="process">Process</span>
 This section explains how we work: the process and design methods for completing your project.
 
-### <span id="designprocess">Design Process</span> 
+### <span id="designprocess">Design Process</span>
 One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
 
 <img class="noshadow bigdiagram" src="imgs/figure1.svg" />
@@ -128,10 +250,11 @@ After the team has completed the planned deliverables for this sprint it is time
 A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
 
 ## <span id="programme">Program</span>
-<!-- add some text here -->
+PublishingLab follows MediaLAB Amsterdam's combination of an iterative design cycle and a scrum process in order to foster both the creative process and enforce teams to work structured and goal oriented. The method has proven to be a powerful combination for the multidisciplinary design teams that work on projects in the lab- context thats been provided. 
+In addition, students are immersed in a program of workshops, master classes, lectures, as well as support by the PublishingLab team. 
 
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
-During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures. 
+During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
 
 ### <span id="scrumtraining">SCRUM</span>
 To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
@@ -146,8 +269,8 @@ Experimental approaches to publishing in the art and design fields can trigger t
 In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
 
 ### <span id="ux">User Experience Design</span>
-This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes. 
-Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans. 
+This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes.
+Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans.
 
 ### <span id="prototyping">Prototyping</span>
 How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
@@ -156,7 +279,7 @@ How do you test your concepts without spending a lot of time programming only to
 Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used by developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on [GitHub](https://github.com). We'll use the command line and a graphical interface, so that you can experiment with both and choose your favorite.
 
 ### <span id="HTML">HTML and CSS</span>
-HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will review the basics of HTML5 and CSS3: from the anatomy of a HTML file and CSS selectors to CSS animations and transitions.
+HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will take you a step further in your knowledge of HTML5 and CSS3.
 
 ### <span id="javascript">Javascript</span>
 Javascript, or simply JS, is responsible for the interaction in web pages. Understanding the DOM (Document Object Model), DOM events, variables, functions and how to use JS to add interaction to your pages is what this workshop is all about.
@@ -165,109 +288,12 @@ Javascript, or simply JS, is responsible for the interaction in web pages. Under
 The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
 
 ### <span id="masterclass">Workshop Geert Lovink</span>
-During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts. 
+During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts.
 
 <p class="pagebr"></p>
 
 <img class="bigpic centeraligned" src="imgs/devices.jpg" />
 
-## <span id="showcases">Showcases</span>
-The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries. 
-
-### <span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
-<!-- title (year) -->
-
-<!--appealing image-->
-![](imgs/Persgroep.png)
-
-<!--partner(s)-->
-**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
-
-<!--challenge / research question:-->
-**Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
-
-<!--short alinea what the project is about-->
-**Solution**: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
-
-<!--team-->
-**Team**: 
-
-- Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture 
-- Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture 
-- Alina Niemann (DE) University of Amsterdam, MA New Media & Digital Culture
-- Inte Gloerich (NL) (PublishingLab coach)
-- Lucia Dossin (BR) (PublishingLab support)
-
-<!--url-->
-Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
-
-<!--connect research paper-->
-Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
-
-### <span id="INC">Navigating Theory on Demand (2015)</span>
-<!-- title (year) -->
-
-<!--appealing image-->
-![](imgs/NavTOD.png)
-
-<!--partner(s)-->
-**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
-
-<!-- challenge / research question: -->
-**Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
-
-<!--short alinea what the project is about-->
-**Solution**: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
-
-<!--team-->
-**Team**: 
-
-- Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication 
-- Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture 
-- Inte Gloerich (PublishingLab coach) 
-- Gottfried Haider (PublishingLab support) 
-- Lucia Dossin (PublishingLab support)
-
-<!--url-->
-**Link**: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
-
-<!--connect research paper-->
-The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
-
-### <span id="unstudio">UNStudio Knowledge Matters - Interactive Book App (2015)
-</span>
-<!-- title (year) -->
-
-<!-- partner(s) -->
-**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
-
-<!-- challenge / research question: -->
-**Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
-
-<!-- short alinea what the project is about -->
-**Solution**: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
-The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
-
-<!-- team -->
-**Team**:
-
-- Joana Chicau (PT) Piet Zwart Institute Rotterdam, MA Media Design and Communication
-- Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design 
-- Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design 
-- Karina Zavidova (RU) Royal Academy of Art The Hague, BA Graphic Design 
-- Jess van Zyl (PublishingLab coach) 
-- Gottfried Haider (PublishingLab support) 
-- Lucia Dossin (PublishingLab support)
-
-<!-- url -->
-**Link**: [UNSTUDIO](http://www.publishinglab.nl/unstudio/)
-
-
-![](imgs/UN-rotatemenu.gif)
-
-<!-- connect research paper -->
-The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
-We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
 
 ## <span id="lab">Lab: How To</span>
 This section is about how to conduct yourself in the lab, how to work in a team, and how to best present your work.
@@ -310,14 +336,14 @@ We use the Hybrid Publishing Toolkit (and variations on it) to produce EPUBs, we
 
 ![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub.png)
 
-This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books. 
+This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books.
 
 Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
 ### <span id="howto">How To</span>
-Over the last two years we have improved our workflow. In our *[PublishingLab: How-to](http://publishinglab.nl/howto/?How-toHybridPublishing)* one can read the easy, step-by-step introductions to a specific field within digital publishing. 
+Over the last two years we have improved our workflow. In our *[PublishingLab: How-to](http://publishinglab.nl/howto/?How-toHybridPublishing)* one can read the easy, step-by-step introductions to a specific field within digital publishing.
 This how-to shows you how to create an epub using the Hybrid Publishing Workflow for creating multiple publications from one source file (including eBooks as ePub3 files).
-You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed. 
+You will find instructions and a template for making an ePub3, use CSS styles to modify your layout, and learn about the pros & cons of a fixed layout ePub. Additionally, some other current options for digital publishing are discussed.
 
 ### <span id="sm">Sausage Machine</span>
 The <a href="http://hpt.publishinglab.org/">Sausage Machine</a> is an experimental system meant to facilitate hybrid text production. It builds upon the Hybrid Publishing Toolkit – an effort by a number of researchers and practitioners engaged in various forms of contemporary cross-media publishing. The Sausage Machine has been designed and programmed by Gottfried Haider during his employment at PublishingLab.
@@ -347,24 +373,27 @@ OPTIONAL READING
 
 
 ### <span id="code">Code</span>
-Coding is something you learn by doing. We don’t expect you to become a coder if you are a designer, but you need to have a basic but solid understanding of HTML and CSS.
+We don’t expect you to become a programmer if you are a designer, but coding is an essential design tool. Therefore, you need to have a basic but solid understanding of HTML and CSS at least. Knowing JS is not required by us, but it is definitely a plus.
 
 REQUIRED READING
 
-- [codeacademy](https://www.codecademy.com/learn/web) HTML & CSS
-- [Grids for the web](http://www.slideshare.net/huer1278ft/grids-are-good-right)
+- [Designing with code](https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals)
+- [HTML & CSS crash course](https://www.codecademy.com/learn/web)
+- [HTMl glossary](https://www.codecademy.com/articles/glossary-html)
 - [CSS glossary](https://www.codecademy.com/articles/glossary-css)
+- [CSS Transitions vs Animations I](https://cssanimation.rocks/transition-vs-animation/)
+- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Positioning - Absolute / Relative /  Static](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
+- [Grids for the web I](http://www.slideshare.net/huer1278ft/grids-are-good-right)
+- [Grids for the web II](https://www.smashingmagazine.com/2010/04/grid-based-web-design-simplified/)
 
 OPTIONAL READING
 
-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- Positioning [floats](https://css-tricks.com/all-about-floats/)
-- Positioning [relative](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
-- [Animations & transitions](http://css3.bradshawenterprises.com/transitions/)
-- [Transitions vs Animations](https://www.kirupa.com/html5/css3_animations_vs_transitions.htm)
-- CSS [reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [JS tutorial](http://www.htmldog.com/guides/javascript/)
+- [CSS Transitions vs Animations II](https://www.kirupa.com/html5/css3_animations_vs_transitions.htm)
+- [CSS Transitions vs Animations III](http://css3.bradshawenterprises.com/transitions/)
+- [CSS Positioning - Floats](https://css-tricks.com/all-about-floats/)
+- [Styling and Animating SVG with CSS](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/)
+- [Getting Started with Javascript](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 #### <span id="reads">Interesting Reads</span>
 <!--it would be nice to have a list here next to the resources of recommended resources-->
@@ -402,11 +431,11 @@ You need your ID card to print. Set up the printer to your laptop by following i
 The PublishingLab office is located within the Hogeschool van Amsterdam Location: Benno Premselahuis (BPH), Rhijnspoorplein 1, 1091 GC Amsterdam
 
 ##### Opening hours of the BPH
-mon-thurs: 8:30-19:30<br/>
-fri: 8.30 – 18:00
+Monday - Thursday: 7:30-19:30<br/>
+Friday: 7.30 – 18:00
 
 ##### Equipment hire and helpdesk
-Level 2, BPH
+2nd Floor, Benno Premsela Huis
 
 #### Internet access
 You can access the internet via eduroam if you are already a student. Otherwise, ask your coach to set up a guest account. Once you have your HvA ID & password you can login to the eduroam or HvA wifi.
@@ -436,6 +465,8 @@ Amsterdam ph: 020 623 5834
 For acrylic and workshop materials: [http://kunststofshop.nl](http://kunststofshop.nl)
 
 ##### Bookshops
+[Athenaeum](https://www.athenaeum.nl/winkels/roeterseiland/), location Roeterseiland - Roetersstraat 41, Amsterdam  
+
 San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 30, Amsterdam.
 
 
@@ -553,7 +584,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 
 <br />
 
-1. Please deliver a .zip file to your coach including all of the following documents (if applicable to your project): 
+1. Please deliver a .zip file to your coach including all of the following documents (if applicable to your project):
 	- Research poster (final_research_poster.pdf) - if available
 	- Project posters.
 	- All presentations in .pdf format.
@@ -564,16 +595,16 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 	- List of all contacts.
 	- 3D Models - if available
 	- Final design and styleguide.
-	- Wireframes - In case of hardware: schematic of the circuit(s), and provide a list of components. 
+	- Wireframes - In case of hardware: schematic of the circuit(s), and provide a list of components.
 2. Please upload to PublishingLab's Social Media (ask your PM for login details for the different accounts):
-	- Upload final poster to ISSUU, But ONLY if it will NOT be sent in for publication to conferences or journals. 
-	- Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files. 
-	- Please put all documented/commented code on Github. 
-	- If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu). 
-	- Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester. 
-	- Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set. 
-	- Please update your project page on the PublishingLab website. 
-	- Please wrap up your project blog with a final post. 
+	- Upload final poster to ISSUU, But ONLY if it will NOT be sent in for publication to conferences or journals.
+	- Please clean up your dropbox/drive and order it. Delete all draft files and just keep the final versions of the files.
+	- Please put all documented/commented code on Github.
+	- If applicable, put your whole project on the Virtual Machine server of the HvA (keep in mind that it runs ubuntu).
+	- Please upload your final video to PublishingLab's Vimeo account, add meaningful tags and include the school year & semester.
+	- Please upload relevant pictures (30-40 pics) from all phases of the project to Flickr and use proper tags (check how previous projects are tagged). Make a set for your project and add the pics to the set.
+	- Please update your project page on the PublishingLab website.
+	- Please wrap up your project blog with a final post.
 
 <p class="pagebr"></p>
 
