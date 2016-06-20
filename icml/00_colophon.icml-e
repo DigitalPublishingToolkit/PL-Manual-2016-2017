@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/" Name="">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -34,12 +29,7 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header6" Name="Header6" LeftIndent="0">
+      <ParagraphStyle Self="ParagraphStyle/" Name="" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -64,64 +54,22 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header6">
+<ParagraphStyleRange AppliedParagraphStyle="">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Colophon</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>PublishingLab manual, Semester 2016-2017</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Editors:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to be defined</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Images:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to be defined</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Print design:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to be defined</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>EPUB design:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to be defined</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Cover design:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> to be defined</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Publisher:</Content>
   </CharacterStyleRange>
@@ -141,20 +89,6 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>An EPUB and PDF edition of this publication are freely downloadable from:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://publishing.org/publications/</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Contact:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -164,13 +98,13 @@
     <Content> Amsterdam University of Applied Sciences</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Room: 04A07</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Rhijnspoorplein 1</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 1091 GC Amsterdam</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Room: 04A07</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> The Netherlands</Content>
@@ -178,9 +112,23 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://publishinglab.org</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>An EPUB and PDF edition of this publication are freely downloadable from:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://publishing.org/publications/</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
 </ParagraphStyleRange>
@@ -201,92 +149,41 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The text is set in </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Lato</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, designed by Łukasz Dziedzic.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Amsterdam, 2016</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/logos_partners/logo_partner_HvA.png" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 297.50000 -150.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-297.50000 -150.00000" LeftDirection="-297.50000 -150.00000" RightDirection="-297.50000 -150.00000" />
-              <PathPointType Anchor="-297.50000 150.00000" LeftDirection="-297.50000 150.00000" RightDirection="-297.50000 150.00000" />
-              <PathPointType Anchor="297.50000 150.00000" LeftDirection="297.50000 150.00000" RightDirection="297.50000 150.00000" />
-              <PathPointType Anchor="297.50000 -150.00000" LeftDirection="297.50000 -150.00000" RightDirection="297.50000 -150.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -297.50000 -150.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/ACIN.png" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 250.00000 -50.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-250.00000 -50.00000" LeftDirection="-250.00000 -50.00000" RightDirection="-250.00000 -50.00000" />
-              <PathPointType Anchor="-250.00000 50.00000" LeftDirection="-250.00000 50.00000" RightDirection="-250.00000 50.00000" />
-              <PathPointType Anchor="250.00000 50.00000" LeftDirection="250.00000 50.00000" RightDirection="250.00000 50.00000" />
-              <PathPointType Anchor="250.00000 -50.00000" LeftDirection="250.00000 -50.00000" RightDirection="250.00000 -50.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -250.00000 -50.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/publishinglab.png" />
-      </Image>
-    </Rectangle>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.latofonts.com/lato-free-fonts/" Name="link" DestinationURL="http://www.latofonts.com/lato-free-fonts/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.latofonts.com/lato-free-fonts/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.latofonts.com/lato-free-fonts/</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//creativecommons.org/licenses/by-nc-sa/4.0/" Name="link" DestinationURL="http://creativecommons.org/licenses/by-nc-sa/4.0/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://creativecommons.org/licenses/by-nc-sa/4.0/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
@@ -294,18 +191,18 @@
       <Destination type="object">HyperlinkURLDestination/http%3a//creativecommons.org/licenses/by-nc-sa/4.0/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.publishinglab.org" Name="link" DestinationURL="http://www.publishinglab.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://www.publishinglab.org" Source="htss-2" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.publishinglab.org</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//publishinglab.org/publications/" Name="link" DestinationURL="http://publishinglab.org/publications/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="http://publishinglab.org/publications/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="http://publishinglab.org/publications/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//publishinglab.org/publications/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.publishinglab.org" Name="link" DestinationURL="http://www.publishinglab.org" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.publishinglab.org" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.publishinglab.org</Destination>
     </Properties>
   </Hyperlink>
 </Document>
