@@ -77,7 +77,7 @@ Amsterdam, 2016<br/>
 	- [Code](#code)
 
 - [Practical Info](#practicalinfo) <!--header-->
-- [Schedule] (#schedule)
+- [Schedule](#schedule)
 - [Deliverables](#deliverables)
 
 
