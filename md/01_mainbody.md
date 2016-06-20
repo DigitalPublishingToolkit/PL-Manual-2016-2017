@@ -77,14 +77,11 @@ The PublishingLab conducts applied research by doing innovative experiments in t
 ## <span id="showcases">Showcases</span>
 The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries.
 
-### <span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
+### <span id="persgroep">Transforming Hit 'n' Run Millennials - De Persgroep (2016)</span>
 <!-- title (year) -->
 
 <!--appealing image-->
 ![](imgs/Persgroep.png)
-
-<!--partner(s)-->
-**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
 
 <!--challenge / research question:-->
 **Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
@@ -107,14 +104,15 @@ Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transfo
 <!--connect research paper-->
 Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
 
-### <span id="INC">Navigating Theory on Demand (2015)</span>
+<!--partner(s)-->
+**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
+
+
+### <span id="INC">Navigating Theory on Demand - Institute of Network Cultures (2015)</span>
 <!-- title (year) -->
 
 <!--appealing image-->
 ![](imgs/NavTOD.png)
-
-<!--partner(s)-->
-**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
 
 <!-- challenge / research question: -->
 **Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
@@ -137,12 +135,13 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 <!--connect research paper-->
 The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
 
-### <span id="unstudio">UNStudio Knowledge Matters - Interactive Book App (2015)
+<!--partner(s)-->
+**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
+
+
+### <span id="unstudio">Knowledge Matters, Interactive Book App - UNStudio (2015)
 </span>
 <!-- title (year) -->
-
-<!-- partner(s) -->
-**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
 
 <!-- challenge / research question: -->
 **Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
@@ -171,6 +170,9 @@ The 'fast' mode is a selection of material thought to be presented as highlights
 <!-- connect research paper -->
 The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
 We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
+
+<!-- partner(s) -->
+**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
 
 
 ## <span id="process">Process</span>
