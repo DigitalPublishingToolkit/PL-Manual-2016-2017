@@ -20,6 +20,11 @@
 	- [Who Our Partners Are](#whoourpartnersare)
 	- [What We Do](#whatwedo)
 
+- [Showcases](#showcases) <!--header-->
+	- [Transforming Hit 'n' Run Millennials](#persgroep)
+	- [Institute of Network Cultures](#INC)
+	- [UNStudio](#unstudio)
+
 - [Process](#process) <!--header-->
 	- [Design Process](#designproces)
 	- [Research, Translate And Create](#researchtranslatecreate)
@@ -29,11 +34,6 @@
 	- [Workshops, Masterclasses and Lectures](#workshops)
 
 - [Program](#programme) <!--header-->
-
-- [Showcases](#showcases) <!--header-->
-	- [Transforming Hit 'n' Run Millennials](#persgroep)
-	- [Institute of Network Cultures](#INC)
-	- [UNStudio](#unstudio)
 
 - [Lab](#lab) <!--header-->
 	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
@@ -65,7 +65,7 @@ The PublishingLab is an applied research lab in the field of hybrid publishing w
 The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com), the national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. PublishingLab is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and consulting the industry. Together with the [Institute of Network Cultures](http://networkcultures.org) (INC), PublishingLab is located on the Amstelcampus Amsterdam.
 
 ### <span id="whoourinternsare">Who our interns are</span>
-PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated people who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
+PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated students who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
 
 ### <span id="whoourpartnersare">Who our partners are</span>
 PublishingLab works with various partners, ranging from government institutions, Dutch SMEs, and large international corporations in the field of digital media and publishing. Our projects are always shaped in co-creation with our partners. Working with partners means the PublishingLab has a good network in Amsterdam's creative industries. Recent partners include De Persgroep Nederland, De Persgroep Digitaal, WeekbladpersGroep, UNStudio, Canon, Cinekid, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek, rekto:verso, Archined, Piet Zwart Institute and many others.
@@ -73,103 +73,6 @@ PublishingLab works with various partners, ranging from government institutions,
 ### <span id="whatwedo">What We Do</span>
 The PublishingLab conducts applied research by doing innovative experiments in the field of (digital) publishing. This includes research on the impact of developments on the branch as a whole, conducting small experiments in the field of EPUB3 (such as research/work on user interface design for collaborative online editing environments), research/work on conveying hybrid publishing concepts and work flows to a non-expert audience or experiments that aim to solve interesting design problems.
 
-
-## <span id="process">Process</span>
-This section explains how we work: the process and design methods for completing your project.
-
-### <span id="designprocess">Design Process</span>
-One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
-
-<img class="noshadow bigdiagram" src="imgs/figure1.svg" />
-
-<p class="caption">Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).</p>
-<!--image of bad quality, but gives an idea of what is desired. change icons.-->
-
-### <span id="researchtranslatecreate">Research, Translate And Create</span>
-At the start of each new stage in the design process, research has a central role. Research provides plenty of insights, for example about how people act/think/feel and who the intended users are. These insights are the key to finding a solution, but first they have to be translated into actual design decisions. Making a prototype based on these decisions will help you test their effectiveness. A next step might be to go back to the research to find other solutions, or to set up a test with users. During the project there is a constant two-way flow: from research through translation to creation, and from creation through translation to research.
-
-### <span id="scrum">SCRUM</span>
-Scrum is an iterative and incremental process for the design and development of products and services, and it has a very specific way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework. This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The flow of the design process is embedded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.
-
-### <span id="sprints">Sprints</span>
-A ‘sprint’ (or iteration) is the basic unit of the development process. The sprint is a ‘timeboxed’ effort: it is restricted to a specific duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to perform more sprints within those scheduled three weeks.
-
-### <span id="rituals">Rituals</span>
-Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
-
-<img class="noshadow bigdiagram" src="imgs/figure2.svg" />
-
-<p class="caption">Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).</p>
-
-<span class="numeral">1</span> Daily Stand-Up Meetings
-
-The daily stand-up meeting takes place at the same time and place of every working day. This meeting is held in the morning, as it helps set the goal for the coming day’s work. They are strictly time-boxed to 15 minutes. This keeps the discussion brisk and relevant.
-
-The daily stand-up meeting is not used as a problem-solving or issue resolution meeting. Issues raised are usually dealt with immediately after the meeting. During the daily stand-up, each team member answers the following three questions:
-
-1. What did you do yesterday?
-2. What will you do today?
-3. Are there any barriers in your way?
-
-<span class="numeral">2</span> Ideation And Planning
-
-Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.
-
-<span class="numeral">3</span> Translate and Transfer
-
-In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).
-
-<span class="numeral">4</span> Sprint Review
-
-After the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Specifically, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.
-
-<span class="numeral">5</span> Sprint Retrospective
-
-A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
-
-## <span id="programme">Program</span>
-<!-- add some text here -->
-
-### <span id="workshops">Workshops, Masterclasses and Lectures</span>
-During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
-
-### <span id="scrumtraining">SCRUM</span>
-To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
-
-### <span id="presentation">Pitch Training</span>
-Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
-
-### <span id="publishing">Experimental Publishing</span>
-Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the Post-Digital Publishing Archive, an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.
-
-### <span id="ideation">Frame Insights and Ideation</span>
-In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
-
-### <span id="ux">User Experience Design</span>
-This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes.
-Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans.
-
-### <span id="prototyping">Prototyping</span>
-How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
-
-### <span id="git">GIT</span>
-Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used by developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on [GitHub](https://github.com). We'll use the command line and a graphical interface, so that you can experiment with both and choose your favorite.
-
-### <span id="HTML">HTML and CSS</span>
-HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will take you a step further in your knowledge of HTML5 and CSS3.
-
-### <span id="javascript">Javascript</span>
-Javascript, or simply JS, is responsible for the interaction in web pages. Understanding the DOM (Document Object Model), DOM events, variables, functions and how to use JS to add interaction to your pages is what this workshop is all about.
-
-### <span id="inspector">Inspector</span>
-The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
-
-### <span id="masterclass">Workshop Geert Lovink</span>
-During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts.
-
-<p class="pagebr"></p>
-
-<img class="bigpic centeraligned" src="imgs/devices.jpg" />
 
 ## <span id="showcases">Showcases</span>
 The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries.
@@ -268,6 +171,106 @@ The 'fast' mode is a selection of material thought to be presented as highlights
 <!-- connect research paper -->
 The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
 We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
+
+
+## <span id="process">Process</span>
+This section explains how we work: the process and design methods for completing your project.
+
+### <span id="designprocess">Design Process</span>
+One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
+
+<img class="noshadow bigdiagram" src="imgs/figure1.svg" />
+
+<p class="caption">Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).</p>
+<!--image of bad quality, but gives an idea of what is desired. change icons.-->
+
+### <span id="researchtranslatecreate">Research, Translate And Create</span>
+At the start of each new stage in the design process, research has a central role. Research provides plenty of insights, for example about how people act/think/feel and who the intended users are. These insights are the key to finding a solution, but first they have to be translated into actual design decisions. Making a prototype based on these decisions will help you test their effectiveness. A next step might be to go back to the research to find other solutions, or to set up a test with users. During the project there is a constant two-way flow: from research through translation to creation, and from creation through translation to research.
+
+### <span id="scrum">SCRUM</span>
+Scrum is an iterative and incremental process for the design and development of products and services, and it has a very specific way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework. This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The flow of the design process is embedded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.
+
+### <span id="sprints">Sprints</span>
+A ‘sprint’ (or iteration) is the basic unit of the development process. The sprint is a ‘timeboxed’ effort: it is restricted to a specific duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to perform more sprints within those scheduled three weeks.
+
+### <span id="rituals">Rituals</span>
+Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
+
+<img class="noshadow bigdiagram" src="imgs/figure2.svg" />
+
+<p class="caption">Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).</p>
+
+<span class="numeral">1</span> Daily Stand-Up Meetings
+
+The daily stand-up meeting takes place at the same time and place of every working day. This meeting is held in the morning, as it helps set the goal for the coming day’s work. They are strictly time-boxed to 15 minutes. This keeps the discussion brisk and relevant.
+
+The daily stand-up meeting is not used as a problem-solving or issue resolution meeting. Issues raised are usually dealt with immediately after the meeting. During the daily stand-up, each team member answers the following three questions:
+
+1. What did you do yesterday?
+2. What will you do today?
+3. Are there any barriers in your way?
+
+<span class="numeral">2</span> Ideation And Planning
+
+Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.
+
+<span class="numeral">3</span> Translate and Transfer
+
+In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).
+
+<span class="numeral">4</span> Sprint Review
+
+After the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Specifically, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.
+
+<span class="numeral">5</span> Sprint Retrospective
+
+A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
+
+## <span id="programme">Program</span>
+PublishingLab follows MediaLAB Amsterdam's combination of an iterative design cycle and a scrum process in order to foster both the creative process and enforce teams to work structured and goal oriented. The method has proven to be a powerful combination for the multidisciplinary design teams that work on projects in the lab- context thats been provided. 
+In addition, students are immersed in a program of workshops, master classes, lectures, as well as support by the PublishingLab team. 
+
+### <span id="workshops">Workshops, Masterclasses and Lectures</span>
+During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
+
+### <span id="scrumtraining">SCRUM</span>
+To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
+
+### <span id="presentation">Pitch Training</span>
+Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
+
+### <span id="publishing">Experimental Publishing</span>
+Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the Post-Digital Publishing Archive, an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.
+
+### <span id="ideation">Frame Insights and Ideation</span>
+In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
+
+### <span id="ux">User Experience Design</span>
+This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes.
+Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans.
+
+### <span id="prototyping">Prototyping</span>
+How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
+
+### <span id="git">GIT</span>
+Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used by developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on [GitHub](https://github.com). We'll use the command line and a graphical interface, so that you can experiment with both and choose your favorite.
+
+### <span id="HTML">HTML and CSS</span>
+HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will take you a step further in your knowledge of HTML5 and CSS3.
+
+### <span id="javascript">Javascript</span>
+Javascript, or simply JS, is responsible for the interaction in web pages. Understanding the DOM (Document Object Model), DOM events, variables, functions and how to use JS to add interaction to your pages is what this workshop is all about.
+
+### <span id="inspector">Inspector</span>
+The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
+
+### <span id="masterclass">Workshop Geert Lovink</span>
+During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts.
+
+<p class="pagebr"></p>
+
+<img class="bigpic centeraligned" src="imgs/devices.jpg" />
+
 
 ## <span id="lab">Lab: How To</span>
 This section is about how to conduct yourself in the lab, how to work in a team, and how to best present your work.
