@@ -20,6 +20,11 @@
 	- [Who Our Partners Are](#whoourpartnersare)
 	- [What We Do](#whatwedo)
 
+- [Showcases](#showcases) <!--header-->
+	- [Transforming Hit 'n' Run Millennials](#persgroep)
+	- [Institute of Network Cultures](#INC)
+	- [UNStudio](#unstudio)
+
 - [Process](#process) <!--header-->
 	- [Design Process](#designproces)
 	- [Research, Translate And Create](#researchtranslatecreate)
@@ -29,11 +34,6 @@
 	- [Workshops, Masterclasses and Lectures](#workshops)
 
 - [Program](#programme) <!--header-->
-
-- [Showcases](#showcases) <!--header-->
-	- [Transforming Hit 'n' Run Millennials](#persgroep)
-	- [Institute of Network Cultures](#INC)
-	- [UNStudio](#unstudio)
 
 - [Lab](#lab) <!--header-->
 	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
@@ -65,13 +65,123 @@ The PublishingLab is an applied research lab in the field of hybrid publishing w
 The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com), the national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. PublishingLab is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and consulting the industry. Together with the [Institute of Network Cultures](http://networkcultures.org) (INC), PublishingLab is located on the Amstelcampus Amsterdam.
 
 ### <span id="whoourinternsare">Who our interns are</span>
-PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated people who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
+PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated students who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
 
 ### <span id="whoourpartnersare">Who our partners are</span>
 PublishingLab works with various partners, ranging from government institutions, Dutch SMEs, and large international corporations in the field of digital media and publishing. Our projects are always shaped in co-creation with our partners. Working with partners means the PublishingLab has a good network in Amsterdam's creative industries. Recent partners include De Persgroep Nederland, De Persgroep Digitaal, WeekbladpersGroep, UNStudio, Canon, Cinekid, Hogeschool Bibliotheek Amsterdam, Het Vlaams-Nederlands platform Laboratorium Actuele Kunstkritiek, Domein voor Kunstkritiek, rekto:verso, Archined, Piet Zwart Institute and many others.
 
 ### <span id="whatwedo">What We Do</span>
 The PublishingLab conducts applied research by doing innovative experiments in the field of (digital) publishing. This includes research on the impact of developments on the branch as a whole, conducting small experiments in the field of EPUB3 (such as research/work on user interface design for collaborative online editing environments), research/work on conveying hybrid publishing concepts and work flows to a non-expert audience or experiments that aim to solve interesting design problems.
+
+
+## <span id="showcases">Showcases</span>
+The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries.
+
+### <span id="persgroep">Transforming Hit 'n' Run Millennials - De Persgroep (2016)</span>
+<!-- title (year) -->
+
+<!--appealing image-->
+![](imgs/Persgroep.png)
+<p class="caption">Screenshot of prototype.</p> <!--not sure of caption is needed-->
+
+<!--challenge / research question:-->
+**Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
+
+<!--short alinea what the project is about-->
+**Solution**: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
+
+<!--team-->
+**Team**:
+
+- Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture
+- Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture
+- Alina Niemann (DE) University of Amsterdam, MA New Media & Digital Culture
+- Inte Gloerich (NL) (PublishingLab coach)
+- Lucia Dossin (BR) (PublishingLab support)
+
+<!--url-->
+**Link**: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
+
+<!--connect research paper-->
+Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
+
+<!--partner(s)-->
+**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
+
+
+### <span id="INC">Navigating Theory on Demand - Institute of Network Cultures (2015)</span>
+<!-- title (year) -->
+
+<!--appealing image-->
+![](imgs/NavTOD.png)
+<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+
+<!-- challenge / research question: -->
+**Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
+
+<!--short alinea what the project is about-->
+**Solution**: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
+
+<!--team-->
+**Team**:
+
+- Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication
+- Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture
+- Inte Gloerich (PublishingLab coach)
+- Gottfried Haider (PublishingLab support)
+- Lucia Dossin (PublishingLab support)
+
+<!--url-->
+**Link**: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
+
+<!--connect research paper-->
+The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
+
+<!--partner(s)-->
+**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
+
+
+### <span id="unstudio">Knowledge Matters, Interactive Book App - UNStudio (2015)
+</span>
+<!-- title (year) -->
+
+<!-- challenge / research question: -->
+**Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
+
+<!-- short alinea what the project is about -->
+**Solution**: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
+The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
+
+<!-- team -->
+**Team**:
+
+- Joana Chicau (PT) Piet Zwart Institute Rotterdam, MA Media Design and Communication
+- Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design
+- Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design
+- Karina Zavidova (RU) Royal Academy of Art The Hague, BA Graphic Design
+- Jess van Zyl (PublishingLab coach)
+- Gottfried Haider (PublishingLab support)
+- Lucia Dossin (PublishingLab support)
+
+<!-- url -->
+**Link**: [Knowledge Matters, UNStudio](http://www.publishinglab.nl/unstudio/)
+
+
+![](imgs/UN-rotatemenu.gif)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+![](imgs/UNStudio2.jpg)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+![](imgs/UNStudio3.jpg)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+<!-- connect research paper -->
+The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
+We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
+
+<!-- partner(s) -->
+**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
 
 
 ## <span id="process">Process</span>
@@ -128,7 +238,8 @@ After the team has completed the planned deliverables for this sprint it is time
 A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
 
 ## <span id="programme">Program</span>
-<!-- add some text here -->
+PublishingLab follows MediaLAB Amsterdam's combination of an iterative design cycle and a scrum process in order to foster both the creative process and enforce teams to work structured and goal oriented. The method has proven to be a powerful combination for the multidisciplinary design teams that work on projects in the lab- context thats been provided. 
+In addition, students are immersed in a program of workshops, master classes, lectures, as well as support by the PublishingLab team. 
 
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
@@ -171,103 +282,6 @@ During the semester Geert Lovink, founder of the [Institute of Network Cultures]
 
 <img class="bigpic centeraligned" src="imgs/devices.jpg" />
 
-## <span id="showcases">Showcases</span>
-The following showcases are developed in close collaboration between students and researchers from the PublishingLab and a partner from the creative industries.
-
-### <span id="persgroep">Transforming Hit 'n' Run Millennials (2016)</span>
-<!-- title (year) -->
-
-<!--appealing image-->
-![](imgs/Persgroep.png)
-
-<!--partner(s)-->
-**Partner**: <img class="logo" src="imgs/logopersgroep.png" />
-
-<!--challenge / research question:-->
-**Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
-
-<!--short alinea what the project is about-->
-**Solution**: De Persgroep notices that many visits to their sites can be characterized as 'hit 'n' run'; the reader clicks on a link in their Facebook timeline or Twitter feed, reads 1 article while hardly being aware of the site it is part of, and leaves without any promise of returning. They want to find innovative ways of taking this first moment of interaction between a new reader and their brand further and build a sustainable relationship.
-
-<!--team-->
-**Team**:
-
-- Belen Muñoz (ES) University of Amsterdam, MA New Media & Digital Culture
-- Ilayda Ṣarlak (TR) Utrecht University, MA New Media & Digital Culture
-- Alina Niemann (DE) University of Amsterdam, MA New Media & Digital Culture
-- Inte Gloerich (NL) (PublishingLab coach)
-- Lucia Dossin (BR) (PublishingLab support)
-
-<!--url-->
-Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
-
-<!--connect research paper-->
-Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
-
-### <span id="INC">Navigating Theory on Demand (2015)</span>
-<!-- title (year) -->
-
-<!--appealing image-->
-![](imgs/NavTOD.png)
-
-<!--partner(s)-->
-**Partner**: <img class="logo" src="imgs/inc.jpg" alt="Institute of Network Cultures" />
-
-<!-- challenge / research question: -->
-**Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
-
-<!--short alinea what the project is about-->
-**Solution**: The 'Theory on Demand' series is currently hosted on the INC website, which, unfortunately, is lacking a comprehensive searching tool or a filter to access the content of the publication. Although the current website has favorable esthetics, it functions as a static and non-navigable platform. What can an ideal (and effective) academic publication look like in the digital realm?
-
-<!--team-->
-**Team**:
-
-- Léna Robin (FR) Haute École des Arts du Rhin, MA Visual Expression in Graphic Communication
-- Josip Batinic (HR) University of Amsterdam, MA New Media and Digital Culture
-- Inte Gloerich (PublishingLab coach)
-- Gottfried Haider (PublishingLab support)
-- Lucia Dossin (PublishingLab support)
-
-<!--url-->
-**Link**: [Navigation Theory on Demand](http://www.publishinglab.nl/navigating-tod/)
-
-<!--connect research paper-->
-The project task involved adapting the already existing print and static content of the INC’s ‘Theory on Demand’ series onto the digital screens, more precisely, creating a fully digital version of the book, making use of the advantages and the possibilities of the web-page format. It can be seen as existing in the context of other innovative online publications such as [Open!](http://www.onlineopen.org/index.php) and [Fold](http://www.onlineopen.org/index.php).
-
-### <span id="unstudio">UNStudio Knowledge Matters - Interactive Book App (2015)
-</span>
-<!-- title (year) -->
-
-<!-- partner(s) -->
-**Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
-
-<!-- challenge / research question: -->
-**Challenge**: How can an interactive experience help a reader understand the architectural principles underpinning 25+ years of work and research in a way that print can’t?
-
-<!-- short alinea what the project is about -->
-**Solution**: Knowledge Matters web app is a digital extension of a printed book by UNStudio, that represents the Arnhem Station project as an interactive experience. It is divided in two ways of navigating through the content, based on time.
-The 'fast' mode is a selection of material thought to be presented as highlights of the project. It is a linear narrative, presented within a chronological order, as a timeline. The 'slow mode' offers more detailed information on the project which fits the 'academic' type of user, who is searching for in-depth knowledge. A non-linear menu allows the user to make intuitive choices and construct his own story.
-
-<!-- team -->
-**Team**:
-
-- Joana Chicau (PT) Piet Zwart Institute Rotterdam, MA Media Design and Communication
-- Anastasia Kubrak (RU) Design Academy Eindhoven, BA Media & Culture Design
-- Wahid Nawzadi (NL) HAN University of Applied Sciences, BA Communication &  Multimedia Design
-- Karina Zavidova (RU) Royal Academy of Art The Hague, BA Graphic Design
-- Jess van Zyl (PublishingLab coach)
-- Gottfried Haider (PublishingLab support)
-- Lucia Dossin (PublishingLab support)
-
-<!-- url -->
-**Link**: [UNSTUDIO](http://www.publishinglab.nl/unstudio/)
-
-
-![](imgs/UN-rotatemenu.gif)
-
-<!-- connect research paper -->
-The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
-We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.
 
 ## <span id="lab">Lab: How To</span>
 This section is about how to conduct yourself in the lab, how to work in a team, and how to best present your work.
@@ -405,11 +419,11 @@ You need your ID card to print. Set up the printer to your laptop by following i
 The PublishingLab office is located within the Hogeschool van Amsterdam Location: Benno Premselahuis (BPH), Rhijnspoorplein 1, 1091 GC Amsterdam
 
 ##### Opening hours of the BPH
-mon-thurs: 8:30-19:30<br/>
-fri: 8.30 – 18:00
+Monday - Thursday: 7:30-19:30<br/>
+Friday: 7.30 – 18:00
 
 ##### Equipment hire and helpdesk
-Level 2, BPH
+2nd Floor, Benno Premsela Huis
 
 #### Internet access
 You can access the internet via eduroam if you are already a student. Otherwise, ask your coach to set up a guest account. Once you have your HvA ID & password you can login to the eduroam or HvA wifi.
@@ -439,6 +453,8 @@ Amsterdam ph: 020 623 5834
 For acrylic and workshop materials: [http://kunststofshop.nl](http://kunststofshop.nl)
 
 ##### Bookshops
+[Athenaeum](https://www.athenaeum.nl/winkels/roeterseiland/), location Roeterseiland - Roetersstraat 41, Amsterdam  
+
 San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 30, Amsterdam.
 
 
