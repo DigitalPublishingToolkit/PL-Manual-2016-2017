@@ -41,7 +41,7 @@ Amsterdam, 2016<br/>
 
 <div id="logos">
 
-<img class="logo" src="imgs/HvA.jpg" alt="Hogeschool van Amsterdam"/>
+<img class="logo" id="hva" src="imgs/HvA.jpg" alt="Hogeschool van Amsterdam"/>
 <img class="logo" src="imgs/ACIN.png" alt="ACIN"/>
 <img class="logo" src="imgs/publishinglab.png" alt="PublishingLab"/>
 

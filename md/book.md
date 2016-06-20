@@ -28,7 +28,7 @@ Amsterdam, 2016<br/>
 
 <div id="logos">
 
-<img class="logo" src="imgs/HvA.jpg" alt="Hogeschool van Amsterdam"/>
+<img class="logo" id="hva" src="imgs/HvA.jpg" alt="Hogeschool van Amsterdam"/>
 <img class="logo" src="imgs/ACIN.png" alt="ACIN"/>
 <img class="logo" src="imgs/publishinglab.png" alt="PublishingLab"/>
 
@@ -39,7 +39,7 @@ Amsterdam, 2016<br/>
 
 <p class="pagebr"></p>
 
-# PublishingLab Manual <br/><br/><br/><br/>2016-2017
+# PublishingLab Manual <br/><br/><br/><br/>2016/2017
 
 <p class="pagebr"></p>
 
@@ -47,10 +47,9 @@ Amsterdam, 2016<br/>
 
 <div id="toc">
 
-<!-- Silvio: it's always better to keep titles in title case (e.g. This is the Title) because these can be made uppercase afterwards via CSS -->
-
 - [About](#about) <!--header-->
 	- [Who We Are](#whoarewe)
+	- [Team](#team)
 	- [Who Our Interns Are](#whoareinternsare)
 	- [Who Our Partners Are](#whoourpartnersare)
 	- [What We Do](#whatwedo)
@@ -98,6 +97,28 @@ Welcome to the [PublishingLab](http://publishinglab.org), this section tells you
 The PublishingLab is an applied research lab in the field of hybrid publishing working at the intersection of publishing and digital technology, both in print and on screen. We are part of the Amsterdam Creative Industries Network (ACIN) and the Amsterdam University of Applied Sciences. The world of digital publishing has been growing steadily for several years. The arrival of tablets and smartphones has accelerated these developments, and today it is impossible to imagine a media landscape without e-books, newspaper apps, and digital magazines. Digitalization is turning the field upside down! This is where the PublishingLab comes in.
 
 The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com), the national talent, knowledge and business network for creative industry and digital technology. ACIN was founded by the Amsterdam University of Applied Sciences, the Amsterdam School of the Arts and Inholland University of Applied Sciences. ACIN currently hosts eleven other labs such as Art&Technology lab, Fashion&Technology lab, Gamelab, etc. PublishingLab is based in Benno Premselahuis, at the School of Design & Communication from the Amsterdam University of Applied Sciences. Students, teachers and researchers work together on applied research with the creative industries and the ICT sector. The results will be used in curriculum development and consulting the industry. Together with the [Institute of Network Cultures](http://networkcultures.org) (INC), PublishingLab is located on the Amstelcampus Amsterdam.
+
+### <span id="team">Team</span>
+
+<div id="team">
+
+<img src="imgs/margreet.png" /> Margreet Riphagen, Coordinator<br class="clear" />
+
+<img src="imgs/lucia.png" /> Lucia Dossin, Creative Coder and coach on various projects<br class="clear" />
+
+<img src="imgs/inte.png" /> Inte Gloerich, Researcher Open Multimedia<br class="clear" />
+
+<img src="imgs/rose.png" /> Rose Leighton, Lecturer-researcher Media Information<br class="clear" />
+
+<img src="imgs/silvio.png" /> Silvio Lorusso, Designer and coach on various projects<br class="clear" />
+
+<img src="imgs/geert.png" /> Geert Lovink, Lector Institute of Network Cultures<br class="clear" />
+
+<img src="imgs/miriam.png" /> Miriam Rasch, Reseacher and project manager Institute of Network Cultures<br class="clear" />
+
+<img src="imgs/leonieke.png" /> Leonieke van Dipten, Project member *De kunst van de kritiek*<br class="clear" />
+
+</div>
 
 ### <span id="whoourinternsare">Who our interns are</span>
 PublishingLab works with students from different backgrounds, offering a wide range of opportunities to its students – from experimenting with digital publishing workflows to testing user interface design. We like to work with students who don’t give up easily; who like experimenting with text, typography, code, (moving) images and the opportunities that digital media provide. We work with students with design, hacking, writing and many other skills; the teams are multidisciplinary and selected to fit the needs of the project. We’re looking for motivated students who respond to opportunities and challenges intelligently, creatively and want to push the boundaries of hybrid publishing.
@@ -158,10 +179,10 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 <p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
 
 ![](imgs/tod-2.png)
-<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+<p class="caption">Screenshot of highlighting in webpage Navigationg Theory on Demand.</p> 
 
 ![](imgs/tod-3.png)
-<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
+<p class="caption">Screenshot of searching in webpage Navigationg Theory on Demand.</p> 
 
 <!-- challenge / research question: -->
 **Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?

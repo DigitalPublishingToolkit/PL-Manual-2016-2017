@@ -180,6 +180,10 @@ div#cover-image{
   margin-right: 30px;
   vertical-align: middle;
 }
+#hva {
+  width: 23% !important;
+  margin-right: 20 !important;
+}
 .logo {
   box-shadow: none;
   width: 150px;
@@ -205,6 +209,17 @@ div#cover-image{
   padding-bottom: 40%;
   border-top: 1px solid #39FF03;
   border-bottom: 1px solid #39FF03;
+}
+
+
+/* Team */
+#team img {
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 20px;
+  position: relative;
+  top: -15px;
+  float: left;
 }
 
 
