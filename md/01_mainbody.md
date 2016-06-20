@@ -84,6 +84,12 @@ The following showcases are developed in close collaboration between students an
 ![](imgs/Persgroep.png)
 <p class="caption">Screenshot of prototype.</p> <!--not sure of caption is needed-->
 
+![](Persgroep-img2.png)
+<p class="caption">Screenshot of conducted survey about prototype.</p> 
+
+![](Persgroep-img3.png)
+<p class="caption">Heatmap of testing the prototype.</p> 
+
 <!--challenge / research question:-->
 **Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
 
