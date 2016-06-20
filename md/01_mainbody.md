@@ -419,11 +419,11 @@ You need your ID card to print. Set up the printer to your laptop by following i
 The PublishingLab office is located within the Hogeschool van Amsterdam Location: Benno Premselahuis (BPH), Rhijnspoorplein 1, 1091 GC Amsterdam
 
 ##### Opening hours of the BPH
-mon-thurs: 8:30-19:30<br/>
-fri: 8.30 – 18:00
+Monday - Thursday: 7:30-19:30<br/>
+Friday: 7.30 – 18:00
 
 ##### Equipment hire and helpdesk
-Level 2, BPH
+2nd Floor, Benno Premsela Huis
 
 #### Internet access
 You can access the internet via eduroam if you are already a student. Otherwise, ask your coach to set up a guest account. Once you have your HvA ID & password you can login to the eduroam or HvA wifi.
@@ -453,6 +453,8 @@ Amsterdam ph: 020 623 5834
 For acrylic and workshop materials: [http://kunststofshop.nl](http://kunststofshop.nl)
 
 ##### Bookshops
+[Athenaeum](https://www.athenaeum.nl/winkels/roeterseiland/), location Roeterseiland - Roetersstraat 41, Amsterdam  
+
 San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 30, Amsterdam.
 
 

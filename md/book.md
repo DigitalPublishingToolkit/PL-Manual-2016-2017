@@ -117,6 +117,7 @@ The following showcases are developed in close collaboration between students an
 
 <!--appealing image-->
 ![](imgs/Persgroep.png)
+<p class="caption">Screenshot of prototype.</p> <!--not sure of caption is needed-->
 
 <!--challenge / research question:-->
 **Challenge**: How can De Persgroep build sustainable relationships with millennial readers that arrive to their articles through social media links?
@@ -134,7 +135,7 @@ The following showcases are developed in close collaboration between students an
 - Lucia Dossin (BR) (PublishingLab support)
 
 <!--url-->
-Link: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
+**Link**: [Transforming Hit 'n' Run Millennials](http://www.publishinglab.nl/transforminghnrmillennials/)
 
 <!--connect research paper-->
 Millennials grew up in a world of free online news; news sites sold ads to companies and readers payed with their attention and clicks instead of their money. With the advent of adblockers and overall disappointing ad effectiveness, this exchange isn't as profitable as it once was imagined to be. News sites the world over are struggling to keep afloat and engaging a new generation of readers seems essential in acchieving this. If millennials won't commit to one medium and pay a substantive subscription fee, what are innovative ways for news sites to make their product profitable and sustainable?
@@ -148,6 +149,7 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 
 <!--appealing image-->
 ![](imgs/NavTOD.png)
+<p class="caption">Screenshot of webpage Navigationg Theory on Demand.</p> 
 
 <!-- challenge / research question: -->
 **Challenge**: How do we maximize efficiency and co-existence of the various formats (epub, print, HTML) for the INC 'Theory on Demand' series?
@@ -197,10 +199,17 @@ The 'fast' mode is a selection of material thought to be presented as highlights
 - Lucia Dossin (PublishingLab support)
 
 <!-- url -->
-**Link**: [UNSTUDIO](http://www.publishinglab.nl/unstudio/)
+**Link**: [Knowledge Matters, UNStudio](http://www.publishinglab.nl/unstudio/)
 
 
 ![](imgs/UN-rotatemenu.gif)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+![](imgs/UNStudio2.jpg)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
+
+![](imgs/UNStudio3.jpg)
+<p class="caption">Screenshot of web app Knowledge Matters.</p> 
 
 <!-- connect research paper -->
 The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form.
