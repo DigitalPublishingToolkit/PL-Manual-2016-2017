@@ -105,10 +105,7 @@ After conducting an internship about Art Criticism I’m started beginning of Se
 
 <div>
 <img src="imgs/inte.png" /> Inte Gloerich<br class="clear" />
-Bla
-Bla
-Bla
-Bla
+After studying Graphic Design, I acquired a BA in Film Studies and an MA in New Media and Digital Culture at the University of Amsterdam. Fascinated by the political and societal implications of digital phenomena, I focussed on the construction of political issues on Twitter during election time. I worked for the Publishing for one and a half year and am working at Institute of Network Cultures now. I am interested in topics like open research publishing, hybrid publishing and online journalism.
 </div>
 
 <div>
