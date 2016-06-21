@@ -69,7 +69,7 @@ The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com),
 
 <div>
 <img src="imgs/dylan.png" />Dylan Degeling<br class="clear" />
-I'm a multimedia designer, with interest in interface design and digital publishing. I hold a BA in …. from Willem de Kooning Academy. Within the PublishingLab I’m mainly responsible for the design and development of a project in collaboration with the HvA/UvA library, which is about creating proper epubs for academic papers.
+Best described as a Digital Designer with an affection for hybrid publishing, open source, and coding. I Hold a BA in Communication & Multimedia Design from the Rotterdam University of Applied Sciences - with a minor+ in Open Design from the Willem de Kooning Academy. Within the PublishingLab I mainly work on the design and development of a project with the HvA/UvA library that focusses on creating proper EPUBs from academic papers. Outside of the PublishingLab I spend most of my time making and listening to music.
 </div>
 
 <div>
