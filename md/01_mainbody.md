@@ -110,10 +110,7 @@ After studying Graphic Design, I acquired a BA in Film Studies and an MA in New 
 
 <div>
 <img src="imgs/geert.png" /> Geert Lovink<br class="clear" />
-Bla
-Bla
-Bla
-Bla
+Geert Lovink, founding director of the Institute of Network Cultures, is a Dutch-Australian media theorist and critic. He holds a PhD from the University of Melbourne and in 2003 was at the Centre for Critical and Cultural Studies, University of Queensland. In 2004 Lovink was appointed as Research Professor at the Hogeschool van Amsterdam and Associate Professor at University of Amsterdam. He is the founder of Internet projects such as nettime and fibreculture. His recent book titles are Dark Fiber (2002), Uncanny Networks (2002) and My First Recession (2003). In 2005-06 he was a fellow at the WissenschaftskollegBerlin Institute for Advanced Study where he finished his third volume on critical Internet culture, Zero Comments (2007). 
 </div>
 
 <div>
