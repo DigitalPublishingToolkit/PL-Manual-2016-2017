@@ -116,7 +116,6 @@ Geert Lovink, founding director of the Institute of Network Cultures, is a Dutch
 <div>
 <img src="imgs/miriam.png" /> Miriam Rasch<br class="clear" />
 With my background in literature and philosophy you may call me a true lover of words. At the Institute of Network Cultures I’m responsible for our publication series, which are published both on paper, in digital formats and online. As a part of the research team for the Hybrid Publishing Toolkit I helped (re)design the hybrid publishing workflow, which is now implemented in the INC. At the PublishingLab I coordinated the Art of Criticism project and hope to pursue many publishing questions in the future to come.
-
 </div>
 
 <div>
