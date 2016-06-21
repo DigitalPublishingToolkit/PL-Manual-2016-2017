@@ -210,6 +210,9 @@ div#cover-image{
   border-top: 1px solid #39FF03;
   border-bottom: 1px solid #39FF03;
 }
+#cover-image img {
+  box-shadow: none;
+}
 
 
 /* Team */

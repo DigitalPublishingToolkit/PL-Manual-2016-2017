@@ -50,7 +50,7 @@ Amsterdam, 2016<br/>
 - [About](#about) <!--header-->
 	- [Who We Are](#whoarewe)
 	- [Team](#team)
-	- [Who Our Interns Are](#whoareinternsare)
+	- [Who Our Interns Are](#whoourinternsare)
 	- [Who Our Partners Are](#whoourpartnersare)
 	- [What We Do](#whatwedo)
 
@@ -60,7 +60,7 @@ Amsterdam, 2016<br/>
 	- [UNStudio](#unstudio)
 
 - [Process](#process) <!--header-->
-	- [Design Process](#designproces)
+	- [Design Process](#designprocess)
 	- [Research, Translate And Create](#researchtranslatecreate)
 	- [SCRUM](#scrum)
 	- [Sprints](#sprints)
@@ -73,7 +73,7 @@ Amsterdam, 2016<br/>
 	- [Multidisciplinary And Multicultural Teamwork](#teamwork)
 	- [Language](#language)
 	- [Styles of Communication](#communication)
-	- [Conflict](#conflict)
+	- [In Case of Conflict](#conflict)
 	- [Presenting Your Work](#presenting)
 	- [Blog](#blog)
 	- [Sharing, Working And Documentation](#documentation)
@@ -104,7 +104,7 @@ The PublishingLab is part of [ACIN](http://www.amsterdamcreativeindustries.com),
 
 <div>
 <img src="imgs/dylan.png" />Dylan Degeling<br class="clear" />
-I'm a multimedia designer, with interest in interface design and digital publishing. I hold a BA in …. from Willem de Kooning Academy. Within the PublishingLab I’m mainly responsible for the design and development of a project in collaboration with the HvA/UvA library, which is about creating proper epubs for academic papers.
+Best described as a Digital Designer with an affection for hybrid publishing, open source, and coding. I Hold a BA in Communication & Multimedia Design from the Rotterdam University of Applied Sciences - with a minor+ in Open Design from the Willem de Kooning Academy. Within the PublishingLab I mainly work on the design and development of a project with the HvA/UvA library that focusses on creating proper EPUBs from academic papers. Outside of the PublishingLab I spend most of my time making and listening to music.
 </div>
 
 <div>
@@ -123,16 +123,12 @@ Bla
 
 <div>
 <img src="imgs/silvio.png" /> Silvio Lorusso<br class="clear" />
-Bla
-Bla
-Bla
-Bla
-Bla
+I'm an Italian artist, designer, and researcher interested in the complicated relationship between technology and society. I hold a Ph.D. in Design Sciences from the School of Doctorate Studies – Iuav University of Venice. I took part in exhibitions and events such as Transmediale (Berlin, Germany), Impakt (Utrecht, Netherlands), Off the Press (Rotterdam, Netherlands), Adhocracy (Athens, Greece). My writing has appeared in Prismo, Printed Web 3, Metropolis M, Progetto Grafico, Digicult, Diid, and Doppiozero.
 </div>
 
 <div>
 <img src="imgs/margreet.png" /> Margreet Riphagen<br class="clear" />
-My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab. I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
+My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab, and was the coordinator of the two-year research project Hybrid Publishing Toolkit I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
 </div>
 
 ### <span>Other Advisors Available from the Institute of Network Cultures</span>
@@ -144,26 +140,17 @@ After conducting an internship about Art Criticism I’m started beginning of Se
 
 <div>
 <img src="imgs/inte.png" /> Inte Gloerich<br class="clear" />
-Bla
-Bla
-Bla
-Bla
+After studying Graphic Design, I acquired a BA in Film Studies and an MA in New Media and Digital Culture at the University of Amsterdam. Fascinated by the political and societal implications of digital phenomena, I focussed on the construction of political issues on Twitter during election time. I worked for the Publishing for one and a half year and am working at Institute of Network Cultures now. I am interested in topics like open research publishing, hybrid publishing and online journalism.
 </div>
 
 <div>
 <img src="imgs/geert.png" /> Geert Lovink<br class="clear" />
-Bla
-Bla
-Bla
-Bla
+Geert Lovink, founding director of the Institute of Network Cultures, is a Dutch-Australian media theorist and critic. He holds a PhD from the University of Melbourne and in 2003 was at the Centre for Critical and Cultural Studies, University of Queensland. In 2004 Lovink was appointed as Research Professor at the Hogeschool van Amsterdam and Associate Professor at University of Amsterdam. He is the founder of Internet projects such as nettime and fibreculture. His recent book titles are Dark Fiber (2002), Uncanny Networks (2002) and My First Recession (2003). In 2005-06 he was a fellow at the WissenschaftskollegBerlin Institute for Advanced Study where he finished his third volume on critical Internet culture, Zero Comments (2007). 
 </div>
 
 <div>
 <img src="imgs/miriam.png" /> Miriam Rasch<br class="clear" />
-Bla
-Bla
-Bla
-Bla
+With my background in literature and philosophy you may call me a true lover of words. At the Institute of Network Cultures I’m responsible for our publication series, which are published both on paper, in digital formats and online. As a part of the research team for the Hybrid Publishing Toolkit I helped (re)design the hybrid publishing workflow, which is now implemented in the INC. At the PublishingLab I coordinated the Art of Criticism project and hope to pursue many publishing questions in the future to come.
 </div>
 
 <div>
@@ -364,38 +351,38 @@ In addition, students are immersed in a program of workshops, master classes, le
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
 
-### <span id="scrumtraining">SCRUM</span>
+#### <span id="scrumtraining">SCRUM</span>
 To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
 
-### <span id="presentation">Pitch Training</span>
+#### <span id="presentation">Pitch Training</span>
 Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
 
-### <span id="publishing">Experimental Publishing</span>
+#### <span id="publishing">Experimental Publishing</span>
 Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the Post-Digital Publishing Archive, an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.
 
-### <span id="ideation">Frame Insights and Ideation</span>
+#### <span id="ideation">Frame Insights and Ideation</span>
 In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
 
-### <span id="ux">User Experience Design</span>
+#### <span id="ux">User Experience Design</span>
 This workshop engages the teams in a hands-on 'design for experience' practice. By introducing a systematic approach to designing products that deliberately elicit predefined emotional responses, the workshop aims to facilitate a shift from an intuitive to a structured and manageable perspective on user experience in conceptual design processes.
 Denying experiential and emotional impact in the design of new concepts is like denying they are designed for humans.
 
-### <span id="prototyping">Prototyping</span>
+#### <span id="prototyping">Prototyping</span>
 How do you test your concepts without spending a lot of time programming only to discover something doesn't work the way you expected it to? From quick paper prototyping to increasingly high fidelity techniques, this workshop will teach you more about different methods of prototyping and when and why they are useful.
 
-### <span id="git">GIT</span>
+#### <span id="git">GIT</span>
 Git is a source code management system that allows collaborative work and version control. It is an important component of the Hybrid Publishing Toolkit and widely used by developers in a multitude of projects. In this workshop we'll go through the basics of using Git by starting a collaborative project on [GitHub](https://github.com). We'll use the command line and a graphical interface, so that you can experiment with both and choose your favorite.
 
-### <span id="HTML">HTML and CSS</span>
+#### <span id="HTML">HTML and CSS</span>
 HTML and CSS are the foundation of design for the web. They are also core languages in EPUB development. While HTML is responsible for the structure of the document, CSS is in charge of how it looks. This workshop will take you a step further in your knowledge of HTML5 and CSS3.
 
-### <span id="javascript">Javascript</span>
+#### <span id="javascript">Javascript</span>
 Javascript, or simply JS, is responsible for the interaction in web pages. Understanding the DOM (Document Object Model), DOM events, variables, functions and how to use JS to add interaction to your pages is what this workshop is all about.
 
-### <span id="inspector">Inspector</span>
+#### <span id="inspector">Inspector</span>
 The page inspector is a handy tool available in modern web browsers. It helps us examine HTML, CSS and JS and allows us to edit and debug our code - all in the browser and with instantly viewable results!
 
-### <span id="masterclass">Workshop Geert Lovink</span>
+#### <span id="masterclass">Workshop Geert Lovink</span>
 During the semester Geert Lovink, founder of the [Institute of Network Cultures](http://networkcultures.org) will give a one-day workshop. Geert will cover at least the following topics: Introduction into Internet Criticism after 2008 (Carr, Turkle, Keen, Lanier, Morozov etc.); [Unlike Us](http://networkcultures.org/unlikeus) and Alternatives in Social Media; and The MoneyLab Agenda: Internet Revenue Models in the Arts.
 
 <p class="pagebr"></p>
@@ -446,7 +433,7 @@ We use the Hybrid Publishing Toolkit (and variations on it) to produce EPUBs, we
 
 This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital or traditional publishing technology is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing. Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books.
 
-Download From Print to eBooks [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
+Download *From Print to Ebooks* [here](http://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/).
 
 ### <span id="howto">How To</span>
 Over the last two years we have improved our workflow. In our *[PublishingLab: How-to](http://publishinglab.nl/howto/?How-toHybridPublishing)* one can read the easy, step-by-step introductions to a specific field within digital publishing.
