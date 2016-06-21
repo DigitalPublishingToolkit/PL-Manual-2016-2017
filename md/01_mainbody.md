@@ -93,7 +93,7 @@ I'm an Italian artist, designer, and researcher interested in the complicated re
 
 <div>
 <img src="imgs/margreet.png" /> Margreet Riphagen<br class="clear" />
-My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab. I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
+My interest lies in combining facilitating an area where students can conduct experiments within the field of publishing, as well as doing own research. I’m coordinator of the PublishingLab, and was the coordinator of the two-year research project Hybrid Publishing Toolkit I hold a BA in Integrated Communication Management at the Hogeschool of Utrecht (2000). Post-BA in Business Science (2009) and a MSc in Information Science (2013). Before the HvA I worked at Waag Society as a producer. I love looking at graphic design, and I’m always up for good coffee. 
 </div>
 
 ### <span>Other Advisors Available from the Institute of Network Cultures</span>
@@ -121,10 +121,8 @@ Bla
 
 <div>
 <img src="imgs/miriam.png" /> Miriam Rasch<br class="clear" />
-Bla
-Bla
-Bla
-Bla
+With my background in literature and philosophy you may call me a true lover of words. At the Institute of Network Cultures I’m responsible for our publication series, which are published both on paper, in digital formats and online. As a part of the research team for the Hybrid Publishing Toolkit I helped (re)design the hybrid publishing workflow, which is now implemented in the INC. At the PublishingLab I coordinated the Art of Criticism project and hope to pursue many publishing questions in the future to come.
+
 </div>
 
 <div>
