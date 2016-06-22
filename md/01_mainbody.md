@@ -140,6 +140,8 @@ The following showcases are developed in close collaboration between students an
 
 <!--appealing image-->
 
+<br/><br/>
+
 ![](imgs/Persgroep-img2.png)
 <p class="caption">Screenshot of conducted survey about prototype.</p> 
 
@@ -173,6 +175,8 @@ Millennials grew up in a world of free online news; news sites sold ads to compa
 
 ### <span id="INC">Navigating Theory on Demand - Institute of Network Cultures (2015)</span>
 <!-- title (year) -->
+
+<br/><br/>
 
 <!--appealing image-->
 ![](imgs/tod-1.png)
