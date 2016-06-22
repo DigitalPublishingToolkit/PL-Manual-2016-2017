@@ -79,11 +79,7 @@ I have a background in design and development for the web, hold a BA in Architec
 
 <div>
 <img src="imgs/rose.png" /> Rose Leighton<br class="clear" />
-Bla
-Bla
-Bla
-Bla
-Bla
+Rose Leighton is a lecturer at the Hogeschool van Amsterdam and projectmanager publishing for the Centre of Expertise ‘Amsterdam Creative Industries’. She thinks that as the craft of publishing is getting more and more digitized publishers should reconsider their role to keep pace with the changing times.
 </div>
 
 <div>
@@ -110,7 +106,7 @@ After studying Graphic Design, I acquired a BA in Film Studies and an MA in New 
 
 <div>
 <img src="imgs/geert.png" /> Geert Lovink<br class="clear" />
-Geert Lovink, founding director of the Institute of Network Cultures, is a Dutch-Australian media theorist and critic. He holds a PhD from the University of Melbourne and in 2003 was at the Centre for Critical and Cultural Studies, University of Queensland. In 2004 Lovink was appointed as Research Professor at the Hogeschool van Amsterdam and Associate Professor at University of Amsterdam. He is the founder of Internet projects such as nettime and fibreculture. His recent book titles are Dark Fiber (2002), Uncanny Networks (2002) and My First Recession (2003). In 2005-06 he was a fellow at the WissenschaftskollegBerlin Institute for Advanced Study where he finished his third volume on critical Internet culture, Zero Comments (2007). 
+Geert Lovink is a media theorist, internet critic and author of Dark Fiber (2002), Zero Comments (2007), Networks Without a Cause (2012) and Social Media Abyss (2016). Since 2004 he is researcher in the Faculty of Digital Media and Creative Industries at the Amsterdam University of Applied Sciences (HvA) where he is the founder of the Institute of Network Cultures. His centre recently organized conferences, publications and research networks such as Video Vortex (the politics and aesthetics of online video), Unlike Us (alternatives in social media), Critical Point of View (Wikipedia), Society of the Query (the culture of search), MoneyLab (internet-based revenue models in the arts) and a project on the future of art criticism. From 2004-2013 he was also associate prof. at Mediastudies (new media), University of Amsterdam. Since 2009 he is professor at the European Graduate School (Saas-Fee/Malta) where he supervises PhD students.
 </div>
 
 <div>
