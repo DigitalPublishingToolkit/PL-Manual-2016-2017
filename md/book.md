@@ -671,6 +671,407 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Sept <strong>30</strong>, Friday</p>
 </div>
+<div class="cell">
+ <p class="date" >Oct <strong>1</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>2</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>3</strong>, Monday</p>
+ <p class="event" >Masterclass with Geert Lovink</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>4</strong>, Tuesday</p>
+ <p class="event" >Masterclass with Geert Lovink</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>5</strong>, Wednesday</p>
+ <p class="event" >Prototyping Workshop</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>6</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>7</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>8</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>9</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>10</strong>, Monday</p>
+</div>
+<div class="cell ">
+ <p class="date" >Oct <strong>11</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>12</strong>, Wednesday</p>
+ <p class="event" >Usability Workshop</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>13</strong>, Thursday</p>
+ <p class="event" >Sprint 2 Review + Retrospective</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>14</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>15</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>16</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>17</strong>, Monday</p>
+ <p class="event" >Git Workshop</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>18</strong>, Tuesday</p>
+ <p class="event" >CSS/HTML Workshop</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>19</strong>, Wednesday</p>
+ <p class="event" >JavaScript/jQuery/Web Inspector Workshop</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>20</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>21</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>22</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>23</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>24</strong>, Monday</p>
+ <p class="event" >Sprint 3 Ideation + Planning</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>25</strong>, Tuesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>26</strong>, Wednesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>27</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>28</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>29</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Oct <strong>30</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Oct <strong>31</strong>, Monday</p>
+ <p class="event" >Sprint 3 Ideation + Planning</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>1</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>2</strong>, Wednesday</p>
+ <p class="event" >Design Workshop</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>3</strong>, Thursday</p>
+ <p class="event" >Sprint 3 Translate</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>4</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>5</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>6</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>7</strong>, Monday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>8</strong>, Tuesday</p>
+  <p class="event" >Pitch</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>9</strong>, Wednesday</p>
+ <p class="event" >Design Workshop</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>10</strong>, Thursday</p>
+ <p class="event" >Sprint 3 Review + Retrospective</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>11</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>12</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>13</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>14</strong>, Monday</p>
+ <p class="event" >Sprint 4 Ideation + Planning</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>15</strong>, Tuesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>16</strong>, Wednesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>17</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>18</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>19</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>20</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>21</strong>, Monday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>22</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>23</strong>, Wednesday</p>
+ <p class="event" >Sprint 4 Translates</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>24</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>25</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>26</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>27</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Nov <strong>28</strong>, Monday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>29</strong>, Tuesday</p>
+ <p class="event" >Peer Pitch</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Nov <strong>30</strong>, Wednesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>1</strong>, Thursday</p>
+ <p class="event" >Sprint 4 Review + Retrospective</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>2</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>3</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>4</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>5</strong>, Monday</p>
+ <p class="event" >Sprint 5 Ideation + Planning</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>6</strong>, Tuesday</p>
+ <p class="event" >Peer Pitch</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>7</strong>, Wednesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>8</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>9</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>10</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>11</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>12</strong>, Monday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>13</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>14</strong>, Wednesday</p>
+ <p class="event" >Sprint 5 Translate</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>15</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>16</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>17</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>18</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>19</strong>, Monday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>20</strong>, Tuesday</p>
+ <p class="event" >Peer Pitch</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>21</strong>, Wednesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>22</strong>, Thursday</p>
+ <p class="event" >Sprint 5 Review and Restrospective</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>23</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>24</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>25</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>26</strong>, Monday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>27</strong>, Tuesday</p>
+ <p class="event" >Peer Pitch</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Dec <strong>28</strong>, Wednesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>29</strong>, Thursday</p>
+ <p class="event" >Sprint 5 Review and Restrospective</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>30</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>31</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>1</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>2</strong>, Monday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>3</strong>, Tuesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>4</strong>, Wednesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>5</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>6</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>7</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>8</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Jan <strong>9</strong>, Monday</p>
+ <p class="event" >Final Sprint</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>10</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Jan <strong>11</strong>, Wednesday</p>
+ <p class="event" >Final Sprint Translate</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>12</strong>, Thursday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>13</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>14</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>15</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>16</strong>, Monday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>17</strong>, Tuesday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>18</strong>, Wednesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Jan <strong>19</strong>, Thursday</p>
+ <p class="event" >Final Sprint Translate</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>20</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>21</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>22</strong>, Sunday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Jan <strong>23</strong>, Monday</p>
+ <p class="event" >Try Out + Final Deliverables</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>24</strong>, Tuesday</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Jan <strong>25</strong>, Wednesday</p>
+ <p class="event" >Final Presentation</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Jan <strong>26</strong>, Thursday</p>
+ <p class="event" >Deliver Package to Partners</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>27</strong>, Friday</p>
+</div>
+<div class="cell">
+ <p class="date" >Dec <strong>28</strong>, Saturday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>29</strong>, Sunday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>30</strong>, Monday</p>
+</div>
+<div class="cell">
+ <p class="date" >Jan <strong>31</strong>, Tuesday</p>
+</div>
 
 </div>
 <br class="clear" />
