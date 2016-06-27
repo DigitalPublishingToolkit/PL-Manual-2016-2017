@@ -74,7 +74,7 @@ Best described as a Digital Designer with an affection for hybrid publishing, op
 
 <div>
 <img src="imgs/lucia.png" /> Lucia Dossin<br class="clear" />
-I have a background in design and development for the web, hold a BA in Architecture and Urbanism from FAUUSP (Brazil) and a MA in Media Design and Communication from Piet Zwart Institute, Rotterdam. Interested in hybrid publishing and in mixing inputs and outputs. I am a curious person, I don’t have a smartphone and I love black cats.
+I have a background in design and development for the web, hold a BA in Architecture and Urbanism from FAUUSP (Brazil) and a MA in Media Design and Communication from Piet Zwart Institute, Rotterdam. Interested in hybrid publishing and in mixing inputs and outputs.
 </div>
 
 <div>
