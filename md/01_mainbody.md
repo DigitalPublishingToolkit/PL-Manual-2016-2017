@@ -79,7 +79,9 @@ I have a background in design and development for the web, hold a BA in Architec
 
 <div>
 <img src="imgs/rose.png" /> Rose Leighton<br class="clear" />
-Rose Leighton is a lecturer at the Hogeschool van Amsterdam and projectmanager publishing for the Centre of Expertise ‘Amsterdam Creative Industries’. She thinks that as the craft of publishing is getting more and more digitized publishers should reconsider their role to keep pace with the changing times.
+I combine two positions at the Hogeschool van Amsterdam, University of Applied Sciences.
+As a lecturer, I introduce students into the world of international trade publishing. I have worked in the book publishing industry and now lecture on that subject for the Media, Information & Communication Programme. As Researcher at the PublishingLab, I look into ways of publishing books (mostly eTextbooks) and curating learning materials in hybrid ways, for example in the Bundle project.
+
 </div>
 
 <div>
