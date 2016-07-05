@@ -114,7 +114,9 @@ I have a background in design and development for the web, hold a BA in Architec
 
 <div>
 <img src="imgs/rose.png" /> Rose Leighton<br class="clear" />
-Rose Leighton is a lecturer at the Hogeschool van Amsterdam and projectmanager publishing for the Centre of Expertise ‘Amsterdam Creative Industries’. She thinks that as the craft of publishing is getting more and more digitized publishers should reconsider their role to keep pace with the changing times.
+I combine two positions at the Hogeschool van Amsterdam, University of Applied Sciences.
+As a lecturer, I introduce students into the world of international trade publishing. I have worked in the book publishing industry and now lecture on that subject for the Media, Information & Communication Programme. As Researcher at the PublishingLab, I look into ways of publishing books (mostly eTextbooks) and curating learning materials in hybrid ways, for example in the Bundle project.
+
 </div>
 
 <div>
@@ -141,11 +143,7 @@ After studying Graphic Design, I acquired a BA in Film Studies and an MA in New 
 
 <div>
 <img src="imgs/geert.png" /> Geert Lovink<br class="clear" />
-<<<<<<< Updated upstream
 Geert Lovink is a media theorist, internet critic and author of Dark Fiber (2002), Zero Comments (2007), Networks Without a Cause (2012) and Social Media Abyss (2016). Since 2004 he is researcher in the Faculty of Digital Media and Creative Industries at the Amsterdam University of Applied Sciences (HvA) where he is the founder of the Institute of Network Cultures. His centre recently organized conferences, publications and research networks such as Video Vortex (the politics and aesthetics of online video), Unlike Us (alternatives in social media), Critical Point of View (Wikipedia), Society of the Query (the culture of search), MoneyLab (internet-based revenue models in the arts) and a project on the future of art criticism. From 2004-2013 he was also associate prof. at Mediastudies (new media), University of Amsterdam. Since 2009 he is professor at the European Graduate School (Saas-Fee/Malta) where he supervises PhD students.
-=======
-Geert Lovink, founding director of the Institute of Network Cultures, is a Dutch-Australian media theorist and critic. He holds a PhD from the University of Melbourne and in 2003 was at the Centre for Critical and Cultural Studies, University of Queensland. In 2004 Lovink was appointed as Research Professor at the Hogeschool van Amsterdam and Associate Professor at University of Amsterdam. He is the founder of Internet projects such as nettime and fibreculture. His recent book titles are Dark Fiber (2002), Uncanny Networks (2002) and My First Recession (2003). In 2005-06 he was a fellow at the WissenschaftskollegBerlin Institute for Advanced Study where he finished his third volume on critical Internet culture, Zero Comments (2007). 
->>>>>>> Stashed changes
 </div>
 
 <div>
@@ -573,8 +571,12 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div id="program-table">
 
 <div class="cell event-inside">
- <p class="date" >Sept <strong>1</strong>, Thursday</p>
+ <p class="date" >Aug <strong>31</strong>, Wednesday</p>
  <p class="event" >Sprint 0 - Kickoff</p>
+</div>
+<div class="cell event-inside">
+ <p class="date" >Sept <strong>1</strong>, Thursday</p>
+ <p class="event" >Zinestorming</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>2</strong>, Friday</p>
@@ -587,15 +589,14 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>5</strong>, Monday</p>
- <p class="event" >Workshop SCRUM</p>
+ <p class="event" >Sprint 1 - Ideation and Planning</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Sept <strong>6</strong>, Tuesday</p>
- <p class="event" >Presentation Skills</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>7</strong>, Wednesday</p>
- <p class="event" >Workshop Experimental Publishing</p>
+ <p class="event" >Sprint 1 - Translate</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>8</strong>, Thursday</p>
@@ -603,7 +604,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>9</strong>, Friday</p>
- <p class="event" >Sprint 0 Review + Retrospective</p>
+ <p class="event afternoon" >SCRUM Workshop</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>10</strong>, Saturday</p>
@@ -613,14 +614,15 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>12</strong>, Monday</p>
- <p class="event" >Sprint 1 Ideation + Planning</p>
+ <p class="event" >Design Sprint</p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
  <p class="date" >Sept <strong>13</strong>, Tuesday</p>
+ <p class="event" >Design Sprint</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>14</strong>, Wednesday</p>
- <p class="event" >Sprint 1 Translate</p>
+ <p class="event" >Design Sprint</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>15</strong>, Thursday</p>
@@ -640,14 +642,14 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>20</strong>, Tuesday</p>
- <p class="event" >Ideation Workshop</p>
+ <p class="event afternoon" >Peerpitch</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>21</strong>, Wednesday</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>22</strong>, Thursday</p>
- <p class="event" >Sprint 0 Review + Retrospective</p>
+ <p class="event" >Sprint 1 - Review + Retrospective</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>23</strong>, Friday</p>
@@ -660,14 +662,15 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>26</strong>, Monday</p>
+ <p class="event" >Sprint 2 - Planning + Ideation</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>27</strong>, Tuesday</p>
- <p class="event" >Peer Pitch</p>
+ <p class="event" >Workshop with Geert Lovink</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>28</strong>, Wednesday</p>
- <p class="event" >UX Design</p>
+ <p class="event afternoon" >Pitch Training with Peter van Meersbergen</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>29</strong>, Thursday</p>
@@ -681,17 +684,15 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Oct <strong>2</strong>, Sunday</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Oct <strong>3</strong>, Monday</p>
- <p class="event" >Masterclass with Geert Lovink</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Oct <strong>4</strong>, Tuesday</p>
- <p class="event" >Masterclass with Geert Lovink</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>5</strong>, Wednesday</p>
- <p class="event" >Prototyping Workshop</p>
+ <p class="event" >Sprint 2 - Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>6</strong>, Thursday</p>
@@ -708,16 +709,16 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Oct <strong>10</strong>, Monday</p>
 </div>
-<div class="cell ">
- <p class="date" >Oct <strong>11</strong>, Tuesday</p>
-</div>
 <div class="cell event-inside">
+ <p class="date" >Oct <strong>11</strong>, Tuesday</p>
+ <p class="event afternoon" >Peerpitch</p>
+</div>
+<div class="cell">
  <p class="date" >Oct <strong>12</strong>, Wednesday</p>
- <p class="event" >Usability Workshop</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>13</strong>, Thursday</p>
- <p class="event" >Sprint 2 Review + Retrospective</p>
+ <p class="event" >Sprint 2 - Review + Retrospective</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>14</strong>, Friday</p>
@@ -730,18 +731,19 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>17</strong>, Monday</p>
- <p class="event" >Git Workshop</p>
+ <p class="event" >Coding Sprint</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>18</strong>, Tuesday</p>
- <p class="event" >CSS/HTML Workshop</p>
+ <p class="event" >Coding Sprint</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>19</strong>, Wednesday</p>
- <p class="event" >JavaScript/jQuery/Web Inspector Workshop</p>
+ <p class="event" >Coding Sprint</p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
  <p class="date" >Oct <strong>20</strong>, Thursday</p>
+ <p class="event" >Coding Sprint</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>21</strong>, Friday</p>
@@ -754,7 +756,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>24</strong>, Monday</p>
- <p class="event" >Sprint 3 Ideation + Planning</p>
+ <p class="event" >Sprint 3 - Ideation + Planning</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>25</strong>, Tuesday</p>
@@ -774,20 +776,18 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Oct <strong>30</strong>, Sunday</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Oct <strong>31</strong>, Monday</p>
- <p class="event" >Sprint 3 Ideation + Planning</p>
 </div>
 <div class="cell">
  <p class="date" >Nov <strong>1</strong>, Tuesday</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Nov <strong>2</strong>, Wednesday</p>
- <p class="event" >Design Workshop</p>
+ <p class="event" >Sprint 3 - Translate</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Nov <strong>3</strong>, Thursday</p>
- <p class="event" >Sprint 3 Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Nov <strong>4</strong>, Friday</p>
@@ -803,15 +803,13 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Nov <strong>8</strong>, Tuesday</p>
-  <p class="event" >Pitch</p>
+  <p class="event afternoon" >Peerpitch</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Nov <strong>9</strong>, Wednesday</p>
- <p class="event" >Design Workshop</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Nov <strong>10</strong>, Thursday</p>
- <p class="event" >Sprint 3 Review + Retrospective</p>
 </div>
 <div class="cell">
  <p class="date" >Nov <strong>11</strong>, Friday</p>
@@ -824,7 +822,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Nov <strong>14</strong>, Monday</p>
- <p class="event" >Sprint 4 Ideation + Planning</p>
+ <p class="event" >Sprint 4 - Ideation + Planning</p>
 </div>
 <div class="cell">
  <p class="date" >Nov <strong>15</strong>, Tuesday</p>
@@ -852,7 +850,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Nov <strong>23</strong>, Wednesday</p>
- <p class="event" >Sprint 4 Translates</p>
+ <p class="event" >Sprint 4 - Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Nov <strong>24</strong>, Thursday</p>
@@ -871,14 +869,14 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Nov <strong>29</strong>, Tuesday</p>
- <p class="event" >Peer Pitch</p>
+ <p class="event afternoon" >Peerpitch</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Nov <strong>30</strong>, Wednesday</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Dec <strong>1</strong>, Thursday</p>
- <p class="event" >Sprint 4 Review + Retrospective</p>
+ <p class="event" >Sprint 4 - Review + Retrospective</p>
 </div>
 <div class="cell">
  <p class="date" >Dec <strong>2</strong>, Friday</p>
@@ -891,11 +889,10 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Dec <strong>5</strong>, Monday</p>
- <p class="event" >Sprint 5 Ideation + Planning</p>
+ <p class="event" >Sprint 5 - Ideation + Planning</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Dec <strong>6</strong>, Tuesday</p>
- <p class="event" >Peer Pitch</p>
 </div>
 <div class="cell">
  <p class="date" >Dec <strong>7</strong>, Wednesday</p>
@@ -920,7 +917,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Dec <strong>14</strong>, Wednesday</p>
- <p class="event" >Sprint 5 Translate</p>
+ <p class="event" >Sprint 5 - Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Dec <strong>15</strong>, Thursday</p>
@@ -939,14 +936,14 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Dec <strong>20</strong>, Tuesday</p>
- <p class="event" >Peer Pitch</p>
+ <p class="event afternoon" >Peerpitch</p>
 </div>
 <div class="cell">
  <p class="date" >Dec <strong>21</strong>, Wednesday</p>
 </div>
 <div class="cell">
  <p class="date" >Dec <strong>22</strong>, Thursday</p>
- <p class="event" >Sprint 5 Review and Restrospective</p>
+ <p class="event" >Sprint 5 - Review + Restrospective</p>
 </div>
 <div class="cell">
  <p class="date" >Dec <strong>23</strong>, Friday</p>
@@ -957,40 +954,49 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Dec <strong>25</strong>, Sunday</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Dec <strong>26</strong>, Monday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell event-inside">
+<div class="cell event-break">
  <p class="date" >Dec <strong>27</strong>, Tuesday</p>
- <p class="event" >Peer Pitch</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell event-inside">
+<div class="cell event-break">
  <p class="date" >Dec <strong>28</strong>, Wednesday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Dec <strong>29</strong>, Thursday</p>
- <p class="event" >Sprint 5 Review and Restrospective</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Dec <strong>30</strong>, Friday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Dec <strong>31</strong>, Saturday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Jan <strong>1</strong>, Sunday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Jan <strong>2</strong>, Monday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Jan <strong>3</strong>, Tuesday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Jan <strong>4</strong>, Wednesday</p>
+ <p class="event" >Christmas Break</p>
 </div>
-<div class="cell">
+<div class="cell event-break">
  <p class="date" >Jan <strong>5</strong>, Thursday</p>
+ <p class="event" >Christmas Break</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>6</strong>, Friday</p>
@@ -1003,14 +1009,14 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Jan <strong>9</strong>, Monday</p>
- <p class="event" >Final Sprint</p>
+ <p class="event" >Sprint 6 - Ideation + Planning</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>10</strong>, Tuesday</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Jan <strong>11</strong>, Wednesday</p>
- <p class="event" >Final Sprint Translate</p>
+ <p class="event" >Sprint 6 - Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>12</strong>, Thursday</p>
@@ -1024,18 +1030,19 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Jan <strong>15</strong>, Sunday</p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
  <p class="date" >Jan <strong>16</strong>, Monday</p>
+ <p class="event" >Sprint 6 - Review</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>17</strong>, Tuesday</p>
 </div>
-<div class="cell">
- <p class="date" >Jan <strong>18</strong>, Wednesday</p>
-</div>
 <div class="cell event-inside">
+ <p class="date" >Jan <strong>18</strong>, Wednesday</p>
+ <p class="event" >Final Presentation</p>
+</div>
+<div class="cell">
  <p class="date" >Jan <strong>19</strong>, Thursday</p>
- <p class="event" >Final Sprint Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>20</strong>, Friday</p>
@@ -1048,18 +1055,17 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Jan <strong>23</strong>, Monday</p>
- <p class="event" >Try Out + Final Deliverables</p>
+ <p class="event" >Try Out</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>24</strong>, Tuesday</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Jan <strong>25</strong>, Wednesday</p>
- <p class="event" >Final Presentation</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Jan <strong>26</strong>, Thursday</p>
- <p class="event" >Deliver Package to Partners</p>
+ <p class="event" >LAST DAY - Deliver Package to Partners</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>27</strong>, Friday</p>

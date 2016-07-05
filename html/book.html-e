@@ -92,10 +92,10 @@ Table of Contents
 <p><img src="imgs/dylan.png" />Dylan Degeling<br class="clear" /> Best described as a Digital Designer with an affection for hybrid publishing, open source, and coding. I Hold a BA in Communication &amp; Multimedia Design from the Rotterdam University of Applied Sciences - with a minor+ in Open Design from the Willem de Kooning Academy. Within the PublishingLab I mainly work on the design and development of a project with the HvA/UvA library that focusses on creating proper EPUBs from academic papers. Outside of the PublishingLab I spend most of my time making and listening to music.</p>
 </div>
 <div>
-<p><img src="imgs/lucia.png" /> Lucia Dossin<br class="clear" /> I have a background in design and development for the web, hold a BA in Architecture and Urbanism from FAUUSP (Brazil) and a MA in Media Design and Communication from Piet Zwart Institute, Rotterdam. Interested in hybrid publishing and in mixing inputs and outputs. I am a curious person, I don’t have a smartphone and I love black cats.</p>
+<p><img src="imgs/lucia.png" /> Lucia Dossin<br class="clear" /> I have a background in design and development for the web, hold a BA in Architecture and Urbanism from FAUUSP (Brazil) and a MA in Media Design and Communication from Piet Zwart Institute, Rotterdam. Interested in hybrid publishing and in mixing inputs and outputs.</p>
 </div>
 <div>
-<p><img src="imgs/rose.png" /> Rose Leighton<br class="clear" /> Bla Bla Bla Bla Bla</p>
+<p><img src="imgs/rose.png" /> Rose Leighton<br class="clear" /> I combine two positions at the Hogeschool van Amsterdam, University of Applied Sciences. As a lecturer, I introduce students into the world of international trade publishing. I have worked in the book publishing industry and now lecture on that subject for the Media, Information &amp; Communication Programme. As Researcher at the PublishingLab, I look into ways of publishing books (mostly eTextbooks) and curating learning materials in hybrid ways, for example in the Bundle project.</p>
 </div>
 <div>
 <p><img src="imgs/silvio.png" /> Silvio Lorusso<br class="clear" /> I'm an Italian artist, designer, and researcher interested in the complicated relationship between technology and society. I hold a Ph.D. in Design Sciences from the School of Doctorate Studies – Iuav University of Venice. I took part in exhibitions and events such as Transmediale (Berlin, Germany), Impakt (Utrecht, Netherlands), Off the Press (Rotterdam, Netherlands), Adhocracy (Athens, Greece). My writing has appeared in Prismo, Printed Web 3, Metropolis M, Progetto Grafico, Digicult, Diid, and Doppiozero.</p>
@@ -111,7 +111,7 @@ Table of Contents
 <p><img src="imgs/inte.png" /> Inte Gloerich<br class="clear" /> After studying Graphic Design, I acquired a BA in Film Studies and an MA in New Media and Digital Culture at the University of Amsterdam. Fascinated by the political and societal implications of digital phenomena, I focussed on the construction of political issues on Twitter during election time. I worked for the Publishing for one and a half year and am working at Institute of Network Cultures now. I am interested in topics like open research publishing, hybrid publishing and online journalism.</p>
 </div>
 <div>
-<p><img src="imgs/geert.png" /> Geert Lovink<br class="clear" /> Geert Lovink, founding director of the Institute of Network Cultures, is a Dutch-Australian media theorist and critic. He holds a PhD from the University of Melbourne and in 2003 was at the Centre for Critical and Cultural Studies, University of Queensland. In 2004 Lovink was appointed as Research Professor at the Hogeschool van Amsterdam and Associate Professor at University of Amsterdam. He is the founder of Internet projects such as nettime and fibreculture. His recent book titles are Dark Fiber (2002), Uncanny Networks (2002) and My First Recession (2003). In 2005-06 he was a fellow at the WissenschaftskollegBerlin Institute for Advanced Study where he finished his third volume on critical Internet culture, Zero Comments (2007).</p>
+<p><img src="imgs/geert.png" /> Geert Lovink<br class="clear" /> Geert Lovink is a media theorist, internet critic and author of Dark Fiber (2002), Zero Comments (2007), Networks Without a Cause (2012) and Social Media Abyss (2016). Since 2004 he is researcher in the Faculty of Digital Media and Creative Industries at the Amsterdam University of Applied Sciences (HvA) where he is the founder of the Institute of Network Cultures. His centre recently organized conferences, publications and research networks such as Video Vortex (the politics and aesthetics of online video), Unlike Us (alternatives in social media), Critical Point of View (Wikipedia), Society of the Query (the culture of search), MoneyLab (internet-based revenue models in the arts) and a project on the future of art criticism. From 2004-2013 he was also associate prof. at Mediastudies (new media), University of Amsterdam. Since 2009 he is professor at the European Graduate School (Saas-Fee/Malta) where he supervises PhD students.</p>
 </div>
 <div>
 <p><img src="imgs/miriam.png" /> Miriam Rasch<br class="clear" /> With my background in literature and philosophy you may call me a true lover of words. At the Institute of Network Cultures I’m responsible for our publication series, which are published both on paper, in digital formats and online. As a part of the research team for the Hybrid Publishing Toolkit I helped (re)design the hybrid publishing workflow, which is now implemented in the INC. At the PublishingLab I coordinated the Art of Criticism project and hope to pursue many publishing questions in the future to come.</p>
@@ -131,6 +131,7 @@ Table of Contents
 <h3 id="transforming-hit-n-run-millennials---de-persgroep-2016"><span id="persgroep">Transforming Hit 'n' Run Millennials - De Persgroep (2016)</span></h3>
 <!-- title (year) -->
 <!--appealing image-->
+<p><br/><br/></p>
 <img src="imgs/Persgroep-img2.png" />
 <p class="caption">
 Screenshot of conducted survey about prototype.
@@ -160,6 +161,7 @@ Heatmap of testing the prototype.
 <p><strong>Partner</strong>: <img class="logo" src="imgs/logopersgroep.png" /></p>
 <h3 id="navigating-theory-on-demand---institute-of-network-cultures-2015"><span id="INC">Navigating Theory on Demand - Institute of Network Cultures (2015)</span></h3>
 <!-- title (year) -->
+<p><br/><br/></p>
 <!--appealing image-->
 <img src="imgs/tod-1.png" />
 <p class="caption">
@@ -431,10 +433,18 @@ Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Proc
 <div id="program-table">
 <div class="cell event-inside">
 <p class="date">
-Sept <strong>1</strong>, Thursday
+Aug <strong>31</strong>, Wednesday
 </p>
 <p class="event">
 Sprint 0 - Kickoff
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Sept <strong>1</strong>, Thursday
+</p>
+<p class="event">
+Zinestorming
 </p>
 </div>
 <div class="cell">
@@ -457,15 +467,12 @@ Sept <strong>4</strong>, Sunday
 Sept <strong>5</strong>, Monday
 </p>
 <p class="event">
-Workshop SCRUM
+Sprint 1 - Ideation and Planning
 </p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
 <p class="date">
 Sept <strong>6</strong>, Tuesday
-</p>
-<p class="event">
-Presentation Skills
 </p>
 </div>
 <div class="cell event-inside">
@@ -473,7 +480,7 @@ Presentation Skills
 Sept <strong>7</strong>, Wednesday
 </p>
 <p class="event">
-Workshop Experimental Publishing
+Sprint 1 - Translate
 </p>
 </div>
 <div class="cell event-inside">
@@ -488,8 +495,8 @@ Partner Visit
 <p class="date">
 Sept <strong>9</strong>, Friday
 </p>
-<p class="event">
-Sprint 0 Review + Retrospective
+<p class="event afternoon">
+SCRUM Workshop
 </p>
 </div>
 <div class="cell">
@@ -507,12 +514,15 @@ Sept <strong>11</strong>, Sunday
 Sept <strong>12</strong>, Monday
 </p>
 <p class="event">
-Sprint 1 Ideation + Planning
+Design Sprint
 </p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
 <p class="date">
 Sept <strong>13</strong>, Tuesday
+</p>
+<p class="event">
+Design Sprint
 </p>
 </div>
 <div class="cell event-inside">
@@ -520,7 +530,7 @@ Sept <strong>13</strong>, Tuesday
 Sept <strong>14</strong>, Wednesday
 </p>
 <p class="event">
-Sprint 1 Translate
+Design Sprint
 </p>
 </div>
 <div class="cell">
@@ -555,8 +565,8 @@ Sept <strong>19</strong>, Monday
 <p class="date">
 Sept <strong>20</strong>, Tuesday
 </p>
-<p class="event">
-Ideation Workshop
+<p class="event afternoon">
+Peerpitch
 </p>
 </div>
 <div class="cell">
@@ -569,7 +579,7 @@ Sept <strong>21</strong>, Wednesday
 Sept <strong>22</strong>, Thursday
 </p>
 <p class="event">
-Sprint 0 Review + Retrospective
+Sprint 1 - Review + Retrospective
 </p>
 </div>
 <div class="cell">
@@ -591,21 +601,24 @@ Sept <strong>25</strong>, Sunday
 <p class="date">
 Sept <strong>26</strong>, Monday
 </p>
+<p class="event">
+Sprint 2 - Planning + Ideation
+</p>
 </div>
 <div class="cell event-inside">
 <p class="date">
 Sept <strong>27</strong>, Tuesday
 </p>
 <p class="event">
-Peer Pitch
+Workshop with Geert Lovink
 </p>
 </div>
 <div class="cell event-inside">
 <p class="date">
 Sept <strong>28</strong>, Wednesday
 </p>
-<p class="event">
-UX Design
+<p class="event afternoon">
+Pitch Training with Peter van Meersbergen
 </p>
 </div>
 <div class="cell">
@@ -616,6 +629,726 @@ Sept <strong>29</strong>, Thursday
 <div class="cell">
 <p class="date">
 Sept <strong>30</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>1</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>2</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>3</strong>, Monday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>4</strong>, Tuesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>5</strong>, Wednesday
+</p>
+<p class="event">
+Sprint 2 - Translate
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>6</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>7</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>8</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>9</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>10</strong>, Monday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>11</strong>, Tuesday
+</p>
+<p class="event afternoon">
+Peerpitch
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>12</strong>, Wednesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>13</strong>, Thursday
+</p>
+<p class="event">
+Sprint 2 - Review + Retrospective
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>14</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>15</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>16</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>17</strong>, Monday
+</p>
+<p class="event">
+Coding Sprint
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>18</strong>, Tuesday
+</p>
+<p class="event">
+Coding Sprint
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>19</strong>, Wednesday
+</p>
+<p class="event">
+Coding Sprint
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>20</strong>, Thursday
+</p>
+<p class="event">
+Coding Sprint
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>21</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>22</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>23</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Oct <strong>24</strong>, Monday
+</p>
+<p class="event">
+Sprint 3 - Ideation + Planning
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>25</strong>, Tuesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>26</strong>, Wednesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>27</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>28</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>29</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>30</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Oct <strong>31</strong>, Monday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>1</strong>, Tuesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Nov <strong>2</strong>, Wednesday
+</p>
+<p class="event">
+Sprint 3 - Translate
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>3</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>4</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>5</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>6</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>7</strong>, Monday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Nov <strong>8</strong>, Tuesday
+</p>
+<p class="event afternoon">
+Peerpitch
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>9</strong>, Wednesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>10</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>11</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>12</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>13</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Nov <strong>14</strong>, Monday
+</p>
+<p class="event">
+Sprint 4 - Ideation + Planning
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>15</strong>, Tuesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>16</strong>, Wednesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>17</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>18</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>19</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>20</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>21</strong>, Monday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>22</strong>, Tuesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Nov <strong>23</strong>, Wednesday
+</p>
+<p class="event">
+Sprint 4 - Translate
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>24</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>25</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>26</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>27</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Nov <strong>28</strong>, Monday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Nov <strong>29</strong>, Tuesday
+</p>
+<p class="event afternoon">
+Peerpitch
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Nov <strong>30</strong>, Wednesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Dec <strong>1</strong>, Thursday
+</p>
+<p class="event">
+Sprint 4 - Review + Retrospective
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>2</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>3</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>4</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Dec <strong>5</strong>, Monday
+</p>
+<p class="event">
+Sprint 5 - Ideation + Planning
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>6</strong>, Tuesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>7</strong>, Wednesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>8</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>9</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>10</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>11</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>12</strong>, Monday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>13</strong>, Tuesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Dec <strong>14</strong>, Wednesday
+</p>
+<p class="event">
+Sprint 5 - Translate
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>15</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>16</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>17</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>18</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>19</strong>, Monday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Dec <strong>20</strong>, Tuesday
+</p>
+<p class="event afternoon">
+Peerpitch
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>21</strong>, Wednesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>22</strong>, Thursday
+</p>
+<p class="event">
+Sprint 5 - Review + Restrospective
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>23</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>24</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>25</strong>, Sunday
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Dec <strong>26</strong>, Monday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Dec <strong>27</strong>, Tuesday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Dec <strong>28</strong>, Wednesday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Dec <strong>29</strong>, Thursday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Dec <strong>30</strong>, Friday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Dec <strong>31</strong>, Saturday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Jan <strong>1</strong>, Sunday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Jan <strong>2</strong>, Monday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Jan <strong>3</strong>, Tuesday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Jan <strong>4</strong>, Wednesday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell event-break">
+<p class="date">
+Jan <strong>5</strong>, Thursday
+</p>
+<p class="event">
+Christmas Break
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>6</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>7</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>8</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Jan <strong>9</strong>, Monday
+</p>
+<p class="event">
+Sprint 6 - Ideation + Planning
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>10</strong>, Tuesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Jan <strong>11</strong>, Wednesday
+</p>
+<p class="event">
+Sprint 6 - Translate
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>12</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>13</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>14</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>15</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Jan <strong>16</strong>, Monday
+</p>
+<p class="event">
+Sprint 6 - Review
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>17</strong>, Tuesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Jan <strong>18</strong>, Wednesday
+</p>
+<p class="event">
+Final Presentation
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>19</strong>, Thursday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>20</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>21</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>22</strong>, Sunday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Jan <strong>23</strong>, Monday
+</p>
+<p class="event">
+Try Out
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>24</strong>, Tuesday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>25</strong>, Wednesday
+</p>
+</div>
+<div class="cell event-inside">
+<p class="date">
+Jan <strong>26</strong>, Thursday
+</p>
+<p class="event">
+LAST DAY - Deliver Package to Partners
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>27</strong>, Friday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Dec <strong>28</strong>, Saturday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>29</strong>, Sunday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>30</strong>, Monday
+</p>
+</div>
+<div class="cell">
+<p class="date">
+Jan <strong>31</strong>, Tuesday
 </p>
 </div>
 </div>

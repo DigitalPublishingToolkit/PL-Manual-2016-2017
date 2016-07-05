@@ -254,11 +254,17 @@ div#cover-image{
   margin-left: -1px;
   margin-top: -1px;
 }
-.event-inside {
+.event-inside, .event-break {
   background-color: #39FF03;
   -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1);
   -moz-box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1);
   box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1);
+}
+.event-break {
+  background-color: #444;
+}
+.event-break .date {
+  color: white;
 }
 .date {
   margin: 0 0 20px 0;
@@ -269,6 +275,11 @@ div#cover-image{
   color: white;
   font-size: 0.6rem;
   font-weight: bold;
+}
+.afternoon {
+  border-top: 1px solid white;
+  padding-top: 13px;
+  margin-top: 30px;
 }
 .clear {
   clear: both;
