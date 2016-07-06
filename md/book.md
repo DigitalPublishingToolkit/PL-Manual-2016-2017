@@ -360,7 +360,7 @@ To structure the collaborative process of your project, we use the Scrum method 
 Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
 
 #### <span id="publishing">Experimental Publishing</span>
-Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the Post-Digital Publishing Archive, an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.
+Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the [Post-Digital Publishing Archive](http://p-dpa.net), an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.
 
 #### <span id="ideation">Frame Insights and Ideation</span>
 In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.
@@ -670,7 +670,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>28</strong>, Wednesday</p>
- <p class="event afternoon" >Pitch Training with Peter van Meersbergen</p>
+ <p class="event afternoon" >Pitch Training</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>29</strong>, Thursday</p>
@@ -1002,7 +1002,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
  <p class="date" >Jan <strong>6</strong>, Friday</p>
 </div>
 <div class="cell">
- <p class="date" >Dec <strong>7</strong>, Saturday</p>
+ <p class="date" >Jan <strong>7</strong>, Saturday</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>8</strong>, Sunday</p>
@@ -1034,15 +1034,17 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
  <p class="date" >Jan <strong>16</strong>, Monday</p>
  <p class="event" >Sprint 6 - Review</p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
  <p class="date" >Jan <strong>17</strong>, Tuesday</p>
+  <p class="event" >Try Out</p>
 </div>
 <div class="cell event-inside">
  <p class="date" >Jan <strong>18</strong>, Wednesday</p>
  <p class="event" >Final Presentation</p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
  <p class="date" >Jan <strong>19</strong>, Thursday</p>
+ <p class="event" >LAST DAY - Deliver Package to Partners</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>20</strong>, Friday</p>
@@ -1053,9 +1055,8 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Jan <strong>22</strong>, Sunday</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Jan <strong>23</strong>, Monday</p>
- <p class="event" >Try Out</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>24</strong>, Tuesday</p>
@@ -1063,9 +1064,8 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <div class="cell">
  <p class="date" >Jan <strong>25</strong>, Wednesday</p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
  <p class="date" >Jan <strong>26</strong>, Thursday</p>
- <p class="event" >LAST DAY - Deliver Package to Partners</p>
 </div>
 <div class="cell">
  <p class="date" >Jan <strong>27</strong>, Friday</p>
