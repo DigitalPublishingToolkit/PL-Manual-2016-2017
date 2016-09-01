@@ -587,7 +587,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>14</strong>, Wednesday</p>
- <p class="event" >Design Sprint</p>
+ <p class="event" >Workshop - Define Intensions  / Charlie Mulholland / 09.30 - 12.30</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>15</strong>, Thursday</p>
@@ -635,7 +635,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>28</strong>, Wednesday</p>
- <p class="event afternoon" >Pitch Training</p>
+ <p class="event afternoon" >Pitch training / Peter van Meersbergen / 13.30 - 17.30</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>29</strong>, Thursday</p>
@@ -657,10 +657,11 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Oct <strong>5</strong>, Wednesday</p>
- <p class="event" >Sprint 2 - Translate</p>
+ <p class="event" >Workshop - User & Context / Marco van Hout /  09.30 - 12.30</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>6</strong>, Thursday</p>
+ <p class="event">Sprint 2 - Translate</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>7</strong>, Friday</p>
@@ -728,6 +729,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>26</strong>, Wednesday</p>
+ <p class="event">Workshop Frame insights & Ideation / Charlie Mulholland / 09.30 - 12.30</p>
 </div>
 <div class="cell">
  <p class="date" >Oct <strong>27</strong>, Thursday</p>
