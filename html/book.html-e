@@ -50,13 +50,15 @@ Table of Contents
 <li><a href="#INC">Institute of Network Cultures</a></li>
 <li><a href="#unstudio">UNStudio</a></li>
 </ul></li>
-<li><a href="#process">Process</a> <!--header-->
+<li><a href="#process">Design Approach - SCREAM!</a> <!--header-->
 <ul>
+<li><a href="#SCREAM!">SCREAM! Process</a></li>
 <li><a href="#designprocess">Design Process</a></li>
 <li><a href="#researchtranslatecreate">Research, Translate And Create</a></li>
-<li><a href="#scrum">SCRUM</a></li>
-<li><a href="#sprints">Sprints</a></li>
+<li><a href="#sprints">Design Sprints</a></li>
 <li><a href="#rituals">Rituals</a></li>
+<li><a href="#roles">Roles</a></li>
+<li><a href="#compentences">Competences</a></li>
 <li><a href="#workshops">Workshops, Masterclasses and Lectures</a></li>
 </ul></li>
 <li><p><a href="#programme">Program</a> <!--header--></p></li>
@@ -229,53 +231,70 @@ Screenshot of web app Knowledge Matters.
 <p>The goal of the interactive book ‘Knowledge Matters’ was to design an extension of a printed book: maybe a digital book? While analyzing and selecting material from the digital archive of UNStudio and becoming aware of its potential, we understood that a new approach had to be considered. Maybe not a mere translation between a printed matter and a digital one, but instead an exploration of the digital format in a way that would not be possible in the printed form. We decided to create an app that would enhance the non-linear quality of the navigation and give priority to material in motion and interacte features. A combination of programming languages (HTML5, CSS and Javascript), together with graphic studies, shared motivation and enthusiasm made ‘Knowledge Matters’ a very unconventional book.</p>
 <!-- partner(s) -->
 <p><strong>Partner</strong>: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" /></p>
-<h2 id="process"><span id="process">Process</span></h2>
-<p>This section explains how we work: the process and design methods for completing your project.</p>
+<h2 id="design-approach---scream"><span id="SCREAM!">Design Approach - SCREAM!</span></h2>
+<p>This section explains how we work: the process and design approach for completing your project. This method is borrowed from the <a href="http://medialabamsterdam.com/">MediaLAB Amsterdam</a> SCREAM! Design Approach, which is a problem-solving method that helps create and evaluate solutions in response to challenges.</p>
+<p>Making teams effective and creative for complex challenges in a digital era. In an ideal design process there is a constant flow between researching and creating. SCREAM! facilitates this flow with a structured ‘common language’ for multidisciplinary design teams. MediaLAB Amsterdam introduces the SCREAM! approach that enables multidisciplinary teams (with members from various business units and background) to get started and structure their design and creative process. Teams work in short design sprints using the best elements of SCRUM [^SCRUM], supplemented by more design related rituals and artefacts that foster the creativity and human-centeredness along the way. SCREAM! is therefore introduced in combination with the structured Design Method Toolkit that will enable teams to plan and apply design methods in their projects, and create impactful solutions within short iterations.</p>
 <h3 id="design-process"><span id="designprocess">Design Process</span></h3>
-<p>One of the methods we use, is the <a href="http://medialabamsterdam.com/">MediaLAB Amsterdam</a> design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.</p>
+<p>The MediaLAB Amsterdam design process helps create and evaluate solutions in response to challenges. In the process PublishingLab intends to evoke real curiosity in order to make students feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and test each idea, concept or prototype with actual users.</p>
+<h3 id="research-translate-and-create"><span id="researchtranslatecreate">Research, Translate And Create</span></h3>
+<p>At the start of every design challenge, and at the start of each new phase in the design process, research has a central role. Research provides plenty of insights; how people act/think/feel and who the intended users are, within the context of the challenge. These insights are the key to a solution, but they have to be translated into actual design requirements: which are key for the optimal solution? This is something that can be decided based on the research, and implemented and tested by creating a prototype. A next step might be to research again into what you created by setting up a test with users. During the project there is a constant two-way flow: from research, translation to creation, and from creation, translation to research.</p>
 <p><img class="noshadow bigdiagram" src="imgs/figure1.svg" /></p>
 <p class="caption">
 Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).
 </p>
 <!--image of bad quality, but gives an idea of what is desired. change icons.-->
-<h3 id="research-translate-and-create"><span id="researchtranslatecreate">Research, Translate And Create</span></h3>
-<p>At the start of each new stage in the design process, research has a central role. Research provides plenty of insights, for example about how people act/think/feel and who the intended users are. These insights are the key to finding a solution, but first they have to be translated into actual design decisions. Making a prototype based on these decisions will help you test their effectiveness. A next step might be to go back to the research to find other solutions, or to set up a test with users. During the project there is a constant two-way flow: from research through translation to creation, and from creation through translation to research.</p>
-<h3 id="scrum"><span id="scrum">SCRUM</span></h3>
-<p>Scrum is an iterative and incremental process for the design and development of products and services, and it has a very specific way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework. This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The flow of the design process is embedded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.</p>
-<h3 id="sprints"><span id="sprints">Sprints</span></h3>
-<p>A ‘sprint’ (or iteration) is the basic unit of the development process. The sprint is a ‘timeboxed’ effort: it is restricted to a specific duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to perform more sprints within those scheduled three weeks.</p>
+<h3 id="design-sprints"><span id="sprints">Design Sprints</span></h3>
+<p>SCREAM! design sprints are the basic unit of progress. The design sprint is a &quot;timeboxed&quot; effort; that is, it is restricted to a specific duration. The design sprint process is similar to Sprints in an agile development cycle such as in SCRUM; they incorporate the same principles of learning early. In addition to the three main rituals in the agile Sprint (planning, review, retrospective), SCREAM! Sprints characterize themselves with the addition of the Translate session in the middle of the sprint and the focus on design methods during the Sprint Planning. The SCREAM! design sprints in the PublishingLab programme have an average duration of three weeks.</p>
 <h3 id="rituals"><span id="rituals">Rituals</span></h3>
-<p>Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.</p>
+<p>At the PublishingLab we use specific ‘rituals’ during each sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation session, and ends with a sprint review meeting and retrospective. During a sprint, the team has stand up meetings.</p>
 <p><img class="noshadow bigdiagram" src="imgs/figure2.svg" /></p>
 <p class="caption">
 Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).
 </p>
-<p><span class="numeral">1</span> Daily Stand-Up Meetings</p>
-<p>The daily stand-up meeting takes place at the same time and place of every working day. This meeting is held in the morning, as it helps set the goal for the coming day’s work. They are strictly time-boxed to 15 minutes. This keeps the discussion brisk and relevant.</p>
-<p>The daily stand-up meeting is not used as a problem-solving or issue resolution meeting. Issues raised are usually dealt with immediately after the meeting. During the daily stand-up, each team member answers the following three questions:</p>
+<p><span class="numeral">1</span> Stand-Up Meetings</p>
+<p>The standup meeting takes place at the same time and place of every working day. Held (first thing) in the morning, it helps set the context for the coming day's work. These standup meetings are strictly time-boxed to 15 minutes and all team members actually standup instead of sitting down. This keeps the discussion brisk but relevant.</p>
+<p>The daily standup meeting is not used as a problem-solving or issue resolution meeting. Issues raised are taken offline and usually dealt with immediately after the meeting. During the daily standup, each team member answers the following three questions:eam member answers the following three questions:</p>
 <ol style="list-style-type: decimal">
 <li>What did you do yesterday?</li>
 <li>What will you do today?</li>
-<li>Are there any barriers in your way?</li>
+<li>Are there any impediments in your way?</li>
 </ol>
 <p><span class="numeral">2</span> Ideation And Planning</p>
-<p>Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.</p>
+<p>Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and it is decided which have potential to be taken along in this sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. Last but not least, in this session the Design Method Toolkit is used to identify which methods are going to be used and how they are going to be executed during the sprint.</p>
 <p><span class="numeral">3</span> Translate and Transfer</p>
-<p>In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).</p>
+<p>In the middle of the 3-week sprint, there is a scheduled ‘translate’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next. Each translation session and its outcomes are carefully documented. The documentation is very important for later use in the academic paper, but moreover, it provides the team with a clearer overview of why they made or have to make specific decisions in the design process.</p>
 <p><span class="numeral">4</span> Sprint Review</p>
 <p>After the team has completed the planned deliverables for this sprint it is time for the ‘sprint review’. In this meeting, which is organized with all stakeholders present, decisions on progress and how to proceed are made, including next steps and possible needs and wishes. Specifically, the team will present the work they did during the sprint and will run through the sprint backlog together with stakeholders.</p>
 <p><span class="numeral">5</span> Sprint Retrospective</p>
-<p>A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.</p>
+<p>A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way they work and function as a team.</p>
+<h3 id="competences"><span id="competences">Competences</span></h3>
+<p>A key principle of SCREAM! is the integration of research and design in general and explicit and recurring stages of reflection in design processes. All events and rituals are positioned as drivers for reflection in design. Interdisciplinary teams following a structured design process to come up with a solution (intervention or ‘response’) for a design challenge (as specified by a close cooperation between industry and academia).</p>
+<p>The short sprints, fixed rituals, sessions and deliverable moments improve motivation and enhance learning and transfer between the different phases of the design process (for individual &amp; team). SCREAM! fosters an iterative approach, productivity, planning, decision-making, creativity, applied research and the self-directing character of a team. The design methodology supports teams to develop and evolve collective design competences (‘navigation’ &amp; ‘negotiation’).</p>
+<p>The interdisciplinarity and cross-influences between ideas and practice increase the body of knowledge, skills and opportunities, resulting in higher levels of performance. Individuals within a team choose the role that fits their own expertise. Therefore, if the team manages to have a shared vision/goals, this will address the collaborative and reflective learning principles.</p>
+<p>In summary, the following behavioral capabilities and competences are strengthened by SCREAM!:</p>
+<p><a href="#empathy_autonomy">Empathy &amp; Autonomy</a>: team members will learn to empathize with others, both within the team and inside-out (with users, stakeholders). Additionally, team members should show proficiency in choosing an own route (autonomy) in a highly insecure environment.</p>
+<p><a href="#leadership_collaboration">Leadership &amp; collaboration</a>: Team members will learn to take the lead at any given moment in a project and manage stakeholder expectations. Furthermore, they will learn how to choose the right balance between individual and collaborative (value of) work.</p>
+<p><a href="#negotiation_navigation">Negotiation &amp; navigation</a>: Team members will learn to negotiate complex decisions within the team and with multiple stakeholders. They should also be able to adequately navigate complex relationships.</p>
+<p><a href="#articulation_decision">Articulation &amp; Decision</a>:Team members will learn to formulate and address appropriate and feasible goals within the project scope. They will also learn to decide on methods, approaches and strategy to achieve these goals.</p>
+<p><a href="#responsibility_accountability">Responsibility &amp; Accountability</a>: Team members will learn to take responsibility for own work in relation to team agreements and project scope. Furthermore they will learn to take accountability for their own work and distinguish it from work of others.</p>
+<p><a href="#translate_transfer">Translate &amp; Transfer</a>: Team members will learn to translate specific and applied research results into project-appropriate insights. They will also be learning to transfer those insights into business opportunities and a larger body of knowledge.</p>
+<h5 id="glossary-of-terms">Glossary of terms</h5>
+<p><span id="empathy_autonomy">Empathy</span> : The capability to create a deep understanding and share the feeling of environment, team dynamics and team culture. Autonomy: The capability to individually navigate insecure environments and find a balance between personal and professional attention.</p>
+<p><span id="leadership_collaboration">Leadership</span> : The capability to step up and make decisions for the team at any point while maintaining a group focus. Collaboration: The capability to select, find and work with another person or group in order to achieve a common goal.</p>
+<p><span id="negotiation_navagotion">Negotiation</span> : The capability to argue for and make complex decisions in dynamic environments. Navigation: The capability to hold and facilitate complex relationships with multiple stakeholders.</p>
+<p><span id="articulation_decision">Articulation</span> : The capability to formulate specific goals with clear definitions of deliverables. Decision-making: The capability to choose the most appropriate approaches and methods to achieve the project-specific goals.</p>
+<p><span id="responsibility_accountability">Responsibility</span> : The capability to take ownership of individual work in team efforts. Accountability: The capability to distinguish individual work from that of others and argue for it.</p>
+<p><span id="translate_transfer">Translate</span> : The capability to take results from research and/or creation and frame them into specific project-related requirements. Transfer: The capability to convey insights from the project to a larger body of knowledge such as a theme-related academic discourse.</p>
 <h2 id="program"><span id="programme">Program</span></h2>
 <p>PublishingLab follows MediaLAB Amsterdam's combination of an iterative design cycle and a scrum process in order to foster both the creative process and enforce teams to work structured and goal oriented. The method has proven to be a powerful combination for the multidisciplinary design teams that work on projects in the lab- context thats been provided. In addition, students are immersed in a program of workshops, master classes, lectures, as well as support by the PublishingLab team.</p>
 <h3 id="workshops-masterclasses-and-lectures"><span id="workshops">Workshops, Masterclasses and Lectures</span></h3>
 <p>During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.</p>
-<h4 id="scrum-1"><span id="scrumtraining">SCRUM</span></h4>
-<p>To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.</p>
+<h4 id="screamspan"><span id="SCREAM!">SCREAM&lt;!/span&gt;</h4>
+<p>To structure the collaborative process of your project, we use the SCREAM! method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.</p>
 <h4 id="pitch-training"><span id="presentation">Pitch Training</span></h4>
 <p>Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.</p>
 <h4 id="experimental-publishing"><span id="publishing">Experimental Publishing</span></h4>
-<p>Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the Post-Digital Publishing Archive, an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.</p>
+<p>Experimental approaches to publishing in the art and design fields can trigger the development of unexpected understandings of design flows. In this workshop we will explore the <a href="http://p-dpa.net">Post-Digital Publishing Archive</a>, an online archive that aims to collect, categorize, and connect experimental publishing projects. We will use its current structure as a sandbox for developing different forms of archiving through layout, new functionalities, and different literary approaches.</p>
 <h4 id="frame-insights-and-ideation"><span id="ideation">Frame Insights and Ideation</span></h4>
 <p>In this workshop students recheck their understanding of the problem at hand. In order to generate good ideas it is vital to make them a good fit with their context. The workshop introduces several fast-paced and productive exercises that can be used to generate lots of ideas in a short time. Teams then try to cluster the ideas into potential solutions. The most important goals of the workshop are to have fun, open your mind, and change the way you look at the world.</p>
 <h4 id="user-experience-design"><span id="ux">User Experience Design</span></h4>
@@ -530,7 +549,7 @@ Design Sprint
 Sept <strong>14</strong>, Wednesday
 </p>
 <p class="event">
-Design Sprint
+Workshop - Define Intensions / Charlie Mulholland / 09.30 - 12.30
 </p>
 </div>
 <div class="cell">
@@ -618,7 +637,7 @@ Workshop with Geert Lovink
 Sept <strong>28</strong>, Wednesday
 </p>
 <p class="event afternoon">
-Pitch Training with Peter van Meersbergen
+Pitch training / Peter van Meersbergen / 13.30 - 17.30
 </p>
 </div>
 <div class="cell">
@@ -656,12 +675,15 @@ Oct <strong>4</strong>, Tuesday
 Oct <strong>5</strong>, Wednesday
 </p>
 <p class="event">
-Sprint 2 - Translate
+Workshop - User &amp; Context / Marco van Hout / 09.30 - 12.30
 </p>
 </div>
 <div class="cell">
 <p class="date">
 Oct <strong>6</strong>, Thursday
+</p>
+<p class="event">
+Sprint 2 - Translate
 </p>
 </div>
 <div class="cell">
@@ -783,6 +805,9 @@ Oct <strong>25</strong>, Tuesday
 <div class="cell">
 <p class="date">
 Oct <strong>26</strong>, Wednesday
+</p>
+<p class="event">
+Workshop Frame insights &amp; Ideation / Charlie Mulholland / 09.30 - 12.30
 </p>
 </div>
 <div class="cell">
@@ -1210,7 +1235,7 @@ Jan <strong>6</strong>, Friday
 </div>
 <div class="cell">
 <p class="date">
-Dec <strong>7</strong>, Saturday
+Jan <strong>7</strong>, Saturday
 </p>
 </div>
 <div class="cell">
@@ -1267,9 +1292,12 @@ Jan <strong>16</strong>, Monday
 Sprint 6 - Review
 </p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
 <p class="date">
 Jan <strong>17</strong>, Tuesday
+</p>
+<p class="event">
+Try Out
 </p>
 </div>
 <div class="cell event-inside">
@@ -1280,9 +1308,12 @@ Jan <strong>18</strong>, Wednesday
 Final Presentation
 </p>
 </div>
-<div class="cell">
+<div class="cell event-inside">
 <p class="date">
 Jan <strong>19</strong>, Thursday
+</p>
+<p class="event">
+LAST DAY - Deliver Package to Partners
 </p>
 </div>
 <div class="cell">
@@ -1300,12 +1331,9 @@ Dec <strong>21</strong>, Saturday
 Jan <strong>22</strong>, Sunday
 </p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
 <p class="date">
 Jan <strong>23</strong>, Monday
-</p>
-<p class="event">
-Try Out
 </p>
 </div>
 <div class="cell">
@@ -1318,12 +1346,9 @@ Jan <strong>24</strong>, Tuesday
 Jan <strong>25</strong>, Wednesday
 </p>
 </div>
-<div class="cell event-inside">
+<div class="cell">
 <p class="date">
 Jan <strong>26</strong>, Thursday
-</p>
-<p class="event">
-LAST DAY - Deliver Package to Partners
 </p>
 </div>
 <div class="cell">
@@ -1385,5 +1410,6 @@ Jan <strong>31</strong>, Tuesday
 <p class="pagebr">
 </p>
 <p><img class="bigpic" src="imgs/ppl2.jpg" /></p>
+<p>[^SCRUM] http://www.scrumguides.org/scrum-guide.html</p>
 </body>
 </html>
