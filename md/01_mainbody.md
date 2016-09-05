@@ -25,13 +25,11 @@
 	- [UNStudio](#unstudio)
 
 - [Design Approach - SCREAM!](#process) <!--header-->
-	- [SCREAM! Process](#SCREAM!)
 	- [Design Process](#designprocess)
 	- [Research, Translate And Create](#researchtranslatecreate)
 	- [Design Sprints](#sprints)
 	- [Rituals](#rituals)
 	- [Roles](#roles)
-	- [Competences](#compentences)
 	- [Workshops, Masterclasses and Lectures](#workshops)
 
 - [Program](#programme) <!--header-->
@@ -259,7 +257,7 @@ We decided to create an app that would enhance the non-linear quality of the nav
 <!-- partner(s) -->
 **Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
 
-## <span id="SCREAM!">Design Approach - SCREAM!</span>
+## <span id="process">Design Approach - SCREAM!</span>
 This section explains how we work: the process and design approach for completing your project. This method is borrowed from the [MediaLAB Amsterdam](http://medialabamsterdam.com/) SCREAM! Design Approach, which is a problem-solving method that helps create and evaluate solutions in response to challenges. 
 
 Making teams effective and creative for complex challenges in a digital era. In an ideal design process there is a constant flow between researching and creating. SCREAM! facilitates this flow with a structured ‘common language’ for multidisciplinary design teams. MediaLAB Amsterdam introduces the SCREAM! approach that enables multidisciplinary teams (with members from various business units and background) to get started and structure their design and creative process. Teams work in short design sprints using the best elements of SCRUM [^SCRUM], supplemented by more design related rituals and artefacts that foster the creativity and human-centeredness along the way.  SCREAM! is therefore introduced in combination with the structured Design Method Toolkit that will enable teams to plan and apply design methods in their projects, and create impactful solutions within short iterations. 
@@ -366,7 +364,7 @@ In addition, students are immersed in a program of workshops, master classes, le
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
 
-#### <span id="SCREAM!">SCREAM<!/span>
+#### <span id="SCREAM">SCREAM</span>
 To structure the collaborative process of your project, we use the SCREAM! method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
 
 #### <span id="presentation">Pitch Training</span>
@@ -617,7 +615,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>9</strong>, Friday</p>
- <p class="event afternoon" >SCRUM Workshop</p>
+ <p class="event afternoon" >SCREAM Training / Marco van Hout & Gijs Gootjes</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>10</strong>, Saturday</p>
@@ -635,7 +633,11 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>14</strong>, Wednesday</p>
+<<<<<<< HEAD
+ <p class="event afternoon" >Workshop - Define Intentions / Charlie Mulholland</p>
+=======
  <p class="event" >Workshop - Define Intensions  / Charlie Mulholland / 09.30 - 12.30</p>
+>>>>>>> d929358970b5d51aec32fa1ad4e5940ef2cf2e59
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>15</strong>, Thursday</p>
