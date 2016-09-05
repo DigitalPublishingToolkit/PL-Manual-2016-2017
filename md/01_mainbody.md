@@ -24,12 +24,14 @@
 	- [Institute of Network Cultures](#INC)
 	- [UNStudio](#unstudio)
 
-- [Process](#process) <!--header-->
+- [Design Approach - SCREAM!](#process) <!--header-->
+	- [SCREAM! Process](#SCREAM!)
 	- [Design Process](#designprocess)
 	- [Research, Translate And Create](#researchtranslatecreate)
-	- [SCRUM](#scrum)
-	- [Sprints](#sprints)
+	- [Design Sprints](#sprints)
 	- [Rituals](#rituals)
+	- [Roles](#roles)
+	- [Competences](#compentences)
 	- [Workshops, Masterclasses and Lectures](#workshops)
 
 - [Program](#programme) <!--header-->
@@ -257,29 +259,29 @@ We decided to create an app that would enhance the non-linear quality of the nav
 <!-- partner(s) -->
 **Partner**: <img class="logo" src="imgs/UNSTUDIO_logo.jpg" />
 
+## <span id="SCREAM!">Design Approach - SCREAM!</span>
+This section explains how we work: the process and design approach for completing your project. This method is borrowed from the [MediaLAB Amsterdam](http://medialabamsterdam.com/) SCREAM! Design Approach, which is a problem-solving method that helps create and evaluate solutions in response to challenges. 
 
-## <span id="process">Process</span>
-This section explains how we work: the process and design methods for completing your project.
+Making teams effective and creative for complex challenges in a digital era. In an ideal design process there is a constant flow between researching and creating. SCREAM! facilitates this flow with a structured ‘common language’ for multidisciplinary design teams. MediaLAB Amsterdam introduces the SCREAM! approach that enables multidisciplinary teams (with members from various business units and background) to get started and structure their design and creative process. Teams work in short design sprints using the best elements of SCRUM [^SCRUM], supplemented by more design related rituals and artefacts that foster the creativity and human-centeredness along the way.  SCREAM! is therefore introduced in combination with the structured Design Method Toolkit, and the SCREAM app that will enable teams to plan and apply design methods in their projects, and create impactful solutions within short iterations. 
 
 ### <span id="designprocess">Design Process</span>
-One of the methods we use, is the [MediaLAB Amsterdam](http://medialabamsterdam.com/) design process, which is a problem-solving method that helps create and evaluate solutions in response to challenges. In this process one tries to evoke real curiosity in order to make teams feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and testing each idea, concept or prototype with actual users.
+The MediaLAB Amsterdam design process helps create and evaluate solutions in response to challenges. In the process MediaLAB intends to evoke real curiosity in order to make students feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and test each idea, concept or prototype with actual users.
+
+### <span id="researchtranslatecreate">Research, Translate And Create</span>
+At the start of every design challenge, and at the start of each new phase in the design process, research has a central role. Research provides plenty of insights; how people act/think/feel and who the intended users are, within the context of the challenge.
+These insights are the key to a solution, but they have to be translated into actual design requirements: which are key for the optimal solution? This is something that can be decided based on the research, and implemented and tested by creating a prototype. A next step might be to research again into what you created by setting up a test with users. During the project there is a constant two-way flow: from research, translation to creation, and from creation, translation to research.
 
 <img class="noshadow bigdiagram" src="imgs/figure1.svg" />
 
 <p class="caption">Figure 1. MediaLAB Amsterdam Design Process, Research, Translate and Create phase (source: Manual MediaLAB Design Process 2014).</p>
 <!--image of bad quality, but gives an idea of what is desired. change icons.-->
 
-### <span id="researchtranslatecreate">Research, Translate And Create</span>
-At the start of each new stage in the design process, research has a central role. Research provides plenty of insights, for example about how people act/think/feel and who the intended users are. These insights are the key to finding a solution, but first they have to be translated into actual design decisions. Making a prototype based on these decisions will help you test their effectiveness. A next step might be to go back to the research to find other solutions, or to set up a test with users. During the project there is a constant two-way flow: from research through translation to creation, and from creation through translation to research.
-
-### <span id="scrum">SCRUM</span>
-Scrum is an iterative and incremental process for the design and development of products and services, and it has a very specific way of organizing a team. Tasks are achieved faster and with higher quality when using the Scrum Framework. This is possible because of the high self-motivation of the team, which chooses its own tasks and how to execute them. The project partner’s demands are iteratively prioritized and quickly actualized. The flow of the design process is embedded in a sprint-based schedule, ideally supported by Scrum roles, rituals, sessions and artifacts that support the process.
-
-### <span id="sprints">Sprints</span>
-A ‘sprint’ (or iteration) is the basic unit of the development process. The sprint is a ‘timeboxed’ effort: it is restricted to a specific duration. The sprints in the PublishingLab have an average duration of three weeks. However, teams are free to perform more sprints within those scheduled three weeks.
+### <span id="sprints">Design Sprints</span>
+SCREAM! design sprints are the basic unit of progress. The design sprint is a "timeboxed" effort; that is, it is restricted to a specific duration. The design sprint process is similar to Sprints in an agile development cycle such as in SCRUM; they incorporate the same principles of learning early. In addition to the three main rituals in the agile Sprint (planning, review, retrospective), SCREAM! Sprints characterize themselves with the addition of the Translate session in the middle of the sprint and the focus on design methods during the Sprint Planning. The SCREAM! design sprints in the PublishingLab programme have an average duration of three weeks. 
 
 ### <span id="rituals">Rituals</span>
-Specific ‘rituals’ guide the development of a sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation / transfer session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand-up meetings.
+At the MediaLAB we use specific ‘rituals’ during each sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand up meetings.
+
 
 <img class="noshadow bigdiagram" src="imgs/figure2.svg" />
 
@@ -287,21 +289,26 @@ Specific ‘rituals’ guide the development of a sprint. Each sprint starts wit
 
 <span class="numeral">1</span> Daily Stand-Up Meetings
 
-The daily stand-up meeting takes place at the same time and place of every working day. This meeting is held in the morning, as it helps set the goal for the coming day’s work. They are strictly time-boxed to 15 minutes. This keeps the discussion brisk and relevant.
+The daily standup meeting takes place at the same time and place of every working day. Held (first thing) in the morning, it helps set the context for the coming day's work. These standup meetings are strictly time-boxed to 15 minutes and all team members actually standup instead of sitting down. This keeps the discussion brisk but relevant.
 
-The daily stand-up meeting is not used as a problem-solving or issue resolution meeting. Issues raised are usually dealt with immediately after the meeting. During the daily stand-up, each team member answers the following three questions:
+The daily standup meeting is not used as a problem-solving or issue resolution meeting. Issues raised are taken offline and usually dealt with immediately after the meeting. During the daily standup, each team member answers the following three questions:eam member answers the following three questions:
 
 1. What did you do yesterday?
 2. What will you do today?
-3. Are there any barriers in your way?
+3. Are there any impediments in your way?
 
 <span class="numeral">2</span> Ideation And Planning
 
-Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched. The most promising ideas are placed in a hierarchy and a decision is made which of these will be taken along in the sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined. It is important to have a very clear goal, so that the team can break the effort down into smaller pieces that contribute to achieving that goal more smoothly.
+Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched.
+
+The most promising ideas are placed in a hierarchy and it is decided which have potential to be taken along in this sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined.
+
+Last but not least, in this session a plan board in combination with the Design Method Toolkit is used to identify which methods are going to be used and how they are going to be executed during the sprint.
+
 
 <span class="numeral">3</span> Translate and Transfer
 
-In the middle of the 3-week sprint there is a scheduled ‘translate and transfer’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next (transfer).
+In the middle of the 3-week sprint, there is a scheduled ‘translate’ session in which your team and the project-related researchers come together to translate research insights and decide which things to act on in this sprint or the next. Each translation session and its outcomes are carefully documented. The documentation is very important for later use in the academic paper, but moreover, it provides the team with a clearer overview of why they made or have to make specific decisions in the design process.
 
 <span class="numeral">4</span> Sprint Review
 
@@ -309,7 +316,40 @@ After the team has completed the planned deliverables for this sprint it is time
 
 <span class="numeral">5</span> Sprint Retrospective
 
-A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way you work and function as a team.
+A ‘sprint retrospective’ is held at the very end of each sprint. This is a meeting to reflect on both the results and the processes with the team. It is meant to change, improve, or stick to the way they work and function as a team. 
+
+### <span id="competences">Competences</span>
+
+A key principle of SCREAM! is the integration of research and design in general and explicit and recurring stages of reflection in design processes. All events and rituals are positioned as drivers for reflection in design. Interdisciplinary teams following a structured design process to come up with a solution (intervention or ‘response’) for a design challenge (as specified by a close cooperation between industry and academia).
+
+The short sprints, fixed rituals, sessions and deliverable moments improve motivation and enhance learning and transfer between the different phases of the design process (for individual & team). SCREAM! fosters an iterative approach, productivity, planning, decision-making, creativity, applied research and the self-directing character of a team.
+The design methodology supports teams to develop and evolve collective design competences (‘navigation’ & ‘negotiation’).
+
+The interdisciplinarity and cross-influences between ideas and practice increase the body of knowledge, skills and opportunities, resulting in higher levels of performance. Individuals within a team choose the role that fits their own expertise. Therefore, if the team manages to have a shared vision/goals, this will address the collaborative and reflective learning principles of MediaLAB Amsterdam.
+
+In summary, the following behavioral capabilities and competences are strengthened by SCREAM!:
+
+<span id="Empathy_autonomy">Empathy & autonomy</span>: team members will learn to empathize with others, both within the team and inside-out (with users, stakeholders). Additionally, team members should show proficiency in choosing an own route (autonomy) in a highly insecure environment. 
+<span id="Leadership_collaboration">Leadership & collaboration</span>: Team members will learn to take the lead at any given moment in a project and manage stakeholder expectations. Furthermore, they will learn how to choose the right balance between individual and collaborative (value of) work. 
+<span id="Negotiation_navigation">Negotiation & navigation</span>: Team members will learn to negotiate complex decisions within the team and with multiple stakeholders. They should also be able to adequately navigate complex relationships. 
+<span id="Articulation_decision-making">Articulation & decision-making</span>: Team members will learn to formulate and address appropriate and feasible goals within the project scope. They will also learn to decide on methods, approaches and strategy to achieve these goals. 
+<span id="Responsibility_accountability">Responsibility & accountability</span>: Team members will learn to take responsibility for own work in relation to team agreements and project scope. Furthermore they will learn to take accountability for their own work and distinguish it from work of others. 
+<span id="Translate_Transfer">Translate & Transfer</span>: Team members will learn to translate specific and applied research results into project-appropriate insights. They will also be learning to transfer those insights into business opportunities and a larger body of knowledge. 
+
+Glossary of terms
+Empathy: The capability to create a deep understanding and share the feeling of environment, team dynamics and team culture.
+Autonomy: The capability to individually navigate insecure environments and find a balance between personal and professional attention.
+Leadership: The capability to step up and make decisions for the team at any point while maintaining a group focus.
+Collaboration: The capability to select, find and work with another person or group in order to achieve a common goal. 
+Negotiation: The capability to argue for and make complex decisions in dynamic environments.
+Navigation: The capability to hold and facilitate complex relationships with multiple stakeholders. 
+Articulation: The capability to formulate specific goals with clear definitions of deliverables.
+Decision-making: The capability to choose the most appropriate approaches and methods to achieve the project-specific goals.
+Responsibility: The capability to take ownership of individual work in team efforts.
+Accountability: The capability to distinguish individual work from that of others and argue for it.
+Translate: The capability to take results from research and/or creation and frame them into specific project-related requirements.
+Transfer: The capability to convey insights from the project to a larger body of knowledge such as a theme-related academic discourse.
+
 
 ## <span id="programme">Program</span>
 PublishingLab follows MediaLAB Amsterdam's combination of an iterative design cycle and a scrum process in order to foster both the creative process and enforce teams to work structured and goal oriented. The method has proven to be a powerful combination for the multidisciplinary design teams that work on projects in the lab- context thats been provided. 
@@ -1082,3 +1122,6 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 <p class="pagebr"></p>
 
 <img class="bigpic" src="imgs/ppl2.jpg" />
+
+
+[^SCRUM] http://www.scrumguides.org/scrum-guide.html
