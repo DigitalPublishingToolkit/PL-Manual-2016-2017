@@ -329,17 +329,17 @@ The interdisciplinarity and cross-influences between ideas and practice increase
 
 In summary, the following behavioral capabilities and competences are strengthened by SCREAM!:
 
-[Empathy & Autonomy](empathy_autonomy): team members will learn to empathize with others, both within the team and inside-out (with users, stakeholders). Additionally, team members should show proficiency in choosing an own route (autonomy) in a highly insecure environment. 
+[Empathy & Autonomy](#empathy_autonomy): team members will learn to empathize with others, both within the team and inside-out (with users, stakeholders). Additionally, team members should show proficiency in choosing an own route (autonomy) in a highly insecure environment. 
 
-[Leadership & collaboration](leadership_collaboration): Team members will learn to take the lead at any given moment in a project and manage stakeholder expectations. Furthermore, they will learn how to choose the right balance between individual and collaborative (value of) work. 
+[Leadership & collaboration](#leadership_collaboration): Team members will learn to take the lead at any given moment in a project and manage stakeholder expectations. Furthermore, they will learn how to choose the right balance between individual and collaborative (value of) work. 
 
-[Negotiation & navigation](negotiation_navigation): Team members will learn to negotiate complex decisions within the team and with multiple stakeholders. They should also be able to adequately navigate complex relationships. 
+[Negotiation & navigation](#negotiation_navigation): Team members will learn to negotiate complex decisions within the team and with multiple stakeholders. They should also be able to adequately navigate complex relationships. 
 
-[Articulation & Decision ](articulation_decision):Team members will learn to formulate and address appropriate and feasible goals within the project scope. They will also learn to decide on methods, approaches and strategy to achieve these goals. 
+[Articulation & Decision ](#articulation_decision):Team members will learn to formulate and address appropriate and feasible goals within the project scope. They will also learn to decide on methods, approaches and strategy to achieve these goals. 
 
-[Responsibility & Accountability](responsibility_accountability): Team members will learn to take responsibility for own work in relation to team agreements and project scope. Furthermore they will learn to take accountability for their own work and distinguish it from work of others. 
+[Responsibility & Accountability](#responsibility_accountability): Team members will learn to take responsibility for own work in relation to team agreements and project scope. Furthermore they will learn to take accountability for their own work and distinguish it from work of others. 
 
-[Translate & Transfer](translate_transfer): Team members will learn to translate specific and applied research results into project-appropriate insights. They will also be learning to transfer those insights into business opportunities and a larger body of knowledge. 
+[Translate & Transfer](#translate_transfer): Team members will learn to translate specific and applied research results into project-appropriate insights. They will also be learning to transfer those insights into business opportunities and a larger body of knowledge. 
 
 #####Glossary of terms
 <span id ="empathy_autonomy">Empathy</span>: The capability to create a deep understanding and share the feeling of environment, team dynamics and team culture.
@@ -357,7 +357,7 @@ Decision-making: The capability to choose the most appropriate approaches and me
 <span id="responsibility_accountability">Responsibility</span>: The capability to take ownership of individual work in team efforts.
 Accountability: The capability to distinguish individual work from that of others and argue for it.
 
-<span id="translate_transfer">Translate: The capability to take results from research and/or creation and frame them into specific project-related requirements.
+<span id="translate_transfer">Translate</span>: The capability to take results from research and/or creation and frame them into specific project-related requirements.
 Transfer: The capability to convey insights from the project to a larger body of knowledge such as a theme-related academic discourse.
 
 
