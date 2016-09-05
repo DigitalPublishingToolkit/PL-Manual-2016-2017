@@ -569,7 +569,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>9</strong>, Friday</p>
- <p class="event afternoon" >SCRUM Workshop</p>
+ <p class="event afternoon" >SCREAM Training / Marco van Hout & Gijs Gootjes</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>10</strong>, Saturday</p>
@@ -587,7 +587,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>14</strong>, Wednesday</p>
- <p class="event" >Design Sprint</p>
+ <p class="event afternoon" >Workshop - Define Intentions / Charlie Mulholland</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>15</strong>, Thursday</p>
