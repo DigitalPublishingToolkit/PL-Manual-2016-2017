@@ -297,10 +297,10 @@ We decided to create an app that would enhance the non-linear quality of the nav
 ## <span id="SCREAM!">Design Approach - SCREAM!</span>
 This section explains how we work: the process and design approach for completing your project. This method is borrowed from the [MediaLAB Amsterdam](http://medialabamsterdam.com/) SCREAM! Design Approach, which is a problem-solving method that helps create and evaluate solutions in response to challenges. 
 
-Making teams effective and creative for complex challenges in a digital era. In an ideal design process there is a constant flow between researching and creating. SCREAM! facilitates this flow with a structured ‘common language’ for multidisciplinary design teams. MediaLAB Amsterdam introduces the SCREAM! approach that enables multidisciplinary teams (with members from various business units and background) to get started and structure their design and creative process. Teams work in short design sprints using the best elements of SCRUM [^SCRUM], supplemented by more design related rituals and artefacts that foster the creativity and human-centeredness along the way.  SCREAM! is therefore introduced in combination with the structured Design Method Toolkit, and the SCREAM app that will enable teams to plan and apply design methods in their projects, and create impactful solutions within short iterations. 
+Making teams effective and creative for complex challenges in a digital era. In an ideal design process there is a constant flow between researching and creating. SCREAM! facilitates this flow with a structured ‘common language’ for multidisciplinary design teams. MediaLAB Amsterdam introduces the SCREAM! approach that enables multidisciplinary teams (with members from various business units and background) to get started and structure their design and creative process. Teams work in short design sprints using the best elements of SCRUM [^SCRUM], supplemented by more design related rituals and artefacts that foster the creativity and human-centeredness along the way.  SCREAM! is therefore introduced in combination with the structured Design Method Toolkit that will enable teams to plan and apply design methods in their projects, and create impactful solutions within short iterations. 
 
 ### <span id="designprocess">Design Process</span>
-The MediaLAB Amsterdam design process helps create and evaluate solutions in response to challenges. In the process MediaLAB intends to evoke real curiosity in order to make students feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and test each idea, concept or prototype with actual users.
+The MediaLAB Amsterdam design process helps create and evaluate solutions in response to challenges. In the process PublishingLab intends to evoke real curiosity in order to make students feel highly motivated to find answers and solutions. This involves lots of iterations, making, prototyping, going out on field studies and test each idea, concept or prototype with actual users.
 
 ### <span id="researchtranslatecreate">Research, Translate And Create</span>
 At the start of every design challenge, and at the start of each new phase in the design process, research has a central role. Research provides plenty of insights; how people act/think/feel and who the intended users are, within the context of the challenge.
@@ -315,16 +315,16 @@ These insights are the key to a solution, but they have to be translated into ac
 SCREAM! design sprints are the basic unit of progress. The design sprint is a "timeboxed" effort; that is, it is restricted to a specific duration. The design sprint process is similar to Sprints in an agile development cycle such as in SCRUM; they incorporate the same principles of learning early. In addition to the three main rituals in the agile Sprint (planning, review, retrospective), SCREAM! Sprints characterize themselves with the addition of the Translate session in the middle of the sprint and the focus on design methods during the Sprint Planning. The SCREAM! design sprints in the PublishingLab programme have an average duration of three weeks. 
 
 ### <span id="rituals">Rituals</span>
-At the MediaLAB we use specific ‘rituals’ during each sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation session, and ends with a sprint review meeting and retrospective. During a sprint, the team has daily stand up meetings.
+At the PublishingLab we use specific ‘rituals’ during each sprint. Each sprint starts with an ideation and planning session, has a mid-sprint translation session, and ends with a sprint review meeting and retrospective. During a sprint, the team has stand up meetings.
 
 
 <img class="noshadow bigdiagram" src="imgs/figure2.svg" />
 
 <p class="caption">Figure 2. MediaLAB Amsterdam Design Process (source: Manual MediaLAB Design Process 2014).</p>
 
-<span class="numeral">1</span> Daily Stand-Up Meetings
+<span class="numeral">1</span> Stand-Up Meetings
 
-The daily standup meeting takes place at the same time and place of every working day. Held (first thing) in the morning, it helps set the context for the coming day's work. These standup meetings are strictly time-boxed to 15 minutes and all team members actually standup instead of sitting down. This keeps the discussion brisk but relevant.
+The standup meeting takes place at the same time and place of every working day. Held (first thing) in the morning, it helps set the context for the coming day's work. These standup meetings are strictly time-boxed to 15 minutes and all team members actually standup instead of sitting down. This keeps the discussion brisk but relevant.
 
 The daily standup meeting is not used as a problem-solving or issue resolution meeting. Issues raised are taken offline and usually dealt with immediately after the meeting. During the daily standup, each team member answers the following three questions:eam member answers the following three questions:
 
@@ -335,10 +335,8 @@ The daily standup meeting is not used as a problem-solving or issue resolution m
 <span class="numeral">2</span> Ideation And Planning
 
 Every sprint has an ‘ideation and planning’ session. In this session the creative process is triggered by the facilitation of a brainstorm and ideation session in which ideas are identified and quickly sketched.
-
 The most promising ideas are placed in a hierarchy and it is decided which have potential to be taken along in this sprint. After this, tasks are identified, but more importantly the exact sprint goal (and duration) is defined.
-
-Last but not least, in this session a plan board in combination with the Design Method Toolkit is used to identify which methods are going to be used and how they are going to be executed during the sprint.
+Last but not least, in this session the Design Method Toolkit is used to identify which methods are going to be used and how they are going to be executed during the sprint.
 
 
 <span class="numeral">3</span> Translate and Transfer
@@ -360,7 +358,7 @@ A key principle of SCREAM! is the integration of research and design in general 
 The short sprints, fixed rituals, sessions and deliverable moments improve motivation and enhance learning and transfer between the different phases of the design process (for individual & team). SCREAM! fosters an iterative approach, productivity, planning, decision-making, creativity, applied research and the self-directing character of a team.
 The design methodology supports teams to develop and evolve collective design competences (‘navigation’ & ‘negotiation’).
 
-The interdisciplinarity and cross-influences between ideas and practice increase the body of knowledge, skills and opportunities, resulting in higher levels of performance. Individuals within a team choose the role that fits their own expertise. Therefore, if the team manages to have a shared vision/goals, this will address the collaborative and reflective learning principles of MediaLAB Amsterdam.
+The interdisciplinarity and cross-influences between ideas and practice increase the body of knowledge, skills and opportunities, resulting in higher levels of performance. Individuals within a team choose the role that fits their own expertise. Therefore, if the team manages to have a shared vision/goals, this will address the collaborative and reflective learning principles.
 
 In summary, the following behavioral capabilities and competences are strengthened by SCREAM!:
 
@@ -377,22 +375,22 @@ In summary, the following behavioral capabilities and competences are strengthen
 [Translate & Transfer](#translate_transfer): Team members will learn to translate specific and applied research results into project-appropriate insights. They will also be learning to transfer those insights into business opportunities and a larger body of knowledge. 
 
 #####Glossary of terms
-<span id ="empathy_autonomy">Empathy</span>: The capability to create a deep understanding and share the feeling of environment, team dynamics and team culture.
+<span id ="empathy_autonomy">Empathy</span> : The capability to create a deep understanding and share the feeling of environment, team dynamics and team culture.
 Autonomy: The capability to individually navigate insecure environments and find a balance between personal and professional attention.
 
-<span id="leadership_collaboration">Leadership</span>: The capability to step up and make decisions for the team at any point while maintaining a group focus.
+<span id="leadership_collaboration">Leadership</span> : The capability to step up and make decisions for the team at any point while maintaining a group focus.
 Collaboration: The capability to select, find and work with another person or group in order to achieve a common goal. 
 
-<span id="negotiation_navagotion">Negotiation</span>: The capability to argue for and make complex decisions in dynamic environments.
+<span id="negotiation_navagotion">Negotiation</span> : The capability to argue for and make complex decisions in dynamic environments.
 Navigation: The capability to hold and facilitate complex relationships with multiple stakeholders.
 
-<span id="articulation_decision">Articulation</span>: The capability to formulate specific goals with clear definitions of deliverables.
+<span id="articulation_decision">Articulation</span> : The capability to formulate specific goals with clear definitions of deliverables.
 Decision-making: The capability to choose the most appropriate approaches and methods to achieve the project-specific goals.
 
-<span id="responsibility_accountability">Responsibility</span>: The capability to take ownership of individual work in team efforts.
+<span id="responsibility_accountability">Responsibility</span> : The capability to take ownership of individual work in team efforts.
 Accountability: The capability to distinguish individual work from that of others and argue for it.
 
-<span id="translate_transfer">Translate</span>: The capability to take results from research and/or creation and frame them into specific project-related requirements.
+<span id="translate_transfer">Translate</span> : The capability to take results from research and/or creation and frame them into specific project-related requirements.
 Transfer: The capability to convey insights from the project to a larger body of knowledge such as a theme-related academic discourse.
 
 
@@ -403,8 +401,8 @@ In addition, students are immersed in a program of workshops, master classes, le
 ### <span id="workshops">Workshops, Masterclasses and Lectures</span>
 During the semester we offer you several possiblities to expand your knowledge and experience via workshops, masterclasses and lectures.
 
-#### <span id="scrumtraining">SCRUM</span>
-To structure the collaborative process of your project, we use the Scrum method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
+#### <span id="SCREAM!">SCREAM<!/span>
+To structure the collaborative process of your project, we use the SCREAM! method discussed above. By setting clearly defined goals and dividing roles and tasks between team members, the method allows for an iterative approach to challenges and breaks larger goals up into achievable parts. During this workshop you will familiarize with this way of working.
 
 #### <span id="presentation">Pitch Training</span>
 Working on a project for a client means that you have to present your research, findings, plans and advice to them in a professional manner. This training is designed to help you make well structured and convincing pitch.
