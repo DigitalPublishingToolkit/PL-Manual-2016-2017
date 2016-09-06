@@ -633,11 +633,7 @@ San Serriffe – Art book shop (with good talks/book launches) Sint Annenstraat 
 </div>
 <div class="cell event-inside">
  <p class="date" >Sept <strong>14</strong>, Wednesday</p>
-<<<<<<< HEAD
- <p class="event afternoon" >Workshop - Define Intentions / Charlie Mulholland</p>
-=======
- <p class="event" >Workshop - Define Intensions  / Charlie Mulholland / 09.30 - 12.30</p>
->>>>>>> d929358970b5d51aec32fa1ad4e5940ef2cf2e59
+ <p class="event afternoon" >Workshop - Define Intensions  / Charlie Mulholland / 09.30 - 12.30</p>
 </div>
 <div class="cell">
  <p class="date" >Sept <strong>15</strong>, Thursday</p>
