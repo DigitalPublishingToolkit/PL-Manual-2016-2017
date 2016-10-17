@@ -25,7 +25,7 @@ folders:
 	mkdir scribus_html/ ;
 
 
-markdowns:$(alldocx) # convert docx to md
+markdowns: $(alldocx) # convert docx to md
 	for i in $(alldocx) ; \
 	do md=md/`basename $$i .docx`.md ; \
 	echo "File" $$i $$md ; \
@@ -104,6 +104,16 @@ html: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/co
 		../md/book.md ;
 	cd html && sed -i -e 's/src="imgs/src="..\/md\/imgs/g' book.html ; # change links of images
 
+# Created by Thomas Walskaar 2016 www.walska.com
+floppy: clean $(allmarkdown) book.md epub/metadata.xml css/styles.epub.css epub/cover.jpg 
+	cd txt && pandoc \
+		--from markdown \
+		--to plain \
+		-s \
+		-o book.txt \
+		../md/book.md ; \
+	rm /Volumes/FLOPPY/* ; \
+	python ../scripts/floppynetwork.py book.txt /Volumes/FLOPPY # location of the floppy device
 
 clean:  # remove outputs
 	rm -f md/book.md  
